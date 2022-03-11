@@ -55,3 +55,8 @@ def fromPostSelfReport(filepath:str = './data/Cold_Post_selfreport.csv'):
 
     # formJson
 
+def fromBaseline(filepath:str = './data/Cold_Post_selfreport.csv'):
+    """
+    :param filepath:
+    :return:
+    """

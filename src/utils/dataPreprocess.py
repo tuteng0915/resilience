@@ -1,3 +1,6 @@
+"""
+Data Preprocessing
+"""
 import os
 import pandas as pd
 import numpy as np
@@ -14,9 +17,16 @@ def dataPreprocess(write=False):
         file = file.dropna(axis=0, how='all')
         temp = []
         if fileName == 'Baseline_selfreport.csv':
-            pass
+            file = file.drop([0, 1], axis=0)
+            for j in file.keys()[17:-2]:
+                temp.append(file[j].values)
+            df = pd.DataFrame(np.array(temp).T, columns=file.keys()[17:-2])
+            df.sort_values([file.keys()[19]], ascending=True, inplace=True)
+            df.reset_index(drop=True, inplace=True)
+            if write:
+                df.to_csv(r'./data/' + fileName)
+            all_data.append(pd.DataFrame(np.array(temp).T, columns=file.keys()[17:-2]))
         elif fileName not in ['CognitiveData_Cold.csv', 'CognitiveData_Hot.csv']:
-            print(file)
             if fileName == 'Cold_Post_selfreport.csv':
                 file = file.drop([1, 3], axis=0)
             else:
@@ -39,3 +49,4 @@ def dataPreprocess(write=False):
                 df.to_csv(r'./data/' + fileName)
             all_data.append(pd.DataFrame(np.array(temp).T, columns=file.keys()))
     #print(all_data)
+    return all_data

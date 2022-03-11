@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/NP.iml" filepath="$PROJECT_DIR$/.idea/NP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/resilience.iml" filepath="$PROJECT_DIR$/.idea/resilience.iml" />
     </modules>
   </component>
 </project>
