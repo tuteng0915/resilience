@@ -1,0 +1,2834 @@
+[
+    {
+        "firstName": "Briana Sun",
+        "lastName": "nan",
+        "age": 10,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Ingo",
+        "lastName": "Roughley",
+        "age": 10,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Orlaith Dill",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Ian",
+        "lastName": "Johnson",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Andreas Bai",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Garion O'Hehir",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.75
+        }
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Barnes",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Willard \"Hayes\"",
+        "lastName": "Thompson",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Mateo",
+        "lastName": "Sierra",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Sylvia",
+        "lastName": "Crittenden",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Wesley Acton",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Mattia",
+        "lastName": "Farmer",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Mia Brassell",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Oliver Song",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Elsie Miller",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Maia Shen",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "James Tan-Aristy",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Leah Cooper",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Calvin Long",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Ethan Yu",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 1.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "EMILIANO BLACK",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Mia Andreoli",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 1.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Alexandre",
+        "lastName": "Hurel ",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Sophie Reynolds",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Alivia Rossi",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Adrian",
+        "lastName": "Caraballo",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Damian Hanford",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Maya",
+        "lastName": "Antal",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Lydia",
+        "lastName": "Martin",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Lauren Lin",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 1.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Jessica",
+        "lastName": "Meyer",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Sophie",
+        "lastName": "Kang",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Kelsey Senner",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Oliver",
+        "lastName": "Lavallee",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Paolo Caggioni",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Jack Reynolds ",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Olivia Long",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Marlon",
+        "lastName": "Beram",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Lindsay",
+        "lastName": "Kwon",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Nava Galperin",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Liam",
+        "lastName": "Maio",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Alexander",
+        "lastName": "Picker",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Michelle",
+        "lastName": "Gee",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Audrey",
+        "lastName": "Heyniger",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Carver",
+        "lastName": "Heyniger",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Robby",
+        "lastName": "Mohler ",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Claire Foster",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Olivia Zawada",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Skye",
+        "lastName": "Bowers",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Joyce",
+        "lastName": "Chan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 1.0
+        }
+    },
+    {
+        "firstName": "Yasha",
+        "lastName": "Vasilyev",
+        "age": 12,
+        "gender": "Decline to answer",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Hano",
+        "lastName": "Roughley",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Cooper",
+        "lastName": "Katz",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.0,
+            "SMM_G_2": 1.0,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Mateus",
+        "lastName": "Verdi",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Isabella ",
+        "lastName": "Antal",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Claire",
+        "lastName": "Weems",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Jasper",
+        "lastName": "Blachly-Nelson",
+        "age": 12,
+        "gender": "Other",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Aarush",
+        "lastName": "Maddi",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Catherine",
+        "lastName": "Johnson",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Saras",
+        "lastName": "Raghavan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Quintyn",
+        "lastName": "Scott",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 1.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Jaden",
+        "lastName": "Brophy",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Jason",
+        "lastName": "Russello",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Elizabeth",
+        "lastName": "Alderfer",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Charlie",
+        "lastName": "Gomes Casseres",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Q",
+        "lastName": "Cook",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Faris",
+        "lastName": "Kassem",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Kathy",
+        "lastName": "Lin",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Gryffin",
+        "lastName": "Marks",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Blakemore",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Lydia Ellingwood",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Charles Johnson",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Cameron Jones",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Conor Hicke",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Annie Talone",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Colette Murray Hayden",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Sai Pranav Gandhi",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Mae Alwart",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Sanviti Amarnath ",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Natalie Merriam",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Carys Green",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Theodore Salvin",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Cam ",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "OwenSamuel",
+        "lastName": "Kawecki",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Benjamin",
+        "lastName": "Jacobson",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 1.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Alayna",
+        "lastName": "Dana",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Juliette",
+        "lastName": "Kopala",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Ethan Matas",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Emma Hicke",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Jonah ",
+        "lastName": "Nicholas",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Kuo, Logan",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Damon",
+        "lastName": "Foxe",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Bront\u00eb",
+        "lastName": "Wohlleben",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Kaelan",
+        "lastName": "Curran",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Adam Veliz",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Sophia",
+        "lastName": "Romanow",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Kalle",
+        "lastName": "Nikula-Gill",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Shannon",
+        "lastName": "Raneri",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Tessa",
+        "lastName": "Chesloff",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Gabi Matas",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Ion",
+        "lastName": "Cook",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Caroline",
+        "lastName": "Rapp",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Aniceta",
+        "lastName": "Bochnak",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Dayllen Freire-Depina",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Andy Pham",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "de Monchaux Charles",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Francisco X. Zambrano",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.75
+        }
+    },
+    {
+        "firstName": "Matthew Lubarsky",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "luc",
+        "lastName": "clemenceau",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Finley Long",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Chase Roberts",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Erik Miller",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Jonathan Andreoli",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Lorenzo Blackston ",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Lachlan ",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Chad Velez",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Amanda",
+        "lastName": "Offsey",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 1.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.75
+        }
+    },
+    {
+        "firstName": "Talia",
+        "lastName": "Cerqueira ",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Juliana",
+        "lastName": "Vitello",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Thomas",
+        "lastName": "Blake",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "greta",
+        "lastName": "martin",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Nathan ",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Eden Grossman",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Danielle",
+        "lastName": "Russello",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Donovan Carroll ",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Maddie",
+        "lastName": "Song",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Nishma",
+        "lastName": "Tajnia",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "David",
+        "lastName": "Furtek",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 1.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.75
+        }
+    },
+    {
+        "firstName": "Kate",
+        "lastName": "Singer",
+        "age": 14,
+        "gender": "Non-binary",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Davis",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Isabelle Merriam ",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Edgar",
+        "lastName": "Nava",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Noah Miller",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "John-Michael Waldron ",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Fitz Green",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Samuel Davis",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "John Tan-Aristy",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Ikshula Prasad",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Adam ",
+        "lastName": "Bonanno",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Sadie",
+        "lastName": "Chesloff",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Ben Rossi",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Anna",
+        "lastName": "Du",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Tenzin Jamyang",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Maya",
+        "lastName": "Perry",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "kayley",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Abby ",
+        "lastName": "De Buck",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Katy",
+        "lastName": "Jiang",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Laila ",
+        "lastName": "Ramirez ",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Scarlett",
+        "lastName": "Kopala",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Aarav Vijay",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Brandon",
+        "lastName": "Douglas",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Jack Armstrong ",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Inara Barker",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Karina",
+        "lastName": "Rodriguez",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Gracen Golebiewski",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Tina",
+        "lastName": "Nguyen ",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Fionnuala Dill",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Devin",
+        "lastName": "Walsh",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Caroline Murray Hayden",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Jack Ellingwood",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Michelle ",
+        "lastName": "Do",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Avery Donschikowski",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Oliver",
+        "lastName": "Copps",
+        "age": 16,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Nayeli",
+        "lastName": "Perez",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Vivi",
+        "lastName": "Han",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Claire Wang",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Melina Menghi",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Madelin",
+        "lastName": "Singer",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Zachary Dubuc",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Bryce",
+        "lastName": "Hilliard",
+        "age": 16,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 1.0,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 1.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Leyna Pham",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.75
+        }
+    },
+    {
+        "firstName": "Siena Fershtman",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Julie Breedveld",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "firstName": "Krystal Gan",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "firstName": "Jackson Hicke",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "firstName": "Guangchun",
+        "lastName": "Fu",
+        "age": 17,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.75
+        }
+    },
+    {
+        "firstName": "Santiago Derrien",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    }
+]
