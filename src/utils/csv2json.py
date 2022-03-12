@@ -20,9 +20,9 @@ def fromCognitiveData(filepath='./data/CognitiveData_Hot.csv'):
     :param filepath
     :return: str(json), dict(userId: dict(..))
     """
-    # load from csv
     file = pd.read_csv(filepath)
     js = list(dict())
+    dic = dict()
     for index, row in file.iterrows():
 
         inhibition = float(0)
@@ -68,17 +68,20 @@ def fromCognitiveData(filepath='./data/CognitiveData_Hot.csv'):
         }
         # print(entity)
         js.append(entity)
-    print(js)
+        dic[int(row['User'])] = entity.copy()
     with open('./data/json/CognitiveData_Hot.json', encoding='utf8', mode='w') as f:
         json.dump(js, f, indent=4)
+    print(dic)
+    return dic
 
 
 def fromPreSelfReport(filepath: str = './data/Cold_Pre_selfreport.csv'):
     """
     Get a simplified json containing only the columns we care about
     [{
-
-
+        'VAS':,
+        'STAI':[]
+        'PSS':
     },]
     :param filepath
     :return: str(json), dict(userId: dict(..))
@@ -103,8 +106,27 @@ def fromPostSelfReport(filepath: str = './data/Cold_Post_selfreport.csv'):
     # formJson
 
 
-def fromBaseline(filepath: str = './data/Cold_Post_selfreport.csv'):
+def fromBaseline(filepath: str = './data/Baseline_selfreport.csv'):
     """
-    :param filepath:
+    Only Stress Mindset General included
+    :param filepath
     :return:
     """
+    file = pd.read_csv(filepath)
+    js = list(dict())
+    for index, row in file.iterrows():
+        entity = {"firstName": str(row['Q2']),
+                  "lastName": str(row['Q14']),
+                  "age": int(float(row['Q3'])),
+                  "gender": str(row['Q5'])}
+        smm = dict()
+        for i in range(8):
+            smm['SMM_G_' + str(i + 1)] = (float(row['Q9_' + str(i + 1)]) - 1.0) / 4
+        entity['SMM_G'] = smm.copy()
+        # print(entity)
+        js.append(entity)
+    with open('./data/json/Baseline_selfreport.json', encoding='utf8', mode='w') as f:
+        json.dump(js, f, indent=4)
+    return js
+
+

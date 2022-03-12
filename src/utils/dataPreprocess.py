@@ -37,17 +37,28 @@ def dataPreprocess(write=False):
                 df.to_csv(r'./data/' + fileName)
             all_data.append(pd.DataFrame(np.array(temp).T, columns=file.keys()))
         else:
+            print(file)
             if fileName == 'Cold_Post_selfreport.csv':
                 file = file.drop([1, 3], axis=0)
             else:
                 file = file.drop([0, 1], axis=0)
-            for j in file.keys()[17:-1]:
-                temp.append(file[j].values)
-            df = pd.DataFrame(np.array(temp).T, columns=file.keys()[17:-1])
+            if fileName in ['Cold_Post_selfreport.csv', 'Hot_Post_selfreport.csv']:
+                for j in file.keys()[17:-1]:
+                    temp.append(file[j].values)
+                df = pd.DataFrame(np.array(temp).T, columns=file.keys()[17:-1])
+            else:
+                for j in file.keys()[17:]:
+                    temp.append(file[j].values)
+                df = pd.DataFrame(np.array(temp).T, columns=file.keys()[17:])
+
             df.sort_values([file.keys()[17]], ascending=True, inplace=True)
             df.reset_index(drop=True, inplace=True)
             if write:
                 df.to_csv(r'./data/'+fileName)
-            all_data.append(pd.DataFrame(np.array(temp).T, columns=file.keys()[17:-1]))
+
+            if fileName in ['Cold_Post_selfreport.csv', 'Hot_Post_selfreport.csv']:
+                all_data.append(pd.DataFrame(np.array(temp).T, columns=file.keys()[17:-1]))
+            else:
+                all_data.append(pd.DataFrame(np.array(temp).T, columns=file.keys()[17:]))
     #print(all_data)
     return all_data
