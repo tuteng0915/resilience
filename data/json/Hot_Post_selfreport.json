@@ -1,0 +1,3626 @@
+[
+    {
+        "userId": 0,
+        "VAS_Post_Hot": 0.17,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.0,
+            "content": 0.5,
+            "worried": 0.5
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.25,
+            "PSS_3": 0.25,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.6,
+        "Engagement_Hot": 0.25,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 0,
+        "VAS_Post_Hot": 0.55,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.25,
+            "upset": 0.25,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.25,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.25,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 401,
+        "VAS_Post_Hot": 0.09,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 403,
+        "VAS_Post_Hot": 0.15,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.0
+    },
+    {
+        "userId": 403,
+        "VAS_Post_Hot": 0.05,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 404,
+        "VAS_Post_Hot": 0.05,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 405,
+        "VAS_Post_Hot": 0.02,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 406,
+        "VAS_Post_Hot": 0.5,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.5,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 407,
+        "VAS_Post_Hot": 0.05,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 408,
+        "VAS_Post_Hot": 0.3,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 1.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 409,
+        "VAS_Post_Hot": 0.0,
+        "STAI_Post_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.25,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 410,
+        "VAS_Post_Hot": 0.4,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 411,
+        "VAS_Post_Hot": 0.3,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.25,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 412,
+        "VAS_Post_Hot": 0.3,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 413,
+        "VAS_Post_Hot": 0.2,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 1.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 415,
+        "VAS_Post_Hot": 0.18,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.75,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 416,
+        "VAS_Post_Hot": 0.22,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.75
+        },
+        "Threatening_Hot": 0.75,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.19999999999999996,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 1.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 417,
+        "VAS_Post_Hot": 0.22,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.75,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 418,
+        "VAS_Post_Hot": 0.05,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 419,
+        "VAS_Post_Hot": 0.82,
+        "STAI_Post_Hot": {
+            "calm": 0.0,
+            "tense": 0.75,
+            "upset": 0.5,
+            "relaxed": 0.0,
+            "content": 0.0,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.25,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        },
+        "Threatening_Hot": 0.75,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.4,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 1.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 420,
+        "VAS_Post_Hot": 0.46,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 1.0
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 421,
+        "VAS_Post_Hot": 0.65,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.75,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.5,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 422,
+        "VAS_Post_Hot": 0.01,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 423,
+        "VAS_Post_Hot": 0.09,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 424,
+        "VAS_Post_Hot": 0.02,
+        "STAI_Post_Hot": {
+            "calm": 1.0,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 1.0,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 425,
+        "VAS_Post_Hot": 0.76,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.75,
+            "upset": 0.5,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.75
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.75
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.6,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 1.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 426,
+        "VAS_Post_Hot": 0.4,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.75,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.6,
+        "Engagement_Hot": 0.25,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 427,
+        "VAS_Post_Hot": 0.19,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.0,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 428,
+        "VAS_Post_Hot": 0.65,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.75,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.5,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 429,
+        "VAS_Post_Hot": 0.71,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.75,
+            "upset": 0.25,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.4,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 430,
+        "VAS_Post_Hot": 0.1,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 431,
+        "VAS_Post_Hot": 0.0,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 432,
+        "VAS_Post_Hot": 0.35,
+        "STAI_Post_Hot": {
+            "calm": 0.0,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 433,
+        "VAS_Post_Hot": 0.35,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.0,
+            "content": 0.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 434,
+        "VAS_Post_Hot": 0.6,
+        "STAI_Post_Hot": {
+            "calm": 0.0,
+            "tense": 0.5,
+            "upset": 0.75,
+            "relaxed": 0.0,
+            "content": 0.0,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.5,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 435,
+        "VAS_Post_Hot": 0.23,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.75,
+            "upset": 0.25,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.5
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 436,
+        "VAS_Post_Hot": 0.35,
+        "STAI_Post_Hot": {
+            "calm": 0.0,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 437,
+        "VAS_Post_Hot": 0.9,
+        "STAI_Post_Hot": {
+            "calm": 0.0,
+            "tense": 0.75,
+            "upset": 0.25,
+            "relaxed": 0.0,
+            "content": 0.0,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.75,
+        "Ability_Hot": 0.25,
+        "Confident_Hot": 0.5,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 438,
+        "VAS_Post_Hot": 0.6,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.25,
+            "relaxed": 0.5,
+            "content": 0.25,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.5,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 439,
+        "VAS_Post_Hot": 0.61,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.25,
+            "PSS_3": 0.25,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 440,
+        "VAS_Post_Hot": 0.5,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.25,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.5
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 441,
+        "VAS_Post_Hot": 0.02,
+        "STAI_Post_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.0
+    },
+    {
+        "userId": 442,
+        "VAS_Post_Hot": 0.5,
+        "STAI_Post_Hot": {
+            "calm": 0.0,
+            "tense": 0.25,
+            "upset": 0.25,
+            "relaxed": 0.0,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 444,
+        "VAS_Post_Hot": 0.06,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 445,
+        "VAS_Post_Hot": 0.27,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 1.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 446,
+        "VAS_Post_Hot": 0.13,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 447,
+        "VAS_Post_Hot": 0.2,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.4,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 448,
+        "VAS_Post_Hot": 0.1,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.75,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 1.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 450,
+        "VAS_Post_Hot": 0.35,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.25,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.25,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 451,
+        "VAS_Post_Hot": 0.0,
+        "STAI_Post_Hot": {
+            "calm": 1.0,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.25,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 452,
+        "VAS_Post_Hot": 0.4,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 1.0,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.75
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.25,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 453,
+        "VAS_Post_Hot": 0.3,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.25,
+            "PSS_3": 0.25,
+            "PSS_4": 0.75
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 454,
+        "VAS_Post_Hot": 0.25,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 455,
+        "VAS_Post_Hot": 0.92,
+        "STAI_Post_Hot": {
+            "calm": 0.0,
+            "tense": 0.75,
+            "upset": 0.5,
+            "relaxed": 0.0,
+            "content": 0.0,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 1.0,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.30000000000000004,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 1.0,
+        "Difficulty_Hot": 1.0
+    },
+    {
+        "userId": 456,
+        "VAS_Post_Hot": 0.3,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 1.0,
+            "PSS_4": 0.75
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 457,
+        "VAS_Post_Hot": 0.01,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 458,
+        "VAS_Post_Hot": 0.0,
+        "STAI_Post_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 459,
+        "VAS_Post_Hot": 0.01,
+        "STAI_Post_Hot": {
+            "calm": 0.0,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.0,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.25,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 460,
+        "VAS_Post_Hot": 0.31,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 461,
+        "VAS_Post_Hot": 0.03,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 462,
+        "VAS_Post_Hot": 0.2,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 463,
+        "VAS_Post_Hot": 0.11,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.75
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 464,
+        "VAS_Post_Hot": 0.05,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.25,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 465,
+        "VAS_Post_Hot": 0.01,
+        "STAI_Post_Hot": {
+            "calm": 0.0,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 466,
+        "VAS_Post_Hot": 0.03,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 467,
+        "VAS_Post_Hot": 0.3,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.25,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 468,
+        "VAS_Post_Hot": 0.07,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.25,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 469,
+        "VAS_Post_Hot": 0.17,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 470,
+        "VAS_Post_Hot": 0.01,
+        "STAI_Post_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.0
+    },
+    {
+        "userId": 471,
+        "VAS_Post_Hot": 0.05,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 472,
+        "VAS_Post_Hot": 0.4,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 473,
+        "VAS_Post_Hot": 0.25,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 474,
+        "VAS_Post_Hot": 0.3,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 475,
+        "VAS_Post_Hot": 0.49,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.75
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 1.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 477,
+        "VAS_Post_Hot": 0.24,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.75
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 478,
+        "VAS_Post_Hot": 0.06,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 479,
+        "VAS_Post_Hot": 0.1,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 480,
+        "VAS_Post_Hot": 0.15,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 481,
+        "VAS_Post_Hot": 0.1,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.25,
+            "worried": 0.5
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.25,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 484,
+        "VAS_Post_Hot": 0.5,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.75,
+            "upset": 0.0,
+            "relaxed": 0.0,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.5,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 485,
+        "VAS_Post_Hot": 0.3,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.25,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.75,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 486,
+        "VAS_Post_Hot": 0.25,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 487,
+        "VAS_Post_Hot": 0.65,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.75,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.5
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.25,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.5,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 1.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 488,
+        "VAS_Post_Hot": 0.16,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.25,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 489,
+        "VAS_Post_Hot": 0.01,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.75,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 490,
+        "VAS_Post_Hot": 0.51,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.0
+    },
+    {
+        "userId": 492,
+        "VAS_Post_Hot": 0.02,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 494,
+        "VAS_Post_Hot": 0.5,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.75,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.25,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.25,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 0.25,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 496,
+        "VAS_Post_Hot": 0.3,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 497,
+        "VAS_Post_Hot": 0.15,
+        "STAI_Post_Hot": {
+            "calm": 1.0,
+            "tense": 1.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 498,
+        "VAS_Post_Hot": 0.28,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.75,
+            "worried": 0.5
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.5,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 499,
+        "VAS_Post_Hot": 0.01,
+        "STAI_Post_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 500,
+        "VAS_Post_Hot": 0.19,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.75,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 50036,
+        "VAS_Post_Hot": 0.02,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.0,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 501,
+        "VAS_Post_Hot": 0.03,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 502,
+        "VAS_Post_Hot": 0.31,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.25,
+            "upset": 0.25,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 1.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.0,
+            "PSS_4": 1.0
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 503,
+        "VAS_Post_Hot": 0.15,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 504,
+        "VAS_Post_Hot": 0.7,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.75,
+            "upset": 0.0,
+            "relaxed": 0.0,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.75,
+            "PSS_4": 1.0
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.5,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 505,
+        "VAS_Post_Hot": 0.19,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.5,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 506,
+        "VAS_Post_Hot": 0.3,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 507,
+        "VAS_Post_Hot": 0.1,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 1.0,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 508,
+        "VAS_Post_Hot": 0.17,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.25,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 509,
+        "VAS_Post_Hot": 0.15,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.0,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.4,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 510,
+        "VAS_Post_Hot": 0.3,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.25,
+            "relaxed": 0.25,
+            "content": 0.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.25,
+            "PSS_3": 0.25,
+            "PSS_4": 1.0
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 511,
+        "VAS_Post_Hot": 0.5,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 513,
+        "VAS_Post_Hot": 0.01,
+        "STAI_Post_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 514,
+        "VAS_Post_Hot": 0.64,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.5,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.5
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.75,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 515,
+        "VAS_Post_Hot": 0.1,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.25,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 516,
+        "VAS_Post_Hot": 0.64,
+        "STAI_Post_Hot": {
+            "calm": 0.0,
+            "tense": 0.75,
+            "upset": 0.0,
+            "relaxed": 0.0,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.75,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 517,
+        "VAS_Post_Hot": 0.1,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.6,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 518,
+        "VAS_Post_Hot": 0.1,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 519,
+        "VAS_Post_Hot": 0.5,
+        "STAI_Post_Hot": {
+            "calm": 0.0,
+            "tense": 0.75,
+            "upset": 0.75,
+            "relaxed": 0.0,
+            "content": 0.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.5,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.6,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 520,
+        "VAS_Post_Hot": 0.2,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 521,
+        "VAS_Post_Hot": 0.12,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 1.0
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 522,
+        "VAS_Post_Hot": 0.08,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.25,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.6,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 523,
+        "VAS_Post_Hot": 0.4,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.25,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.6,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 1.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 524,
+        "VAS_Post_Hot": 0.4,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.25,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 1.0,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.5,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 1.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 525,
+        "VAS_Post_Hot": 0.4,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.75,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 527,
+        "VAS_Post_Hot": 0.15,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 528,
+        "VAS_Post_Hot": 0.21,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.25,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.30000000000000004,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 529,
+        "VAS_Post_Hot": 0.15,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 530,
+        "VAS_Post_Hot": 0.3,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.25,
+            "relaxed": 0.5,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 531,
+        "VAS_Post_Hot": 0.61,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.25,
+            "relaxed": 0.0,
+            "content": 0.75,
+            "worried": 0.5
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.6,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 532,
+        "VAS_Post_Hot": 0.78,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.75
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 533,
+        "VAS_Post_Hot": 0.38,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 534,
+        "VAS_Post_Hot": 0.4,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.6,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 535,
+        "VAS_Post_Hot": 0.02,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 537,
+        "VAS_Post_Hot": 0.05,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 538,
+        "VAS_Post_Hot": 0.1,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.75,
+            "PSS_3": 0.25,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 539,
+        "VAS_Post_Hot": 0.04,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 541,
+        "VAS_Post_Hot": 0.0,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 542,
+        "VAS_Post_Hot": 0.05,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 543,
+        "VAS_Post_Hot": 0.65,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.75,
+            "upset": 0.25,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.5
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 544,
+        "VAS_Post_Hot": 0.46,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.25,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.25,
+            "PSS_3": 0.25,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.4,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.0
+    },
+    {
+        "userId": 545,
+        "VAS_Post_Hot": 0.45,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.25,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 546,
+        "VAS_Post_Hot": 0.5,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.25,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 547,
+        "VAS_Post_Hot": 0.19,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 548,
+        "VAS_Post_Hot": 0.3,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 549,
+        "VAS_Post_Hot": 0.02,
+        "STAI_Post_Hot": {
+            "calm": 0.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.5,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 550,
+        "VAS_Post_Hot": 0.4,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 551,
+        "VAS_Post_Hot": 0.05,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.0,
+            "content": 0.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 552,
+        "VAS_Post_Hot": 0.01,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 553,
+        "VAS_Post_Hot": 0.4,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 554,
+        "VAS_Post_Hot": 0.24,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.25,
+            "relaxed": 0.75,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 1.0,
+            "PSS_2": 0.25,
+            "PSS_3": 0.25,
+            "PSS_4": 1.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 0.7,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.25
+    },
+    {
+        "userId": 555,
+        "VAS_Post_Hot": 0.01,
+        "STAI_Post_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 1.0
+        },
+        "Threatening_Hot": 0.0,
+        "Ability_Hot": 1.0,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 1.0,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.0
+    },
+    {
+        "userId": 556,
+        "VAS_Post_Hot": 0.28,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.75,
+            "upset": 0.5,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 1.0,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.8,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 557,
+        "VAS_Post_Hot": 0.1,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.0,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 560,
+        "VAS_Post_Hot": 0.6,
+        "STAI_Post_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.5,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.6,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 562,
+        "VAS_Post_Hot": 0.02,
+        "STAI_Post_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 0.9,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    },
+    {
+        "userId": 563,
+        "VAS_Post_Hot": 0.65,
+        "STAI_Post_Hot": {
+            "calm": 0.0,
+            "tense": 0.75,
+            "upset": 0.25,
+            "relaxed": 0.25,
+            "content": 0.0,
+            "worried": 0.75
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.25,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        },
+        "Threatening_Hot": 0.75,
+        "Ability_Hot": 0.5,
+        "Confident_Hot": 0.4,
+        "Engagement_Hot": 0.5,
+        "Excited_Hot": 0.75,
+        "Difficulty_Hot": 0.75
+    },
+    {
+        "userId": 564,
+        "VAS_Post_Hot": 0.07,
+        "STAI_Post_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Post_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        },
+        "Threatening_Hot": 0.25,
+        "Ability_Hot": 0.75,
+        "Confident_Hot": 1.0,
+        "Engagement_Hot": 0.75,
+        "Excited_Hot": 0.25,
+        "Difficulty_Hot": 0.5
+    }
+]

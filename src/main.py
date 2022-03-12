@@ -5,4 +5,4 @@ from utils.csv2json import fromCognitiveData, fromPreSelfReport, fromPostSelfRep
 
 
 if __name__ == '__main__':
-    fromPreSelfReport()
+    fromPostSelfReport()

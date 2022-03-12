@@ -113,19 +113,47 @@ def fromPreSelfReport(filepath: str = './data/Hot_Pre_selfreport.csv', mode: str
     return js
 
 
-def fromPostSelfReport(filepath: str = './data/Cold_Post_selfreport.csv'):
+def fromPostSelfReport(filepath: str = './data/Cold_Post_selfreport.csv', mode: str = "Cold"):
     """
     Get a simplified json containing only the columns we care about
     [{
-
-
+        'userId':,
+        'VAS':,
+        'STAI':{}
+        'PSS':{}
     },]
     :param filepath
+    :param mode: Cold or Hot
     :return: str(json), dict(userId: dict(..))
     """
-    # load from csv
+    stai_label = ['calm', 'tense', 'upset', 'relaxed', 'content', 'worried']
+    file = pd.read_csv(filepath)
+    js = list(dict())
+    dic = dict()
+    for index, row in file.iterrows():
+        entity = {"userId": int(row['Q1'])}
+        entity[str("VAS_Post_" + mode)] = float(row['Q13_1']) / 100
+        stai = dict()
+        for i in range(6):
+            stai[stai_label[i]] = (float(row['Q2_' + str(i + 1)]) - 1.0) / 4
+        entity['STAI_Post_' + mode] = stai.copy()
+        pss = dict()
+        for i in range(4):
+            pss['PSS_' + str(i + 1)] = (float(row['Q3_' + str(i + 1)]) - 1.0) / 4
+        entity['PSS_Post_' + mode] = pss.copy()
 
-    # formJson
+        entity['Threatening_' + mode] = (float(row['Q4_1']) - 1.0) / 4
+        entity['Ability_' + mode] = (float(row['Q5_1']) - 1.0) / 4
+        entity['Confident_' + mode] = 1.0 - (float(row['Q6_1']) - 1.0) / 10
+        entity['Engagement_' + mode] = (float(row['Q9_1']) - 1.0) / 4
+        entity['Excited_' + mode] = (float(row['Q10_1']) - 1.0) / 4
+        entity['Difficulty_' + mode] = (float(row['Q11_1']) - 1.0) / 4
+
+        # print(entity)
+        js.append(entity)
+    with open('./data/json/Cold_Post_selfreport.json', encoding='utf8', mode='w') as f:
+        json.dump(js, f, indent=4)
+    return js
 
 
 def fromBaseline(filepath: str = './data/Baseline_selfreport.csv'):
