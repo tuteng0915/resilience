@@ -1,0 +1,2738 @@
+[
+    {
+        "userId": 0,
+        "VAS_Pre_Hot": 0.09,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 0,
+        "VAS_Pre_Hot": 0.47,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.5,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.5
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 0,
+        "VAS_Pre_Hot": 0.19,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.25,
+            "upset": 0.25,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.5
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.25,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 0,
+        "VAS_Pre_Hot": 0.44,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 213094,
+        "VAS_Pre_Hot": 0.87,
+        "STAI_Pre_Hot": {
+            "calm": 0.0,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.5
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 1.0,
+            "PSS_2": 0.25,
+            "PSS_3": 0.0,
+            "PSS_4": 1.0
+        }
+    },
+    {
+        "userId": 40072,
+        "VAS_Pre_Hot": 0.08,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 401,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 404,
+        "VAS_Pre_Hot": 0.1,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 405,
+        "VAS_Pre_Hot": 0.35,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 407,
+        "VAS_Pre_Hot": 0.01,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 408,
+        "VAS_Pre_Hot": 0.05,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 409,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 410,
+        "VAS_Pre_Hot": 0.29,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.25,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.5
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 411,
+        "VAS_Pre_Hot": 0.01,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 412,
+        "VAS_Pre_Hot": 0.1,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 413,
+        "VAS_Pre_Hot": 0.4,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.25,
+            "worried": 0.5
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 415,
+        "VAS_Pre_Hot": 0.31,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 416,
+        "VAS_Pre_Hot": 0.46,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.0,
+            "content": 0.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 1.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 417,
+        "VAS_Pre_Hot": 0.12,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 418,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.5,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 419,
+        "VAS_Pre_Hot": 0.71,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.5,
+            "relaxed": 0.0,
+            "content": 0.0,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.25,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 420,
+        "VAS_Pre_Hot": 0.61,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.5
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 1.0
+        }
+    },
+    {
+        "userId": 421,
+        "VAS_Pre_Hot": 0.37,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 422,
+        "VAS_Pre_Hot": 0.02,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 423,
+        "VAS_Pre_Hot": 0.02,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 424,
+        "VAS_Pre_Hot": 0.04,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 425,
+        "VAS_Pre_Hot": 0.71,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.5,
+            "upset": 0.5,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.5
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 426,
+        "VAS_Pre_Hot": 0.3,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 427,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 428,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 429,
+        "VAS_Pre_Hot": 0.1,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 430,
+        "VAS_Pre_Hot": 0.02,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 431,
+        "VAS_Pre_Hot": 0.05,
+        "STAI_Pre_Hot": {
+            "calm": 0.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 432,
+        "VAS_Pre_Hot": 0.1,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 433,
+        "VAS_Pre_Hot": 0.2,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 434,
+        "VAS_Pre_Hot": 0.3,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 435,
+        "VAS_Pre_Hot": 0.03,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 436,
+        "VAS_Pre_Hot": 0.1,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.0,
+            "content": 0.25,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 437,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 439,
+        "VAS_Pre_Hot": 0.13,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.25,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 440,
+        "VAS_Pre_Hot": 0.71,
+        "STAI_Pre_Hot": {
+            "calm": 0.0,
+            "tense": 0.5,
+            "upset": 0.25,
+            "relaxed": 0.0,
+            "content": 0.25,
+            "worried": 0.75
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 441,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 442,
+        "VAS_Pre_Hot": 0.5,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.75,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 444,
+        "VAS_Pre_Hot": 0.02,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 445,
+        "VAS_Pre_Hot": 0.31,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 446,
+        "VAS_Pre_Hot": 0.02,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 447,
+        "VAS_Pre_Hot": 0.01,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 448,
+        "VAS_Pre_Hot": 0.1,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.0,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 450,
+        "VAS_Pre_Hot": 0.34,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 451,
+        "VAS_Pre_Hot": 0.05,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 452,
+        "VAS_Pre_Hot": 0.03,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 453,
+        "VAS_Pre_Hot": 0.09,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.25,
+            "PSS_3": 0.25,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 454,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 455,
+        "VAS_Pre_Hot": 0.08,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 456,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 1.0,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 457,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 458,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 459,
+        "VAS_Pre_Hot": 0.01,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 460,
+        "VAS_Pre_Hot": 0.05,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 461,
+        "VAS_Pre_Hot": 0.03,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.75
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 462,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 463,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 464,
+        "VAS_Pre_Hot": 0.09,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 465,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 466,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 467,
+        "VAS_Pre_Hot": 0.03,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 468,
+        "VAS_Pre_Hot": 0.2,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 469,
+        "VAS_Pre_Hot": 0.05,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 470,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 471,
+        "VAS_Pre_Hot": 0.1,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 473,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 474,
+        "VAS_Pre_Hot": 0.25,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 475,
+        "VAS_Pre_Hot": 0.28,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 477,
+        "VAS_Pre_Hot": 0.2,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 478,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 478,
+        "VAS_Pre_Hot": 0.01,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 479,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 480,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 481,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 484,
+        "VAS_Pre_Hot": 0.3,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.75,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 485,
+        "VAS_Pre_Hot": 0.2,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 486,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.25,
+            "relaxed": 0.5,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 487,
+        "VAS_Pre_Hot": 0.33,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 488,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 489,
+        "VAS_Pre_Hot": 0.01,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.75,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 490,
+        "VAS_Pre_Hot": 0.41,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 491,
+        "VAS_Pre_Hot": 0.01,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 491,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 492,
+        "VAS_Pre_Hot": 0.04,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 494,
+        "VAS_Pre_Hot": 0.02,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 496,
+        "VAS_Pre_Hot": 0.28,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 497,
+        "VAS_Pre_Hot": 0.08,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 498,
+        "VAS_Pre_Hot": 0.19,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 499,
+        "VAS_Pre_Hot": 0.01,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 500,
+        "VAS_Pre_Hot": 0.07,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 50036,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 501,
+        "VAS_Pre_Hot": 0.08,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 502,
+        "VAS_Pre_Hot": 0.31,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.5
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.0,
+            "PSS_3": 0.0,
+            "PSS_4": 1.0
+        }
+    },
+    {
+        "userId": 503,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 504,
+        "VAS_Pre_Hot": 0.6,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 1.0
+        }
+    },
+    {
+        "userId": 505,
+        "VAS_Pre_Hot": 0.2,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 506,
+        "VAS_Pre_Hot": 0.4,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 507,
+        "VAS_Pre_Hot": 0.1,
+        "STAI_Pre_Hot": {
+            "calm": 0.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 508,
+        "VAS_Pre_Hot": 0.1,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 509,
+        "VAS_Pre_Hot": 0.15,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 510,
+        "VAS_Pre_Hot": 0.32,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.75,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.75
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 511,
+        "VAS_Pre_Hot": 0.19,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 513,
+        "VAS_Pre_Hot": 0.01,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 514,
+        "VAS_Pre_Hot": 0.42,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 515,
+        "VAS_Pre_Hot": 0.3,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.25,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.25,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 516,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.0,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 517,
+        "VAS_Pre_Hot": 0.01,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 518,
+        "VAS_Pre_Hot": 0.1,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 519,
+        "VAS_Pre_Hot": 0.29,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.5,
+            "relaxed": 0.0,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.5,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 520,
+        "VAS_Pre_Hot": 0.1,
+        "STAI_Pre_Hot": {
+            "calm": 0.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 521,
+        "VAS_Pre_Hot": 0.06,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 522,
+        "VAS_Pre_Hot": 0.05,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.25,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 523,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 524,
+        "VAS_Pre_Hot": 0.01,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 525,
+        "VAS_Pre_Hot": 0.2,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 527,
+        "VAS_Pre_Hot": 0.07,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 528,
+        "VAS_Pre_Hot": 0.17,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 529,
+        "VAS_Pre_Hot": 0.35,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.25,
+            "PSS_3": 0.75,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 530,
+        "VAS_Pre_Hot": 0.4,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 531,
+        "VAS_Pre_Hot": 0.2,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 532,
+        "VAS_Pre_Hot": 0.85,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.75,
+            "upset": 0.5,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 1.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 1.0,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 533,
+        "VAS_Pre_Hot": 0.16,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 534,
+        "VAS_Pre_Hot": 0.1,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 535,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 537,
+        "VAS_Pre_Hot": 0.06,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 538,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.75,
+            "PSS_3": 0.25,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 539,
+        "VAS_Pre_Hot": 0.01,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 541,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 542,
+        "VAS_Pre_Hot": 0.02,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 543,
+        "VAS_Pre_Hot": 0.37,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.25,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 544,
+        "VAS_Pre_Hot": 0.74,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.25,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 545,
+        "VAS_Pre_Hot": 0.3,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 546,
+        "VAS_Pre_Hot": 0.38,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.5,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 547,
+        "VAS_Pre_Hot": 0.01,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.25,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 548,
+        "VAS_Pre_Hot": 0.3,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 549,
+        "VAS_Pre_Hot": 0.01,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 1.0,
+            "PSS_3": 1.0,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 550,
+        "VAS_Pre_Hot": 0.1,
+        "STAI_Pre_Hot": {
+            "calm": 0.5,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.5,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 551,
+        "VAS_Pre_Hot": 0.0,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 1.0,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.0,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.0
+        }
+    },
+    {
+        "userId": 552,
+        "VAS_Pre_Hot": 0.04,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 1.0,
+            "PSS_3": 0.75,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 553,
+        "VAS_Pre_Hot": 0.5,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.5,
+            "upset": 0.0,
+            "relaxed": 0.25,
+            "content": 0.0,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.25,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 555,
+        "VAS_Pre_Hot": 0.02,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 1.0,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 1.0
+        }
+    },
+    {
+        "userId": 556,
+        "VAS_Pre_Hot": 0.33,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.75,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.75,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 557,
+        "VAS_Pre_Hot": 0.26,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    },
+    {
+        "userId": 560,
+        "VAS_Pre_Hot": 0.04,
+        "STAI_Pre_Hot": {
+            "calm": 1.0,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.25,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.5,
+            "PSS_2": 0.5,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 562,
+        "VAS_Pre_Hot": 0.2,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.75,
+            "content": 0.75,
+            "worried": 0.25
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.75
+        }
+    },
+    {
+        "userId": 563,
+        "VAS_Pre_Hot": 0.45,
+        "STAI_Pre_Hot": {
+            "calm": 0.25,
+            "tense": 0.25,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.5,
+            "worried": 0.75
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.75,
+            "PSS_2": 0.25,
+            "PSS_3": 0.5,
+            "PSS_4": 0.5
+        }
+    },
+    {
+        "userId": 564,
+        "VAS_Pre_Hot": 0.03,
+        "STAI_Pre_Hot": {
+            "calm": 0.75,
+            "tense": 0.0,
+            "upset": 0.0,
+            "relaxed": 0.5,
+            "content": 0.75,
+            "worried": 0.0
+        },
+        "PSS_Pre_Hot": {
+            "PSS_1": 0.25,
+            "PSS_2": 0.75,
+            "PSS_3": 0.5,
+            "PSS_4": 0.25
+        }
+    }
+]

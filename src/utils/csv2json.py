@@ -75,20 +75,42 @@ def fromCognitiveData(filepath='./data/CognitiveData_Hot.csv'):
     return dic
 
 
-def fromPreSelfReport(filepath: str = './data/Cold_Pre_selfreport.csv'):
+def fromPreSelfReport(filepath: str = './data/Hot_Pre_selfreport.csv', mode: str = "Hot"):
     """
     Get a simplified json containing only the columns we care about
     [{
+        'userId':,
         'VAS':,
-        'STAI':[]
-        'PSS':
+        'STAI':{}
+        'PSS':{}
     },]
     :param filepath
+    :param mode: Cold or Hot
     :return: str(json), dict(userId: dict(..))
     """
-    # load from csv
-
-    # formJson
+    stai_label = ['calm', 'tense', 'upset', 'relaxed', 'content', 'worried']
+    file = pd.read_csv(filepath)
+    js = list(dict())
+    dic = dict()
+    for index, row in file.iterrows():
+        entity = {"userId": int(row['Q1'])}
+        if mode == "Cold":
+            entity[str("VAS_Pre_" + mode)] = float(row['Q4_1']) / 100
+        else:
+            entity[str("VAS_Pre_" + mode)] = float(row['Q5_1']) / 100
+        stai = dict()
+        for i in range(6):
+            stai[stai_label[i]] = (float(row['Q2_' + str(i + 1)]) - 1.0) / 4
+        entity['STAI_Pre_' + mode] = stai.copy()
+        pss = dict()
+        for i in range(4):
+            pss['PSS_' + str(i + 1)] = (float(row['Q3_' + str(i + 1)]) - 1.0) / 4
+        entity['PSS_Pre_' + mode] = pss.copy()
+        # print(entity)
+        js.append(entity)
+    with open('./data/json/Hot_Pre_selfreport.json', encoding='utf8', mode='w') as f:
+        json.dump(js, f, indent=4)
+    return js
 
 
 def fromPostSelfReport(filepath: str = './data/Cold_Post_selfreport.csv'):
