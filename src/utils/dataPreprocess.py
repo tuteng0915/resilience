@@ -1,5 +1,6 @@
 """
 Data Preprocessing
+** 已经手动修正了部分数据，因此dataPreprocess不再建议使用 **
 """
 import os
 import pandas as pd
@@ -26,7 +27,16 @@ def dataPreprocess(write=False):
             if write:
                 df.to_csv(r'./data/' + fileName)
             all_data.append(pd.DataFrame(np.array(temp).T, columns=file.keys()[17:-2]))
-        elif fileName not in ['CognitiveData_Cold.csv', 'CognitiveData_Hot.csv']:
+        elif fileName in ['CognitiveData_Cold.csv', 'CognitiveData_Hot.csv']:
+            for j in file.keys():
+                temp.append(file[j].values)
+            df = pd.DataFrame(np.array(temp).T, columns=file.keys())
+            df.sort_values([file.keys()[1]], ascending=True, inplace=True)
+            df.reset_index(drop=True, inplace=True)
+            if write:
+                df.to_csv(r'./data/' + fileName)
+            all_data.append(pd.DataFrame(np.array(temp).T, columns=file.keys()))
+        else:
             if fileName == 'Cold_Post_selfreport.csv':
                 file = file.drop([1, 3], axis=0)
             else:
@@ -39,14 +49,5 @@ def dataPreprocess(write=False):
             if write:
                 df.to_csv(r'./data/'+fileName)
             all_data.append(pd.DataFrame(np.array(temp).T, columns=file.keys()[17:-1]))
-        else:
-            for j in file.keys():
-                temp.append(file[j].values)
-            df = pd.DataFrame(np.array(temp).T, columns=file.keys())
-            df.sort_values([file.keys()[1]], ascending=True, inplace=True)
-            df.reset_index(drop=True, inplace=True)
-            if write:
-                df.to_csv(r'./data/' + fileName)
-            all_data.append(pd.DataFrame(np.array(temp).T, columns=file.keys()))
     #print(all_data)
     return all_data
