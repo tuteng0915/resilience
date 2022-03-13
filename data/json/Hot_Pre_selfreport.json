@@ -1,96 +1,6 @@
 [
     {
-        "userId": 0,
-        "VAS_Pre_Hot": 0.09,
-        "STAI_Pre_Hot": {
-            "calm": 1.0,
-            "tense": 0.0,
-            "upset": 0.0,
-            "relaxed": 1.0,
-            "content": 1.0,
-            "worried": 0.0
-        },
-        "PSS_Pre_Hot": {
-            "PSS_1": 0.25,
-            "PSS_2": 0.75,
-            "PSS_3": 0.5,
-            "PSS_4": 0.75
-        }
-    },
-    {
-        "userId": 0,
-        "VAS_Pre_Hot": 0.47,
-        "STAI_Pre_Hot": {
-            "calm": 0.5,
-            "tense": 0.5,
-            "upset": 0.5,
-            "relaxed": 0.5,
-            "content": 0.5,
-            "worried": 0.5
-        },
-        "PSS_Pre_Hot": {
-            "PSS_1": 0.5,
-            "PSS_2": 0.5,
-            "PSS_3": 0.5,
-            "PSS_4": 0.5
-        }
-    },
-    {
-        "userId": 0,
-        "VAS_Pre_Hot": 0.19,
-        "STAI_Pre_Hot": {
-            "calm": 0.25,
-            "tense": 0.25,
-            "upset": 0.25,
-            "relaxed": 0.25,
-            "content": 0.25,
-            "worried": 0.5
-        },
-        "PSS_Pre_Hot": {
-            "PSS_1": 0.25,
-            "PSS_2": 0.25,
-            "PSS_3": 0.5,
-            "PSS_4": 0.5
-        }
-    },
-    {
-        "userId": 0,
-        "VAS_Pre_Hot": 0.44,
-        "STAI_Pre_Hot": {
-            "calm": 0.5,
-            "tense": 0.0,
-            "upset": 0.0,
-            "relaxed": 0.5,
-            "content": 0.5,
-            "worried": 0.0
-        },
-        "PSS_Pre_Hot": {
-            "PSS_1": 0.5,
-            "PSS_2": 0.5,
-            "PSS_3": 0.5,
-            "PSS_4": 0.5
-        }
-    },
-    {
-        "userId": 213094,
-        "VAS_Pre_Hot": 0.87,
-        "STAI_Pre_Hot": {
-            "calm": 0.0,
-            "tense": 0.25,
-            "upset": 0.0,
-            "relaxed": 0.25,
-            "content": 0.25,
-            "worried": 0.5
-        },
-        "PSS_Pre_Hot": {
-            "PSS_1": 1.0,
-            "PSS_2": 0.25,
-            "PSS_3": 0.0,
-            "PSS_4": 1.0
-        }
-    },
-    {
-        "userId": 40072,
+        "userId": 472,
         "VAS_Pre_Hot": 0.08,
         "STAI_Pre_Hot": {
             "calm": 0.5,
@@ -1710,7 +1620,7 @@
         }
     },
     {
-        "userId": 50036,
+        "userId": 536,
         "VAS_Pre_Hot": 0.0,
         "STAI_Pre_Hot": {
             "calm": 1.0,

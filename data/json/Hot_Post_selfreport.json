@@ -1,53 +1,5 @@
 [
     {
-        "userId": 0,
-        "VAS_Post_Hot": 0.17,
-        "STAI_Post_Hot": {
-            "calm": 0.25,
-            "tense": 0.25,
-            "upset": 0.0,
-            "relaxed": 0.0,
-            "content": 0.5,
-            "worried": 0.5
-        },
-        "PSS_Post_Hot": {
-            "PSS_1": 0.5,
-            "PSS_2": 0.25,
-            "PSS_3": 0.25,
-            "PSS_4": 0.25
-        },
-        "Threatening_Hot": 0.5,
-        "Ability_Hot": 0.5,
-        "Confident_Hot": 0.6,
-        "Engagement_Hot": 0.25,
-        "Excited_Hot": 0.25,
-        "Difficulty_Hot": 0.5
-    },
-    {
-        "userId": 0,
-        "VAS_Post_Hot": 0.55,
-        "STAI_Post_Hot": {
-            "calm": 0.25,
-            "tense": 0.25,
-            "upset": 0.25,
-            "relaxed": 0.25,
-            "content": 0.25,
-            "worried": 0.25
-        },
-        "PSS_Post_Hot": {
-            "PSS_1": 0.5,
-            "PSS_2": 0.5,
-            "PSS_3": 0.5,
-            "PSS_4": 0.5
-        },
-        "Threatening_Hot": 0.0,
-        "Ability_Hot": 0.25,
-        "Confident_Hot": 0.8,
-        "Engagement_Hot": 0.25,
-        "Excited_Hot": 0.5,
-        "Difficulty_Hot": 0.75
-    },
-    {
         "userId": 401,
         "VAS_Post_Hot": 0.09,
         "STAI_Post_Hot": {
@@ -2232,7 +2184,7 @@
         "Difficulty_Hot": 0.5
     },
     {
-        "userId": 50036,
+        "userId": 536,
         "VAS_Post_Hot": 0.02,
         "STAI_Post_Hot": {
             "calm": 0.75,
