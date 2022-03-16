@@ -20,11 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e6153a7-6ada-4da0-9294-915095aa57d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/json/Baseline_selfreport_copy.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/json/Cold_Pre_selfreport.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/json/Cold_Pre_selfreport.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/json/Hot_Post_selfreport.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/json/Hot_Post_selfreport.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/json/Hot_Pre_selfreport.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/json/Hot_Pre_selfreport.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Baseline_selfreport.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Baseline_selfreport.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/json/Baseline_selfreport.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/json/Baseline_selfreport.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/json/closure.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/json/closure.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/json/merged.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/json/merged.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/dataPreprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/dataPreprocess.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utils/mergeJson.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/mergeJson.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +37,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="3a02c61d-ac6e-4f1b-a502-5d33dbd75ba6" />
   <component name="ProjectId" id="26Fc8ikHJKN5ATOVhltLk40QsoF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,12 +49,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/json" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\NP\resilience\data\json" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Desktop\NP\resilience\data" />
       <recent name="D:\Desktop\NP\resilience\data\tmp" />

@@ -18,6 +18,20 @@
             "inversion_rt": 0.9125790687447244,
             "memory": 0.6865338219927469
         },
+        "firstName": "Briana Sun",
+        "lastName": "nan",
+        "age": 10,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.19,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -109,6 +123,20 @@
             "inversion": 1.0,
             "inversion_rt": 1.0655266615251702,
             "memory": 0.96875
+        },
+        "firstName": "Eden Grossman",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.26,
         "STAI_Pre_Cold": {
@@ -202,6 +230,20 @@
             "inversion_rt": 0.7845184641031475,
             "memory": 1.0
         },
+        "firstName": "Lauren Lin",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 1.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.61,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -293,6 +335,20 @@
             "inversion": 0.8792613636363636,
             "inversion_rt": 0.2923967283832925,
             "memory": 0.9111607142857142
+        },
+        "firstName": "Kelsey Senner",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
         },
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
@@ -386,6 +442,20 @@
             "inversion_rt": 0.9573228888897007,
             "memory": 0.8970734126984127
         },
+        "firstName": "Paolo Caggioni",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -477,6 +547,20 @@
             "inversion": 0.915719696969697,
             "inversion_rt": 0.4987167051622394,
             "memory": 0.946875
+        },
+        "firstName": "Adam Veliz",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
@@ -570,6 +654,20 @@
             "inversion_rt": 1.1161359776601647,
             "memory": 0.9821428571428571
         },
+        "firstName": "Mae Alwart",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.08,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -661,6 +759,20 @@
             "inversion": 0.932142857142857,
             "inversion_rt": 0.6328951830310481,
             "memory": 0.8858901515151515
+        },
+        "firstName": "Donovan Carroll ",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
@@ -754,6 +866,20 @@
             "inversion_rt": 1.319415949740344,
             "memory": 0.7315988223246288
         },
+        "firstName": "Olivia Long",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.19,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -845,6 +971,20 @@
             "inversion": 0.9736111111111112,
             "inversion_rt": 0.6518016933153074,
             "memory": 0.8926767676767676
+        },
+        "firstName": "Jack Armstrong ",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.4,
         "STAI_Pre_Cold": {
@@ -938,6 +1078,20 @@
             "inversion_rt": 0.6990687151749929,
             "memory": 0.8926767676767676
         },
+        "firstName": "Colette Murray Hayden",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -1029,6 +1183,20 @@
             "inversion": 0.8256944444444445,
             "inversion_rt": 0.6829473588586089,
             "memory": 0.9821428571428571
+        },
+        "firstName": "Jack Ellingwood",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.12,
         "STAI_Pre_Cold": {
@@ -1122,6 +1290,20 @@
             "inversion_rt": 0.5361653245985508,
             "memory": 1.0
         },
+        "firstName": "Siena Fershtman",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.3,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -1213,6 +1395,20 @@
             "inversion": 0.9515398550724637,
             "inversion_rt": 0.7339366356770876,
             "memory": 0.9722222222222222
+        },
+        "firstName": "Krystal Gan",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.09,
         "STAI_Pre_Cold": {
@@ -1306,6 +1502,20 @@
             "inversion_rt": 0.7116397984680675,
             "memory": 0.9027777777777779
         },
+        "firstName": "Lydia Ellingwood",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.51,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -1397,6 +1607,20 @@
             "inversion": 0.9433760683760684,
             "inversion_rt": 1.2564558031745894,
             "memory": 0.917906746031746
+        },
+        "firstName": "Damian Hanford",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.05,
         "STAI_Pre_Cold": {
@@ -1490,6 +1714,20 @@
             "inversion_rt": 0.41961788601983835,
             "memory": 0.875
         },
+        "firstName": "Fionnuala Dill",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.54,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -1581,6 +1819,20 @@
             "inversion": 0.9469696969696969,
             "inversion_rt": 0.5950196058795791,
             "memory": 0.946875
+        },
+        "firstName": "Orlaith Dill",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
@@ -1674,6 +1926,20 @@
             "inversion_rt": 1.112483092894157,
             "memory": 0.8089962121212121
         },
+        "firstName": "Natalie Merriam",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.04,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -1765,6 +2031,20 @@
             "inversion": 0.9080357142857143,
             "inversion_rt": 0.47180312094943866,
             "memory": 0.9821428571428571
+        },
+        "firstName": "Julie Breedveld",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.5,
         "STAI_Pre_Cold": {
@@ -1858,6 +2138,20 @@
             "inversion_rt": 1.166026135759017,
             "memory": 0.8138020833333334
         },
+        "firstName": "Alivia Rossi",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.02,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -1949,6 +2243,20 @@
             "inversion": 0.9761363636363637,
             "inversion_rt": 1.0564674716394442,
             "memory": 0.946875
+        },
+        "firstName": "Aarav Vijay",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
         },
         "VAS_Pre_Cold": 0.09,
         "STAI_Pre_Cold": {
@@ -2042,6 +2350,20 @@
             "inversion_rt": 0.7289076577810631,
             "memory": 0.9366883116883117
         },
+        "firstName": "Fitz Green",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.16,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -2133,6 +2455,20 @@
             "inversion": 0.8885416666666667,
             "inversion_rt": 0.7978533824905754,
             "memory": 0.984375
+        },
+        "firstName": "Carys Green",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
@@ -2226,6 +2562,20 @@
             "inversion_rt": 0.6384767878121754,
             "memory": 0.9079861111111112
         },
+        "firstName": "Conor Hicke",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.08,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -2317,6 +2667,20 @@
             "inversion": 0.8565705128205128,
             "inversion_rt": 1.0916831532882139,
             "memory": 1.0
+        },
+        "firstName": "Garion O'Hehir",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.75
         },
         "VAS_Pre_Cold": 0.07,
         "STAI_Pre_Cold": {
@@ -2410,6 +2774,20 @@
             "inversion_rt": 0.8416024650437663,
             "memory": 0.9196428571428571
         },
+        "firstName": "Cam ",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -2501,6 +2879,20 @@
             "inversion": 0.9747474747474748,
             "inversion_rt": 0.6198974401108157,
             "memory": 0.8958333333333334
+        },
+        "firstName": "Melina Menghi",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
         },
         "VAS_Pre_Cold": 0.55,
         "STAI_Pre_Cold": {
@@ -2594,6 +2986,20 @@
             "inversion_rt": 0.3064546395742306,
             "memory": 1.0
         },
+        "firstName": "Zachary Dubuc",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -2685,6 +3091,20 @@
             "inversion": 0.9747474747474748,
             "inversion_rt": 0.7484132050607799,
             "memory": 1.0
+        },
+        "firstName": "Oliver Song",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.02,
         "STAI_Pre_Cold": {
@@ -2778,6 +3198,20 @@
             "inversion_rt": 0.8903744725244386,
             "memory": 0.984375
         },
+        "firstName": "Mia Brassell",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -2869,6 +3303,20 @@
             "inversion": 0.9088446275946276,
             "inversion_rt": 0.7774503697483132,
             "memory": 0.9635416666666667
+        },
+        "firstName": "Theodore Salvin",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.39,
         "STAI_Pre_Cold": {
@@ -2962,6 +3410,20 @@
             "inversion_rt": 1.0736534958705306,
             "memory": 0.8308612440191387
         },
+        "firstName": "James Tan-Aristy",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.3,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -3053,6 +3515,20 @@
             "inversion": 0.9861111111111112,
             "inversion_rt": 0.6897319522464559,
             "memory": 0.8217329545454546
+        },
+        "firstName": "Davis",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
         },
         "VAS_Pre_Cold": 0.06,
         "STAI_Pre_Cold": {
@@ -3146,6 +3622,20 @@
             "inversion_rt": 0.7198895205479958,
             "memory": 0.8735380116959064
         },
+        "firstName": "kayley",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.17,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -3219,98 +3709,6 @@
         "Excited_Hot": 0.25,
         "Difficulty_Hot": 0.5
     },
-    "454": {
-        "cognitiveData_Cold": {
-            "inhibition": 0.8274305555555556,
-            "inhibition_rt": 0.48560809107836,
-            "shifting": 0.9249591503267974,
-            "shifting_rt": 0.6151377946040989,
-            "inversion": 0.9323863636363636,
-            "inversion_rt": 0.8850810204306013,
-            "memory": 0.8718434343434344
-        },
-        "cognitiveData_Hot": {
-            "inhibition": 0.8328373015873016,
-            "inhibition_rt": 0.37867899294801505,
-            "shifting": 0.9209573412698413,
-            "shifting_rt": 0.4182391284018873,
-            "inversion": 0.8672275641025641,
-            "inversion_rt": 0.4748377278817292,
-            "memory": 0.9210633116883117
-        },
-        "VAS_Pre_Cold": 0.06,
-        "STAI_Pre_Cold": {
-            "calm": 0.75,
-            "tense": 0.25,
-            "upset": 0.0,
-            "relaxed": 0.5,
-            "content": 0.0,
-            "worried": 0.0
-        },
-        "PSS_Pre_Cold": {
-            "PSS_1": 0.75,
-            "PSS_2": 0.5,
-            "PSS_3": 0.25,
-            "PSS_4": 0.5
-        },
-        "VAS_Post_Cold": 0.72,
-        "STAI_Post_Cold": {
-            "calm": 0.25,
-            "tense": 0.75,
-            "upset": 0.0,
-            "relaxed": 0.0,
-            "content": 0.5,
-            "worried": 0.0
-        },
-        "PSS_Post_Cold": {
-            "PSS_1": 0.75,
-            "PSS_2": 0.25,
-            "PSS_3": 0.25,
-            "PSS_4": 0.5
-        },
-        "Threatening_Cold": 0.0,
-        "Ability_Cold": 1.0,
-        "Confident_Cold": 0.9,
-        "Engagement_Cold": 1.0,
-        "Excited_Cold": 0.75,
-        "Difficulty_Cold": 0.75,
-        "VAS_Pre_Hot": 0.0,
-        "STAI_Pre_Hot": {
-            "calm": 1.0,
-            "tense": 0.0,
-            "upset": 0.0,
-            "relaxed": 1.0,
-            "content": 0.0,
-            "worried": 0.0
-        },
-        "PSS_Pre_Hot": {
-            "PSS_1": 0.5,
-            "PSS_2": 0.5,
-            "PSS_3": 0.25,
-            "PSS_4": 0.5
-        },
-        "VAS_Post_Hot": 0.25,
-        "STAI_Post_Hot": {
-            "calm": 0.5,
-            "tense": 0.25,
-            "upset": 0.0,
-            "relaxed": 0.5,
-            "content": 0.5,
-            "worried": 0.0
-        },
-        "PSS_Post_Hot": {
-            "PSS_1": 0.5,
-            "PSS_2": 0.5,
-            "PSS_3": 0.5,
-            "PSS_4": 0.25
-        },
-        "Threatening_Hot": 0.0,
-        "Ability_Hot": 1.0,
-        "Confident_Hot": 0.7,
-        "Engagement_Hot": 1.0,
-        "Excited_Hot": 0.75,
-        "Difficulty_Hot": 0.5
-    },
     "456": {
         "cognitiveData_Cold": {
             "inhibition": 0.8901515151515151,
@@ -3329,6 +3727,20 @@
             "inversion": 0.8977335164835164,
             "inversion_rt": 1.0470145618952402,
             "memory": 0.7804884453781513
+        },
+        "firstName": "Catherine",
+        "lastName": "Johnson",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
@@ -3422,6 +3834,20 @@
             "inversion_rt": 0.5198385262759039,
             "memory": 0.790246212121212
         },
+        "firstName": "Lorenzo Blackston ",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -3495,98 +3921,6 @@
         "Excited_Hot": 0.0,
         "Difficulty_Hot": 0.5
     },
-    "458": {
-        "cognitiveData_Cold": {
-            "inhibition": 0.8350468975468975,
-            "inhibition_rt": 0.3435358867528989,
-            "shifting": 0.9051068722943723,
-            "shifting_rt": 0.30182983253493373,
-            "inversion": 0.9062499999999999,
-            "inversion_rt": 0.4701951606797853,
-            "memory": 0.96875
-        },
-        "cognitiveData_Hot": {
-            "inhibition": 0.8377516233766233,
-            "inhibition_rt": 0.37743868199035974,
-            "shifting": 0.915340909090909,
-            "shifting_rt": 0.3749806805326325,
-            "inversion": 0.9886363636363636,
-            "inversion_rt": 0.5941679292525773,
-            "memory": 0.96875
-        },
-        "VAS_Pre_Cold": 0.0,
-        "STAI_Pre_Cold": {
-            "calm": 1.0,
-            "tense": 0.0,
-            "upset": 0.0,
-            "relaxed": 0.75,
-            "content": 1.0,
-            "worried": 0.0
-        },
-        "PSS_Pre_Cold": {
-            "PSS_1": 0.25,
-            "PSS_2": 0.75,
-            "PSS_3": 0.5,
-            "PSS_4": 0.0
-        },
-        "VAS_Post_Cold": 0.0,
-        "STAI_Post_Cold": {
-            "calm": 1.0,
-            "tense": 0.0,
-            "upset": 0.0,
-            "relaxed": 0.75,
-            "content": 1.0,
-            "worried": 0.0
-        },
-        "PSS_Post_Cold": {
-            "PSS_1": 0.5,
-            "PSS_2": 1.0,
-            "PSS_3": 0.25,
-            "PSS_4": 0.0
-        },
-        "Threatening_Cold": 0.0,
-        "Ability_Cold": 1.0,
-        "Confident_Cold": 1.0,
-        "Engagement_Cold": 0.5,
-        "Excited_Cold": 0.5,
-        "Difficulty_Cold": 0.0,
-        "VAS_Pre_Hot": 0.0,
-        "STAI_Pre_Hot": {
-            "calm": 1.0,
-            "tense": 0.0,
-            "upset": 0.0,
-            "relaxed": 0.75,
-            "content": 1.0,
-            "worried": 0.0
-        },
-        "PSS_Pre_Hot": {
-            "PSS_1": 0.0,
-            "PSS_2": 0.75,
-            "PSS_3": 0.5,
-            "PSS_4": 0.0
-        },
-        "VAS_Post_Hot": 0.0,
-        "STAI_Post_Hot": {
-            "calm": 1.0,
-            "tense": 0.0,
-            "upset": 0.0,
-            "relaxed": 0.75,
-            "content": 1.0,
-            "worried": 0.0
-        },
-        "PSS_Post_Hot": {
-            "PSS_1": 0.0,
-            "PSS_2": 1.0,
-            "PSS_3": 0.5,
-            "PSS_4": 0.0
-        },
-        "Threatening_Hot": 0.0,
-        "Ability_Hot": 1.0,
-        "Confident_Hot": 1.0,
-        "Engagement_Hot": 0.75,
-        "Excited_Hot": 0.5,
-        "Difficulty_Hot": 0.5
-    },
     "459": {
         "cognitiveData_Cold": {
             "inhibition": 0.9189915458937198,
@@ -3605,6 +3939,20 @@
             "inversion": 0.9163995726495726,
             "inversion_rt": 0.5109364129387988,
             "memory": 0.7932224025974025
+        },
+        "firstName": "Finley Long",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
@@ -3698,6 +4046,20 @@
             "inversion_rt": 1.1258010090018313,
             "memory": 0.984375
         },
+        "firstName": "Leah Cooper",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.05,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -3771,98 +4133,6 @@
         "Excited_Hot": 0.25,
         "Difficulty_Hot": 0.5
     },
-    "461": {
-        "cognitiveData_Cold": {
-            "inhibition": 0.961352657004831,
-            "inhibition_rt": 0.44522804165766994,
-            "shifting": 0.9122519841269842,
-            "shifting_rt": 0.4751690229674475,
-            "inversion": 0.9480113636363636,
-            "inversion_rt": 0.5800733607685701,
-            "memory": 0.984375
-        },
-        "cognitiveData_Hot": {
-            "inhibition": 0.9695652173913043,
-            "inhibition_rt": 0.39800686392735574,
-            "shifting": 0.9185019841269841,
-            "shifting_rt": 0.3872611079190392,
-            "inversion": 0.9469696969696969,
-            "inversion_rt": 0.4600439443015111,
-            "memory": 0.975
-        },
-        "VAS_Pre_Cold": 0.05,
-        "STAI_Pre_Cold": {
-            "calm": 0.0,
-            "tense": 0.0,
-            "upset": 0.25,
-            "relaxed": 0.75,
-            "content": 0.75,
-            "worried": 0.0
-        },
-        "PSS_Pre_Cold": {
-            "PSS_1": 0.25,
-            "PSS_2": 1.0,
-            "PSS_3": 0.75,
-            "PSS_4": 0.0
-        },
-        "VAS_Post_Cold": 0.03,
-        "STAI_Post_Cold": {
-            "calm": 0.75,
-            "tense": 0.0,
-            "upset": 0.0,
-            "relaxed": 0.25,
-            "content": 1.0,
-            "worried": 0.0
-        },
-        "PSS_Post_Cold": {
-            "PSS_1": 0.25,
-            "PSS_2": 1.0,
-            "PSS_3": 0.75,
-            "PSS_4": 0.0
-        },
-        "Threatening_Cold": 0.0,
-        "Ability_Cold": 1.0,
-        "Confident_Cold": 1.0,
-        "Engagement_Cold": 1.0,
-        "Excited_Cold": 0.0,
-        "Difficulty_Cold": 0.75,
-        "VAS_Pre_Hot": 0.03,
-        "STAI_Pre_Hot": {
-            "calm": 1.0,
-            "tense": 0.0,
-            "upset": 0.0,
-            "relaxed": 0.75,
-            "content": 0.5,
-            "worried": 0.75
-        },
-        "PSS_Pre_Hot": {
-            "PSS_1": 0.25,
-            "PSS_2": 1.0,
-            "PSS_3": 0.75,
-            "PSS_4": 0.0
-        },
-        "VAS_Post_Hot": 0.03,
-        "STAI_Post_Hot": {
-            "calm": 0.75,
-            "tense": 0.0,
-            "upset": 0.0,
-            "relaxed": 0.75,
-            "content": 0.5,
-            "worried": 0.0
-        },
-        "PSS_Post_Hot": {
-            "PSS_1": 0.0,
-            "PSS_2": 1.0,
-            "PSS_3": 0.75,
-            "PSS_4": 0.0
-        },
-        "Threatening_Hot": 0.25,
-        "Ability_Hot": 0.5,
-        "Confident_Hot": 0.9,
-        "Engagement_Hot": 1.0,
-        "Excited_Hot": 0.0,
-        "Difficulty_Hot": 0.75
-    },
     "463": {
         "cognitiveData_Cold": {
             "inhibition": 0.9258928571428572,
@@ -3881,6 +4151,20 @@
             "inversion": 0.9270833333333333,
             "inversion_rt": 0.0988593762465833,
             "memory": 0.9258928571428571
+        },
+        "firstName": "Nava Galperin",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
@@ -3974,6 +4258,20 @@
             "inversion_rt": 1.0550455759102033,
             "memory": 0.9625
         },
+        "firstName": "Andreas Bai",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.06,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -4065,6 +4363,20 @@
             "inversion": 0.7252840909090909,
             "inversion_rt": 0.39436703001388884,
             "memory": 0.9565972222222222
+        },
+        "firstName": "Lachlan ",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
@@ -4158,6 +4470,20 @@
             "inversion_rt": 0.6259364952968935,
             "memory": 0.9508928571428571
         },
+        "firstName": "EMILIANO BLACK",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -4249,6 +4575,20 @@
             "inversion": 0.8864087301587301,
             "inversion_rt": 0.435478467686427,
             "memory": 0.8656031468531469
+        },
+        "firstName": "Ethan Yu",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 1.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
         },
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
@@ -4342,6 +4682,20 @@
             "inversion_rt": 0.5780157488253381,
             "memory": 0.9072916666666666
         },
+        "firstName": "Sanviti Amarnath ",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -4433,6 +4787,20 @@
             "inversion": 0.9247474747474748,
             "inversion_rt": 1.0932170549539306,
             "memory": 0.9366883116883117
+        },
+        "firstName": "Jonathan Andreoli",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.12,
         "STAI_Pre_Cold": {
@@ -4526,6 +4894,20 @@
             "inversion_rt": 0.6182419114435713,
             "memory": 0.9625
         },
+        "firstName": "Mia Andreoli",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 1.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -4617,6 +4999,20 @@
             "inversion": 0.9678030303030303,
             "inversion_rt": 0.6310642547461958,
             "memory": 0.9389204545454546
+        },
+        "firstName": "Chase Roberts",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
         },
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
@@ -4710,6 +5106,20 @@
             "inversion_rt": 1.0727906893938781,
             "memory": 0.9208829365079365
         },
+        "firstName": "Matthew Lubarsky",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.2,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -4801,6 +5211,20 @@
             "inversion": 0.8897727272727273,
             "inversion_rt": 0.838680919272688,
             "memory": 1.0
+        },
+        "firstName": "de Monchaux Charles",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.25,
         "STAI_Pre_Cold": {
@@ -4894,6 +5318,20 @@
             "inversion_rt": 0.7196462138160837,
             "memory": 0.951388888888889
         },
+        "firstName": "Inara Barker",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.6,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -4985,6 +5423,20 @@
             "inversion": 0.9636363636363636,
             "inversion_rt": 0.649012616067899,
             "memory": 0.8642769607843138
+        },
+        "firstName": "Maia Shen",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.2,
         "STAI_Pre_Cold": {
@@ -5078,6 +5530,20 @@
             "inversion_rt": 1.3801123456975708,
             "memory": 1.0
         },
+        "firstName": "Claire Foster",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -5169,6 +5635,20 @@
             "inversion": 0.9886363636363636,
             "inversion_rt": 0.7155528407668881,
             "memory": 0.9300595238095238
+        },
+        "firstName": "Jack",
+        "lastName": "Blakemore",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
         },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
@@ -5262,6 +5742,20 @@
             "inversion_rt": 0.9048272534672703,
             "memory": 0.935763888888889
         },
+        "firstName": "Hano",
+        "lastName": "Roughley",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -5353,6 +5847,20 @@
             "inversion": 0.9346590909090909,
             "inversion_rt": 0.996277976334619,
             "memory": 0.8875
+        },
+        "firstName": "Ingo",
+        "lastName": "Roughley",
+        "age": 10,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
         },
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
@@ -5446,6 +5954,20 @@
             "inversion_rt": 0.7610103844918039,
             "memory": 0.96875
         },
+        "firstName": "Mattia",
+        "lastName": "Farmer",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.2,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -5537,6 +6059,20 @@
             "inversion": 0.8191468253968254,
             "inversion_rt": 1.0247886037320963,
             "memory": 0.984375
+        },
+        "firstName": "Quintyn",
+        "lastName": "Scott",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 1.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
@@ -5630,6 +6166,20 @@
             "inversion_rt": 0.630931268829159,
             "memory": 1.0
         },
+        "firstName": "Elizabeth",
+        "lastName": "Alderfer",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.26,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -5721,6 +6271,20 @@
             "inversion": 0.9502840909090909,
             "inversion_rt": 0.7578351222768879,
             "memory": 0.8998511904761904
+        },
+        "firstName": "Sylvia",
+        "lastName": "Crittenden",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.03,
         "STAI_Pre_Cold": {
@@ -5814,6 +6378,20 @@
             "inversion_rt": 0.6787251204085083,
             "memory": 0.984375
         },
+        "firstName": "Jackson Hicke",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.49,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -5905,6 +6483,20 @@
             "inversion": 0.9278724747474748,
             "inversion_rt": 1.1428911565624253,
             "memory": 0.8512362637362637
+        },
+        "firstName": "Saras",
+        "lastName": "Raghavan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
         },
         "VAS_Pre_Cold": 0.02,
         "STAI_Pre_Cold": {
@@ -5998,6 +6590,20 @@
             "inversion_rt": 0.7056122040047148,
             "memory": 0.813701923076923
         },
+        "firstName": "Willard \"Hayes\"",
+        "lastName": "Thompson",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.06,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -6089,6 +6695,20 @@
             "inversion": 0.9591666666666666,
             "inversion_rt": 1.1199187097822627,
             "memory": 0.9263888888888888
+        },
+        "firstName": "Liam",
+        "lastName": "Maio",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
@@ -6182,6 +6802,20 @@
             "inversion_rt": 0.48215482998263054,
             "memory": 0.9322916666666666
         },
+        "firstName": "Mateus",
+        "lastName": "Verdi",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.22,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -6273,6 +6907,20 @@
             "inversion": 0.8639520202020201,
             "inversion_rt": 0.8967297343734765,
             "memory": 0.8413690476190476
+        },
+        "firstName": "Wesley Acton",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.4,
         "STAI_Pre_Cold": {
@@ -6366,6 +7014,20 @@
             "inversion_rt": 0.5065185459330678,
             "memory": 0.8770833333333333
         },
+        "firstName": "Adam ",
+        "lastName": "Bonanno",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.05,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -6457,6 +7119,20 @@
             "inversion": 0.9195175438596491,
             "inversion_rt": 0.677261962617437,
             "memory": 0.9625
+        },
+        "firstName": "Charlie",
+        "lastName": "Gomes Casseres",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.04,
         "STAI_Pre_Cold": {
@@ -6550,6 +7226,20 @@
             "inversion_rt": 0.7250236156633965,
             "memory": 0.7385416666666668
         },
+        "firstName": "Jaden",
+        "lastName": "Brophy",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -6641,6 +7331,20 @@
             "inversion": 0.9770833333333334,
             "inversion_rt": 0.5106511540755274,
             "memory": 0.8795454545454546
+        },
+        "firstName": "Anna",
+        "lastName": "Du",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.19,
         "STAI_Pre_Cold": {
@@ -6734,6 +7438,20 @@
             "inversion_rt": 0.5190854034076134,
             "memory": 0.9722222222222222
         },
+        "firstName": "Kathy",
+        "lastName": "Lin",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -6825,6 +7543,20 @@
             "inversion": 0.9772727272727273,
             "inversion_rt": 0.8287671885287866,
             "memory": 0.8710317460317459
+        },
+        "firstName": "Scarlett",
+        "lastName": "Kopala",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.5,
         "STAI_Pre_Cold": {
@@ -6918,6 +7650,20 @@
             "inversion_rt": 0.32388422703444364,
             "memory": 0.946875
         },
+        "firstName": "Ian",
+        "lastName": "Johnson",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.3,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -7009,6 +7755,20 @@
             "inversion": 0.914236111111111,
             "inversion_rt": 0.4656798269340975,
             "memory": 0.9017857142857142
+        },
+        "firstName": "Guangchun",
+        "lastName": "Fu",
+        "age": 17,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.75
         },
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
@@ -7102,6 +7862,20 @@
             "inversion_rt": 1.0375580941373952,
             "memory": 0.802847018572825
         },
+        "firstName": "Oliver",
+        "lastName": "Copps",
+        "age": 16,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.3,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -7193,6 +7967,20 @@
             "inversion": 0.9583333333333333,
             "inversion_rt": 0.7411010881265006,
             "memory": 0.984375
+        },
+        "firstName": "Joyce",
+        "lastName": "Chan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 1.0
         },
         "VAS_Pre_Cold": 0.35,
         "STAI_Pre_Cold": {
@@ -7286,6 +8074,20 @@
             "inversion_rt": 0.41487008557943184,
             "memory": 1.0
         },
+        "firstName": "Bryce",
+        "lastName": "Hilliard",
+        "age": 16,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 1.0,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 1.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -7377,6 +8179,20 @@
             "inversion": 1.0,
             "inversion_rt": 0.5252684593910263,
             "memory": 0.9168650793650793
+        },
+        "firstName": "Katy",
+        "lastName": "Jiang",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.53,
         "STAI_Pre_Cold": {
@@ -7470,6 +8286,20 @@
             "inversion_rt": 0.8544331803581574,
             "memory": 0.9007352941176471
         },
+        "firstName": "Lindsay",
+        "lastName": "Kwon",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.12,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -7561,6 +8391,20 @@
             "inversion": 0.9521780303030303,
             "inversion_rt": 0.6157651451896085,
             "memory": 0.951388888888889
+        },
+        "firstName": "Devin",
+        "lastName": "Walsh",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
         },
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
@@ -7654,6 +8498,20 @@
             "inversion_rt": 0.6935954186030561,
             "memory": 0.859375
         },
+        "firstName": "Alayna",
+        "lastName": "Dana",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -7745,6 +8603,20 @@
             "inversion": 0.8367788461538461,
             "inversion_rt": 0.48069651655957,
             "memory": 0.9263888888888888
+        },
+        "firstName": "Edgar",
+        "lastName": "Nava",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
         },
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
@@ -7838,6 +8710,20 @@
             "inversion_rt": 0.7147487480242765,
             "memory": 0.9025974025974025
         },
+        "firstName": "OwenSamuel",
+        "lastName": "Kawecki",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -7929,6 +8815,20 @@
             "inversion": 0.9191919191919192,
             "inversion_rt": 0.6133014331336575,
             "memory": 1.0
+        },
+        "firstName": "Gryffin",
+        "lastName": "Marks",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
         },
         "VAS_Pre_Cold": 0.03,
         "STAI_Pre_Cold": {
@@ -8022,6 +8922,20 @@
             "inversion_rt": 1.0569113199586992,
             "memory": 0.9479166666666667
         },
+        "firstName": "Michelle ",
+        "lastName": "Do",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.05,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -8113,6 +9027,20 @@
             "inversion": 0.9258838383838384,
             "inversion_rt": 0.6840690186886926,
             "memory": 0.8501758658008658
+        },
+        "firstName": "Maya",
+        "lastName": "Antal",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
         },
         "VAS_Pre_Cold": 0.04,
         "STAI_Pre_Cold": {
@@ -8206,6 +9134,20 @@
             "inversion_rt": 0.5564539443757949,
             "memory": 0.8806818181818182
         },
+        "firstName": "Isabella ",
+        "lastName": "Antal",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -8297,6 +9239,20 @@
             "inversion": 0.86875,
             "inversion_rt": 0.4527026686506966,
             "memory": 0.9385416666666666
+        },
+        "firstName": "Alexandre",
+        "lastName": "Hurel ",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
@@ -8390,6 +9346,20 @@
             "inversion_rt": 0.5359541058331315,
             "memory": 0.984375
         },
+        "firstName": "Thomas",
+        "lastName": "Blake",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.15,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -8481,6 +9451,20 @@
             "inversion": 1.0,
             "inversion_rt": 0.6928385528647119,
             "memory": 0.7687614468864469
+        },
+        "firstName": "Karina",
+        "lastName": "Rodriguez",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
         },
         "VAS_Pre_Cold": 0.41,
         "STAI_Pre_Cold": {
@@ -8574,6 +9558,20 @@
             "inversion_rt": 0.49335887629812925,
             "memory": 0.9635416666666667
         },
+        "firstName": "Brandon",
+        "lastName": "Douglas",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.47,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -8665,6 +9663,20 @@
             "inversion": 0.9356060606060606,
             "inversion_rt": 0.592055694341208,
             "memory": 0.921875
+        },
+        "firstName": "Alexander",
+        "lastName": "Picker",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.23,
         "STAI_Pre_Cold": {
@@ -8758,6 +9770,20 @@
             "inversion_rt": 0.5155482763852083,
             "memory": 0.9236111111111112
         },
+        "firstName": "Bront",
+        "lastName": "Wohlleben",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        },
         "VAS_Pre_Cold": 0.05,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -8849,6 +9875,20 @@
             "inversion": 0.8875,
             "inversion_rt": 0.5669385102887947,
             "memory": 0.9290178571428571
+        },
+        "firstName": "Jason",
+        "lastName": "Russello",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
         },
         "VAS_Pre_Cold": 0.03,
         "STAI_Pre_Cold": {
@@ -8942,6 +9982,20 @@
             "inversion_rt": 0.5480049302328436,
             "memory": 0.984375
         },
+        "firstName": "Maddie",
+        "lastName": "Song",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.02,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -9033,6 +10087,20 @@
             "inversion": 0.8471590909090909,
             "inversion_rt": 0.43586406934949934,
             "memory": 0.8846049783549783
+        },
+        "firstName": "Aarush",
+        "lastName": "Maddi",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.79,
         "STAI_Pre_Cold": {
@@ -9126,6 +10194,20 @@
             "inversion_rt": 1.1255712197295258,
             "memory": 0.9545454545454546
         },
+        "firstName": "Adrian",
+        "lastName": "Caraballo",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -9217,6 +10299,20 @@
             "inversion": 0.89375,
             "inversion_rt": 0.5389384925099355,
             "memory": 0.9265873015873015
+        },
+        "firstName": "Sophia",
+        "lastName": "Romanow",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.3,
         "STAI_Pre_Cold": {
@@ -9310,6 +10406,20 @@
             "inversion_rt": 1.1930972171149083,
             "memory": 0.7229166666666668
         },
+        "firstName": "Michelle",
+        "lastName": "Gee",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        },
         "VAS_Pre_Cold": 0.24,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -9401,6 +10511,20 @@
             "inversion": 0.8073232323232322,
             "inversion_rt": 0.6468652123717047,
             "memory": 0.8996212121212122
+        },
+        "firstName": "Shannon",
+        "lastName": "Raneri",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
         },
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {

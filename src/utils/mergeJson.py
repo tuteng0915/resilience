@@ -3,13 +3,15 @@ Combine the user performance and report from the four questionnaires
 """
 import json
 
+
 def mergeJson(filepath: str = './data/json/'):
     """
     :param filepath
     :return: dict(userId: dict(..))
     """
     merged_dict = dict()
-    # merge CognitiveData
+    with open(filepath + 'Baseline_selfreport.json', encoding='utf8', mode='r') as f:
+        baseline = json.load(f)
     with open(filepath + 'CognitiveData_Cold.json', encoding='utf8', mode='r') as f:
         cog_cold = json.load(f)
     with open(filepath + 'CognitiveData_Hot.json', encoding='utf8', mode='r') as f:
@@ -34,7 +36,7 @@ def mergeJson(filepath: str = './data/json/'):
             merged_dict[userId]['cognitiveData_Hot'] = entity.copy()
         else:
             merged_dict[userId] = {'cognitiveData_Hot': entity.copy()}
-    for q in [cold_pre, cold_post, hot_pre, hot_post]:
+    for q in [baseline, cold_pre, cold_post, hot_pre, hot_post]:
         for entity in q:
             userId = int(entity['userId'])
             entity.pop('userId')
@@ -52,7 +54,7 @@ def mergeJson(filepath: str = './data/json/'):
         entity = merged_dict[userId]
         if not (('cognitiveData_Cold' in entity) and ('cognitiveData_Hot') in entity
                 and ('VAS_Post_Cold' in entity) and ('VAS_Post_Hot' in entity)
-                and ('VAS_Pre_Cold' in entity) and ('VAS_Pre_Hot' in entity)):
+                and ('VAS_Pre_Cold' in entity) and ('VAS_Pre_Hot' in entity) and ('SMM_G' in entity)):
             closure.pop(userId)
     closure = dict(sorted(closure.items(), key=lambda d: d[0]))
     with open('./data/json/closure.json', encoding='utf8', mode='w') as f:

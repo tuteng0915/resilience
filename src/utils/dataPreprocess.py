@@ -22,7 +22,7 @@ def dataPreprocess(write=False):
             for j in file.keys()[17:-2]:
                 temp.append(file[j].values)
             df = pd.DataFrame(np.array(temp).T, columns=file.keys()[17:-2])
-            df.sort_values([file.keys()[19]], ascending=True, inplace=True)
+            df.sort_values([file.keys()[17]], ascending=True, inplace=True)
             df.reset_index(drop=True, inplace=True)
             if write:
                 df.to_csv(r'./data/' + fileName)
