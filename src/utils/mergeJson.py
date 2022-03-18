@@ -24,6 +24,8 @@ def mergeJson(filepath: str = './data/json/'):
         hot_pre = json.load(f)
     with open(filepath + 'Hot_Post_selfreport.json', encoding='utf8', mode='r') as f:
         hot_post = json.load(f)
+    with open(filepath + 'participant.json', encoding='utf8', mode='r') as f:
+        participant = json.load(f)
 
     for entity in cog_cold:
         userId = int(entity['userId'])
@@ -36,9 +38,11 @@ def mergeJson(filepath: str = './data/json/'):
             merged_dict[userId]['cognitiveData_Hot'] = entity.copy()
         else:
             merged_dict[userId] = {'cognitiveData_Hot': entity.copy()}
-    for q in [baseline, cold_pre, cold_post, hot_pre, hot_post]:
+    for q in [baseline, participant, cold_pre, cold_post, hot_pre, hot_post]:
         for entity in q:
             userId = int(entity['userId'])
+            if q is baseline:
+                entity.pop('gender')
             entity.pop('userId')
             if userId in merged_dict:
                 merged_dict[userId] = dict(merged_dict[userId], **entity)

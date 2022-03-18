@@ -3,7 +3,6 @@
         "firstName": "Yasha",
         "lastName": "Vasilyev",
         "age": 12,
-        "gender": "Decline to answer",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.75,
@@ -37,7 +36,6 @@
         "firstName": "Briana Sun",
         "lastName": "nan",
         "age": 10,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.25,
@@ -48,6 +46,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.19,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -125,7 +126,6 @@
         "firstName": "Nathan ",
         "lastName": "nan",
         "age": 14,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -135,7 +135,10 @@
             "SMM_G_6": 0.25,
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
-        }
+        },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold"
     },
     "403": {
         "cognitiveData_Cold": {
@@ -150,7 +153,6 @@
         "firstName": "Tenzin Jamyang",
         "lastName": "nan",
         "age": 15,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.5,
@@ -161,6 +163,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -241,7 +246,6 @@
         "firstName": "Eden Grossman",
         "lastName": "nan",
         "age": 14,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -252,6 +256,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.26,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -347,7 +354,6 @@
         "firstName": "Lauren Lin",
         "lastName": "nan",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.75,
@@ -358,6 +364,9 @@
             "SMM_G_7": 0.0,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.61,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -453,7 +462,6 @@
         "firstName": "Santiago Derrien",
         "lastName": "nan",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -464,6 +472,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.09,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -544,7 +555,6 @@
         "firstName": "Kelsey Senner",
         "lastName": "nan",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.0,
@@ -555,6 +565,9 @@
             "SMM_G_7": 0.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -650,7 +663,6 @@
         "firstName": "Paolo Caggioni",
         "lastName": "nan",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -661,6 +673,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -756,7 +771,6 @@
         "firstName": "Adam Veliz",
         "lastName": "nan",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -767,6 +781,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -862,7 +879,6 @@
         "firstName": "Mae Alwart",
         "lastName": "nan",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -873,6 +889,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.08,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -968,7 +987,6 @@
         "firstName": "Donovan Carroll ",
         "lastName": "nan",
         "age": 14,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -979,6 +997,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -1074,7 +1095,6 @@
         "firstName": "Olivia Long",
         "lastName": "nan",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -1085,6 +1105,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.19,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -1180,7 +1203,6 @@
         "firstName": "Jack Armstrong ",
         "lastName": "nan",
         "age": 15,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.25,
@@ -1191,6 +1213,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.4,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -1268,7 +1293,6 @@
         "firstName": "Gracen Golebiewski",
         "lastName": "nan",
         "age": 15,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.25,
@@ -1278,7 +1302,10 @@
             "SMM_G_6": 0.25,
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
-        }
+        },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold"
     },
     "415": {
         "cognitiveData_Cold": {
@@ -1302,7 +1329,6 @@
         "firstName": "Colette Murray Hayden",
         "lastName": "nan",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.5,
@@ -1313,6 +1339,9 @@
             "SMM_G_7": 0.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -1399,7 +1428,6 @@
         "firstName": "Caroline Murray Hayden",
         "lastName": "nan",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.75,
@@ -1410,6 +1438,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Hot": 0.46,
         "STAI_Pre_Hot": {
             "calm": 0.25,
@@ -1469,7 +1500,6 @@
         "firstName": "Jack Ellingwood",
         "lastName": "nan",
         "age": 15,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -1480,6 +1510,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.12,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -1566,7 +1599,6 @@
         "firstName": "Sai Pranav Gandhi",
         "lastName": "nan",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -1577,6 +1609,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Hot": 0.0,
         "STAI_Pre_Hot": {
             "calm": 1.0,
@@ -1636,7 +1671,6 @@
         "firstName": "Siena Fershtman",
         "lastName": "nan",
         "age": 16,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.75,
@@ -1647,6 +1681,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.3,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -1742,7 +1779,6 @@
         "firstName": "Krystal Gan",
         "lastName": "nan",
         "age": 16,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.5,
@@ -1753,6 +1789,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.09,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -1848,7 +1887,6 @@
         "firstName": "Lydia Ellingwood",
         "lastName": "nan",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -1859,6 +1897,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.51,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -1945,7 +1986,6 @@
         "firstName": "Jack Reynolds ",
         "lastName": "nan",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.25,
             "SMM_G_2": 0.5,
@@ -1956,6 +1996,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Hot": 0.02,
         "STAI_Pre_Hot": {
             "calm": 0.5,
@@ -2006,7 +2049,6 @@
         "firstName": "Sophie Reynolds",
         "lastName": "nan",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.25,
@@ -2017,6 +2059,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.02,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -2112,7 +2157,6 @@
         "firstName": "Damian Hanford",
         "lastName": "nan",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.25,
             "SMM_G_2": 0.5,
@@ -2123,6 +2167,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.05,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -2218,7 +2265,6 @@
         "firstName": "Fionnuala Dill",
         "lastName": "nan",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.75,
@@ -2229,6 +2275,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.54,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -2324,7 +2373,6 @@
         "firstName": "Orlaith Dill",
         "lastName": "nan",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -2335,6 +2383,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -2430,7 +2481,6 @@
         "firstName": "Natalie Merriam",
         "lastName": "nan",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.75,
@@ -2441,6 +2491,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.04,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -2527,7 +2580,6 @@
         "firstName": "Isabelle Merriam ",
         "lastName": "nan",
         "age": 14,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -2538,6 +2590,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.5,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -2612,7 +2667,6 @@
         "firstName": "Julie Breedveld",
         "lastName": "nan",
         "age": 16,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -2623,6 +2677,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.5,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -2718,7 +2775,6 @@
         "firstName": "Alivia Rossi",
         "lastName": "nan",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.25,
             "SMM_G_2": 0.25,
@@ -2729,6 +2785,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.02,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -2824,7 +2883,6 @@
         "firstName": "Aarav Vijay",
         "lastName": "nan",
         "age": 15,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.75,
@@ -2835,6 +2893,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.09,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -2930,7 +2991,6 @@
         "firstName": "Fitz Green",
         "lastName": "nan",
         "age": 14,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -2941,6 +3001,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.16,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -3036,7 +3099,6 @@
         "firstName": "Carys Green",
         "lastName": "nan",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.25,
             "SMM_G_2": 0.75,
@@ -3047,6 +3109,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -3133,7 +3198,6 @@
         "firstName": "Emma Hicke",
         "lastName": "nan",
         "age": 13,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -3144,6 +3208,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.2,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -3239,7 +3306,6 @@
         "firstName": "Conor Hicke",
         "lastName": "nan",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -3250,6 +3316,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.08,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -3345,7 +3414,6 @@
         "firstName": "Garion O'Hehir",
         "lastName": "nan",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -3356,6 +3424,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.75
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.07,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -3451,7 +3522,6 @@
         "firstName": "Cam ",
         "lastName": "nan",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -3462,6 +3532,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -3557,7 +3630,6 @@
         "firstName": "Noah Miller",
         "lastName": "nan",
         "age": 14,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.0,
@@ -3568,6 +3640,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Post_Hot": 0.6,
         "STAI_Post_Hot": {
             "calm": 0.25,
@@ -3603,7 +3678,6 @@
         "firstName": "Avery Donschikowski",
         "lastName": "nan",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.0,
@@ -3614,6 +3688,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.3,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -3709,7 +3786,6 @@
         "firstName": "Melina Menghi",
         "lastName": "nan",
         "age": 16,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -3720,6 +3796,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.55,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -3815,7 +3894,6 @@
         "firstName": "Zachary Dubuc",
         "lastName": "nan",
         "age": 16,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.0,
@@ -3826,6 +3904,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -3912,7 +3993,6 @@
         "firstName": "John Tan-Aristy",
         "lastName": "nan",
         "age": 14,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -3923,6 +4003,9 @@
             "SMM_G_7": 0.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -4009,7 +4092,6 @@
         "firstName": "Dayllen Freire-Depina",
         "lastName": "nan",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -4020,6 +4102,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -4079,7 +4164,6 @@
         "firstName": "Oliver Song",
         "lastName": "nan",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.0,
@@ -4090,6 +4174,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.02,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -4176,7 +4263,6 @@
         "firstName": "Erik Miller",
         "lastName": "nan",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.25,
@@ -4187,6 +4273,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.61,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -4273,7 +4362,6 @@
         "firstName": "Cameron Jones",
         "lastName": "nan",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.25,
@@ -4284,6 +4372,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Hot": 0.02,
         "STAI_Pre_Hot": {
             "calm": 0.75,
@@ -4343,7 +4434,6 @@
         "firstName": "Mia Brassell",
         "lastName": "nan",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -4354,6 +4444,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -4440,7 +4533,6 @@
         "firstName": "Samuel Davis",
         "lastName": "nan",
         "age": 14,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -4451,6 +4543,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -4528,7 +4623,6 @@
         "firstName": "Leyna Pham",
         "lastName": "nan",
         "age": 16,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.75,
@@ -4539,6 +4633,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.75
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.09,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -4598,7 +4695,6 @@
         "firstName": "Theodore Salvin",
         "lastName": "nan",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.75,
@@ -4609,6 +4705,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.39,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -4704,7 +4803,6 @@
         "firstName": "James Tan-Aristy",
         "lastName": "nan",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.75,
@@ -4715,6 +4813,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.3,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -4810,7 +4911,6 @@
         "firstName": "Davis",
         "lastName": "nan",
         "age": 14,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.25,
@@ -4821,6 +4921,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.06,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -4916,7 +5019,6 @@
         "firstName": "kayley",
         "lastName": "nan",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.5,
@@ -4927,6 +5029,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.17,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -5019,6 +5124,9 @@
             "inversion_rt": 0.4748377278817292,
             "memory": 0.9210633116883117
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.06,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -5105,7 +5213,6 @@
         "firstName": "Calvin Long",
         "lastName": "nan",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -5116,6 +5223,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.09,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -5211,7 +5321,6 @@
         "firstName": "Catherine",
         "lastName": "Johnson",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.25,
@@ -5222,6 +5331,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -5317,7 +5429,6 @@
         "firstName": "Lorenzo Blackston ",
         "lastName": "nan",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.25,
@@ -5328,6 +5439,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -5420,6 +5534,9 @@
             "inversion_rt": 0.5941679292525773,
             "memory": 0.96875
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -5515,7 +5632,6 @@
         "firstName": "Finley Long",
         "lastName": "nan",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.25,
@@ -5526,6 +5642,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -5621,7 +5740,6 @@
         "firstName": "Leah Cooper",
         "lastName": "nan",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -5632,6 +5750,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.05,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -5724,6 +5845,9 @@
             "inversion_rt": 0.4600439443015111,
             "memory": 0.975
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.05,
         "STAI_Pre_Cold": {
             "calm": 0.0,
@@ -5810,7 +5934,6 @@
         "firstName": "Charles Johnson",
         "lastName": "nan",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.25,
@@ -5821,6 +5944,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Hot": 0.0,
         "STAI_Pre_Hot": {
             "calm": 1.0,
@@ -5880,7 +6006,6 @@
         "firstName": "Nava Galperin",
         "lastName": "nan",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.0,
             "SMM_G_2": 0.5,
@@ -5891,6 +6016,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -5986,7 +6114,6 @@
         "firstName": "Andreas Bai",
         "lastName": "nan",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -5997,6 +6124,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.06,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -6092,7 +6222,6 @@
         "firstName": "Lachlan ",
         "lastName": "nan",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -6103,6 +6232,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -6198,7 +6330,6 @@
         "firstName": "EMILIANO BLACK",
         "lastName": "nan",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.75,
@@ -6209,6 +6340,9 @@
             "SMM_G_7": 0.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -6304,7 +6438,6 @@
         "firstName": "Ethan Yu",
         "lastName": "nan",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 1.0,
@@ -6315,6 +6448,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -6410,7 +6546,6 @@
         "firstName": "Sanviti Amarnath ",
         "lastName": "nan",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.0,
@@ -6421,6 +6556,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -6516,7 +6654,6 @@
         "firstName": "Jonathan Andreoli",
         "lastName": "nan",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -6527,6 +6664,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.12,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -6622,7 +6762,6 @@
         "firstName": "Mia Andreoli",
         "lastName": "nan",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 1.0,
@@ -6633,6 +6772,9 @@
             "SMM_G_7": 0.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -6728,7 +6870,6 @@
         "firstName": "Chase Roberts",
         "lastName": "nan",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -6739,6 +6880,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -6834,7 +6978,6 @@
         "firstName": "Matthew Lubarsky",
         "lastName": "nan",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -6845,6 +6988,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.2,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -6922,7 +7068,6 @@
         "firstName": "Olivia Zawada",
         "lastName": "nan",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -6933,6 +7078,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -7028,7 +7176,6 @@
         "firstName": "de Monchaux Charles",
         "lastName": "nan",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -7039,6 +7186,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.25,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -7134,7 +7284,6 @@
         "firstName": "Inara Barker",
         "lastName": "nan",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.0,
@@ -7145,6 +7294,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.6,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -7222,7 +7374,6 @@
         "firstName": "Andy Pham",
         "lastName": "nan",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.0,
@@ -7233,6 +7384,9 @@
             "SMM_G_7": 0.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -7292,7 +7446,6 @@
         "firstName": "Maia Shen",
         "lastName": "nan",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.25,
@@ -7303,6 +7456,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.2,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -7398,7 +7554,6 @@
         "firstName": "Claire Foster",
         "lastName": "nan",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.5,
@@ -7409,6 +7564,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -7504,7 +7662,6 @@
         "firstName": "Jack",
         "lastName": "Blakemore",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -7515,6 +7672,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -7610,7 +7770,6 @@
         "firstName": "Hano",
         "lastName": "Roughley",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -7621,6 +7780,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -7716,7 +7878,6 @@
         "firstName": "Ingo",
         "lastName": "Roughley",
         "age": 10,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.0,
@@ -7727,6 +7888,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -7804,7 +7968,6 @@
         "firstName": "luc",
         "lastName": "clemenceau",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.75,
@@ -7814,7 +7977,10 @@
             "SMM_G_6": 0.25,
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
-        }
+        },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold"
     },
     "483": {
         "cognitiveData_Cold": {
@@ -7829,7 +7995,6 @@
         "firstName": "Gabi Matas",
         "lastName": "nan",
         "age": 13,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.5,
@@ -7840,6 +8005,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.5,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -7890,7 +8058,6 @@
         "firstName": "Jasper",
         "lastName": "Blachly-Nelson",
         "age": 12,
-        "gender": "Other",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.25,
@@ -7901,6 +8068,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
         },
+        "gender": "Other",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Post_Cold": 0.6,
         "STAI_Post_Cold": {
             "calm": 0.5,
@@ -7981,7 +8151,6 @@
         "firstName": "Mattia",
         "lastName": "Farmer",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -7992,6 +8161,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.2,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -8087,7 +8259,6 @@
         "firstName": "Quintyn",
         "lastName": "Scott",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.75,
@@ -8098,6 +8269,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -8193,7 +8367,6 @@
         "firstName": "Elizabeth",
         "lastName": "Alderfer",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.0,
@@ -8204,6 +8377,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.26,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -8290,7 +8466,6 @@
         "firstName": "Mateo",
         "lastName": "Sierra",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.0,
@@ -8301,6 +8476,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.02,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -8396,7 +8574,6 @@
         "firstName": "Sylvia",
         "lastName": "Crittenden",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.75,
@@ -8407,6 +8584,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.03,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -8502,7 +8682,6 @@
         "firstName": "Jackson Hicke",
         "lastName": "nan",
         "age": 16,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.75,
@@ -8513,6 +8692,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.49,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -8599,7 +8781,6 @@
         "firstName": "Aniceta",
         "lastName": "Bochnak",
         "age": 13,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.75,
@@ -8610,6 +8791,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.25,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -8663,7 +8847,6 @@
         "firstName": "Saras",
         "lastName": "Raghavan",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.0,
@@ -8674,6 +8857,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.02,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -8751,7 +8937,6 @@
         "firstName": "David",
         "lastName": "Furtek",
         "age": 14,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.75,
@@ -8762,6 +8947,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.75
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.3,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -8800,7 +8988,6 @@
         "firstName": "Willard \"Hayes\"",
         "lastName": "Thompson",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.0,
@@ -8811,6 +8998,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.06,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -8888,7 +9078,6 @@
         "firstName": "Claire Wang",
         "lastName": "nan",
         "age": 16,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.75,
@@ -8898,7 +9087,10 @@
             "SMM_G_6": 0.25,
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
-        }
+        },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot"
     },
     "496": {
         "cognitiveData_Cold": {
@@ -8922,7 +9114,6 @@
         "firstName": "Liam",
         "lastName": "Maio",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.75,
@@ -8933,6 +9124,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -9028,7 +9222,6 @@
         "firstName": "Mateus",
         "lastName": "Verdi",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -9039,6 +9232,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.22,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -9134,7 +9330,6 @@
         "firstName": "Wesley Acton",
         "lastName": "nan",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.75,
@@ -9145,6 +9340,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.4,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -9240,7 +9438,6 @@
         "firstName": "Adam ",
         "lastName": "Bonanno",
         "age": 14,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -9251,6 +9448,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.05,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -9346,7 +9546,6 @@
         "firstName": "Charlie",
         "lastName": "Gomes Casseres",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -9357,6 +9556,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.04,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -9452,7 +9654,6 @@
         "firstName": "Jaden",
         "lastName": "Brophy",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.0,
@@ -9463,6 +9664,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -9558,7 +9762,6 @@
         "firstName": "Anna",
         "lastName": "Du",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.25,
@@ -9569,6 +9772,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.19,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -9664,7 +9870,6 @@
         "firstName": "Kathy",
         "lastName": "Lin",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.0,
@@ -9675,6 +9880,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -9761,7 +9969,6 @@
         "firstName": "Juliette",
         "lastName": "Kopala",
         "age": 13,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.0,
@@ -9772,6 +9979,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.65,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -9867,7 +10077,6 @@
         "firstName": "Scarlett",
         "lastName": "Kopala",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.25,
@@ -9878,6 +10087,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.5,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -9973,7 +10185,6 @@
         "firstName": "Ian",
         "lastName": "Johnson",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -9984,6 +10195,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.3,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -10079,7 +10293,6 @@
         "firstName": "Guangchun",
         "lastName": "Fu",
         "age": 17,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.75,
@@ -10090,6 +10303,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.75
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -10185,7 +10401,6 @@
         "firstName": "Oliver",
         "lastName": "Copps",
         "age": 16,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -10196,6 +10411,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.3,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -10291,7 +10509,6 @@
         "firstName": "Joyce",
         "lastName": "Chan",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.25,
             "SMM_G_2": 0.75,
@@ -10302,6 +10519,9 @@
             "SMM_G_7": 0.0,
             "SMM_G_8": 1.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.35,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -10388,7 +10608,6 @@
         "firstName": "Tina",
         "lastName": "Nguyen ",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.5,
@@ -10399,6 +10618,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -10485,7 +10707,6 @@
         "firstName": "Cooper",
         "lastName": "Katz",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.0,
             "SMM_G_2": 1.0,
@@ -10496,6 +10717,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -10573,7 +10797,6 @@
         "firstName": "Benjamin",
         "lastName": "Jacobson",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -10583,7 +10806,10 @@
             "SMM_G_6": 1.0,
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
-        }
+        },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold"
     },
     "513": {
         "cognitiveData_Cold": {
@@ -10607,7 +10833,6 @@
         "firstName": "Bryce",
         "lastName": "Hilliard",
         "age": 16,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 1.0,
@@ -10618,6 +10843,9 @@
             "SMM_G_7": 0.0,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -10713,7 +10941,6 @@
         "firstName": "Katy",
         "lastName": "Jiang",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.0,
@@ -10724,6 +10951,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.53,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -10801,7 +11031,6 @@
         "firstName": "Robby",
         "lastName": "Mohler ",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -10812,6 +11041,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.15,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -10907,7 +11139,6 @@
         "firstName": "Lindsay",
         "lastName": "Kwon",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -10918,6 +11149,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.12,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -11013,7 +11247,6 @@
         "firstName": "Devin",
         "lastName": "Walsh",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.25,
             "SMM_G_2": 0.75,
@@ -11024,6 +11257,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -11119,7 +11355,6 @@
         "firstName": "Alayna",
         "lastName": "Dana",
         "age": 13,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.25,
             "SMM_G_2": 0.5,
@@ -11130,6 +11365,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -11225,7 +11463,6 @@
         "firstName": "Edgar",
         "lastName": "Nava",
         "age": 14,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -11236,6 +11473,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -11331,7 +11571,6 @@
         "firstName": "OwenSamuel",
         "lastName": "Kawecki",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.25,
             "SMM_G_2": 0.75,
@@ -11342,6 +11581,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -11437,7 +11679,6 @@
         "firstName": "Gryffin",
         "lastName": "Marks",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.0,
@@ -11448,6 +11689,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.03,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -11543,7 +11787,6 @@
         "firstName": "Michelle ",
         "lastName": "Do",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.75,
@@ -11554,6 +11797,9 @@
             "SMM_G_7": 0.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.05,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -11649,7 +11895,6 @@
         "firstName": "Maya",
         "lastName": "Antal",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -11660,6 +11905,9 @@
             "SMM_G_7": 0.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.04,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -11755,7 +12003,6 @@
         "firstName": "Isabella ",
         "lastName": "Antal",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -11766,6 +12013,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -11861,7 +12111,6 @@
         "firstName": "Alexandre",
         "lastName": "Hurel ",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -11872,6 +12121,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -11949,7 +12201,6 @@
         "firstName": "Juliana",
         "lastName": "Vitello",
         "age": 14,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.25,
             "SMM_G_2": 0.75,
@@ -11959,7 +12210,10 @@
             "SMM_G_6": 0.5,
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
-        }
+        },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold"
     },
     "527": {
         "cognitiveData_Cold": {
@@ -11983,7 +12237,6 @@
         "firstName": "Thomas",
         "lastName": "Blake",
         "age": 14,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -11994,6 +12247,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.15,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -12080,7 +12336,6 @@
         "firstName": "Oliver",
         "lastName": "Lavallee",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.5,
@@ -12091,6 +12346,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.14,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -12177,7 +12435,6 @@
         "firstName": "Ion",
         "lastName": "Cook",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -12188,6 +12445,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.5,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -12274,7 +12534,6 @@
         "firstName": "Q",
         "lastName": "Cook",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -12285,6 +12544,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.2,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -12380,7 +12642,6 @@
         "firstName": "Karina",
         "lastName": "Rodriguez",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.25,
@@ -12391,6 +12652,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.41,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -12486,7 +12750,6 @@
         "firstName": "Brandon",
         "lastName": "Douglas",
         "age": 15,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.25,
             "SMM_G_2": 0.75,
@@ -12497,6 +12760,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.47,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -12592,7 +12858,6 @@
         "firstName": "Alexander",
         "lastName": "Picker",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -12603,6 +12868,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.23,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -12689,7 +12957,6 @@
         "firstName": "Faris",
         "lastName": "Kassem",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.75,
@@ -12700,6 +12967,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.12,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -12795,7 +13065,6 @@
         "firstName": "Bront",
         "lastName": "Wohlleben",
         "age": 13,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -12806,6 +13075,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.05,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -12883,7 +13155,6 @@
         "firstName": "Marlon",
         "lastName": "Beram",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.25,
@@ -12894,6 +13165,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -12989,7 +13263,6 @@
         "firstName": "Jason",
         "lastName": "Russello",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.75,
@@ -13000,6 +13273,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.03,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -13086,7 +13362,6 @@
         "firstName": "Danielle",
         "lastName": "Russello",
         "age": 14,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.75,
@@ -13097,6 +13372,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 1.0,
@@ -13192,7 +13470,6 @@
         "firstName": "Maddie",
         "lastName": "Song",
         "age": 14,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -13203,6 +13480,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.02,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -13289,7 +13569,6 @@
         "firstName": "Claire",
         "lastName": "Weems",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.75,
@@ -13300,6 +13579,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -13359,7 +13641,6 @@
         "firstName": "Aarush",
         "lastName": "Maddi",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.25,
@@ -13370,6 +13651,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.5
         },
+        "gender": "Male",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.79,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -13465,7 +13749,6 @@
         "firstName": "Adrian",
         "lastName": "Caraballo",
         "age": 11,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 1.0,
             "SMM_G_2": 0.25,
@@ -13476,6 +13759,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -13562,7 +13848,6 @@
         "firstName": "Sophie",
         "lastName": "Kang",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -13573,6 +13858,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.65,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -13659,7 +13947,6 @@
         "firstName": "Laila ",
         "lastName": "Ramirez ",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.75,
@@ -13670,6 +13957,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.83,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -13765,7 +14055,6 @@
         "firstName": "Sophia",
         "lastName": "Romanow",
         "age": 13,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.75,
@@ -13776,6 +14065,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.3,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -13862,7 +14154,6 @@
         "firstName": "Kalle",
         "lastName": "Nikula-Gill",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.0,
@@ -13873,6 +14164,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.6,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -13959,7 +14253,6 @@
         "firstName": "Jessica",
         "lastName": "Meyer",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.0,
@@ -13970,6 +14263,9 @@
             "SMM_G_7": 1.0,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.03,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -14047,7 +14343,6 @@
         "firstName": "greta",
         "lastName": "martin",
         "age": 14,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -14058,6 +14353,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Hot": 0.3,
         "STAI_Pre_Hot": {
             "calm": 0.5,
@@ -14108,7 +14406,6 @@
         "firstName": "Skye",
         "lastName": "Bowers",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.0,
@@ -14119,6 +14416,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.03,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -14214,7 +14514,6 @@
         "firstName": "Michelle",
         "lastName": "Gee",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -14225,6 +14524,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.24,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -14320,7 +14622,6 @@
         "firstName": "Shannon",
         "lastName": "Raneri",
         "age": 13,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.0,
             "SMM_G_2": 0.0,
@@ -14331,6 +14632,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.0,
         "STAI_Pre_Cold": {
             "calm": 0.0,
@@ -14417,7 +14721,6 @@
         "firstName": "Maya",
         "lastName": "Perry",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -14428,6 +14731,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.1,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -14514,7 +14820,6 @@
         "firstName": "Lydia",
         "lastName": "Martin",
         "age": 11,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -14525,6 +14830,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.3,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -14611,7 +14919,6 @@
         "firstName": "Vivi",
         "lastName": "Han",
         "age": 16,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.75,
@@ -14622,6 +14929,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.4,
         "STAI_Pre_Cold": {
             "calm": 0.25,
@@ -14693,7 +15003,6 @@
         "firstName": "Abby ",
         "lastName": "De Buck",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.5,
@@ -14704,6 +15013,9 @@
             "SMM_G_7": 0.0,
             "SMM_G_8": 0.0
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.01,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -14790,7 +15102,6 @@
         "firstName": "Sadie",
         "lastName": "Chesloff",
         "age": 15,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.5,
             "SMM_G_2": 0.75,
@@ -14801,6 +15112,9 @@
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.25,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -14887,7 +15201,6 @@
         "firstName": "Tessa",
         "lastName": "Chesloff",
         "age": 13,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.25,
             "SMM_G_2": 0.5,
@@ -14898,6 +15211,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.15,
         "STAI_Pre_Cold": {
             "calm": 0.75,
@@ -14975,7 +15291,6 @@
         "firstName": "Carver",
         "lastName": "Heyniger",
         "age": 12,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -14985,13 +15300,15 @@
             "SMM_G_6": 0.25,
             "SMM_G_7": 0.25,
             "SMM_G_8": 0.25
-        }
+        },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold"
     },
     "559": {
         "firstName": "Audrey",
         "lastName": "Heyniger",
         "age": 12,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.0,
@@ -15001,13 +15318,15 @@
             "SMM_G_6": 0.0,
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
-        }
+        },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot"
     },
     "560": {
         "firstName": "Nayeli",
         "lastName": "Perez",
         "age": 16,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.75,
@@ -15018,6 +15337,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Hot": 0.04,
         "STAI_Pre_Hot": {
             "calm": 1.0,
@@ -15059,7 +15381,6 @@
         "firstName": "Amanda",
         "lastName": "Offsey",
         "age": 14,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.25,
             "SMM_G_2": 0.75,
@@ -15070,6 +15391,9 @@
             "SMM_G_7": 0.5,
             "SMM_G_8": 0.75
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.42,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -15120,7 +15444,6 @@
         "firstName": "Damon",
         "lastName": "Foxe",
         "age": 13,
-        "gender": "Male",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -15131,6 +15454,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.0
         },
+        "gender": "Male",
+        "session_1": "Hot",
+        "session_2": "Cold",
         "VAS_Pre_Cold": 0.2,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -15208,7 +15534,6 @@
         "firstName": "Madelin",
         "lastName": "Singer",
         "age": 16,
-        "gender": "Female",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.25,
@@ -15219,6 +15544,9 @@
             "SMM_G_7": 0.75,
             "SMM_G_8": 0.25
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.26,
         "STAI_Pre_Cold": {
             "calm": 0.5,
@@ -15296,7 +15624,6 @@
         "firstName": "Kate",
         "lastName": "Singer",
         "age": 14,
-        "gender": "Non-binary",
         "SMM_G": {
             "SMM_G_1": 0.75,
             "SMM_G_2": 0.5,
@@ -15307,6 +15634,9 @@
             "SMM_G_7": 0.0,
             "SMM_G_8": 0.5
         },
+        "gender": "Female",
+        "session_1": "Cold",
+        "session_2": "Hot",
         "VAS_Pre_Cold": 0.14,
         "STAI_Pre_Cold": {
             "calm": 0.25,

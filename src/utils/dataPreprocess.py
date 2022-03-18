@@ -8,10 +8,9 @@ import numpy as np
 
 
 def dataPreprocess(write=False):
-    for i, j, k in os.walk(r"./data/raw"):
-        fileList = k
-    print(fileList)
-
+    fileList = ['Baseline_selfreport.csv', 'CognitiveData_Cold.csv', 'CognitiveData_Hot.csv',
+                'Cold_Post_selfreport.csv', 'Hot_Post_selfreport.csv',
+                'Cold_Post_selfreport.csv', 'Cold_Post_selfreport.csv']
     all_data = []
     for fileName in fileList:
         file = pd.read_csv(r"./data/raw/" + fileName)

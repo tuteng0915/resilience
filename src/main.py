@@ -1,6 +1,6 @@
 import json
 from utils.dataPreprocess import dataPreprocess
-from utils.csv2json import fromCognitiveData, fromPreSelfReport, fromPostSelfReport, fromBaseline
+from utils.csv2json import *
 from utils.mergeJson import mergeJson
 
 

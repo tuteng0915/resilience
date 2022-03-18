@@ -180,3 +180,16 @@ def fromBaseline(filepath: str = './data/Baseline_selfreport.csv'):
     return js
 
 
+def formParticipant(filepath: str = './data/raw/SID participant name.csv'):
+    file = pd.read_csv(filepath)
+    js = list(dict())
+    for index, row in file.iterrows():
+        entity = {"userId": int(row['Subject ID']),
+                  "gender": str(row['Gender']),
+                  "session_1": str(row['Session 1']),
+                  "session_2": str(row['Session 2'])}
+        js.append(entity)
+    with open('./data/json/participant.json', encoding='utf8', mode='w') as f:
+        json.dump(js, f, indent=4)
+    return js
+
