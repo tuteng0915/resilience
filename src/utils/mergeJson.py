@@ -4,6 +4,17 @@ Combine the user performance and report from the four questionnaires
 import json
 
 
+def idBaseline(filepath: str = './data/json/'):
+    with open(filepath + 'Baseline_selfreport.json', encoding='utf8', mode='r') as f:
+        baseline = json.load(f)
+    with open(filepath + 'Baseline_selfreport_copy.json', encoding='utf8', mode='r') as f:
+        ids = json.load(f)
+    for i in range(len(baseline)):
+        baseline[i]['userId'] = ids[i]['userId']
+    with open('./data/json/Baseline_selfreport.json', encoding='utf8', mode='w') as f:
+        json.dump(baseline, f, indent=4)
+
+
 def mergeJson(filepath: str = './data/json/'):
     """
     :param filepath

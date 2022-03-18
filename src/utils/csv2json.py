@@ -169,10 +169,29 @@ def fromBaseline(filepath: str = './data/Baseline_selfreport.csv'):
                   "lastName": str(row['Q14']),
                   "age": int(float(row['Q3'])),
                   "gender": str(row['Q5'])}
+
+        erq_ca = dict()
+        erq_index = {1: 'Q12_1', 2: 'Q12_2', 3: 'Q12_3', 4: 'Q12_4', 5: 'Q12_5',
+                     6: 'Q8_1', 7: 'Q8_2', 8: 'Q8_3', 9: 'Q8_4', 10: 'Q8_5'}
+        for i in erq_index:
+            erq_ca['ERQ_CA_Q' + str(i)] = (float(row[erq_index[i]]) - 1.0) / 4
+        entity['EQR_CA'] = erq_ca.copy()
+
         smm = dict()
         for i in range(8):
             smm['SMM_G_' + str(i + 1)] = (float(row['Q9_' + str(i + 1)]) - 1.0) / 4
         entity['SMM_G'] = smm.copy()
+
+        maas_a = dict()
+        maas_index = {1: 'Q10_1', 2: 'Q10_2', 3: 'Q10_3', 4: 'Q10_4', 5: 'Q10_5',
+             6: 'Q10_6', 7: 'Q10_7', 8: 'Q13_1', 9: 'Q13_2', 10: 'Q13_3',
+             11: 'Q13_4', 12: 'Q10_5', 13: 'Q10_6', 14: 'Q10_7'}
+        for i in maas_index:
+            maas_a['MAAS_A_Q' + str(i)] = (float(row[maas_index[i]]) - 1.0) / 4
+        entity['MAAS_A'] = maas_a.copy()
+
+        entity['MA'] = (float(row['Q11_1']) - 1.0) / 4
+
         # print(entity)
         js.append(entity)
     with open('./data/json/Baseline_selfreport.json', encoding='utf8', mode='w') as f:
@@ -192,4 +211,3 @@ def formParticipant(filepath: str = './data/raw/SID participant name.csv'):
     with open('./data/json/participant.json', encoding='utf8', mode='w') as f:
         json.dump(js, f, indent=4)
     return js
-
