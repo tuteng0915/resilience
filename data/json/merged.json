@@ -1,48 +1,4 @@
 {
-    "0": {
-        "firstName": "Yasha",
-        "lastName": "Vasilyev",
-        "age": 12,
-        "EQR_CA": {
-            "ERQ_CA_Q1": 0.5,
-            "ERQ_CA_Q2": 0.5,
-            "ERQ_CA_Q3": 0.75,
-            "ERQ_CA_Q4": 0.25,
-            "ERQ_CA_Q5": 0.75,
-            "ERQ_CA_Q6": 0.5,
-            "ERQ_CA_Q7": 0.75,
-            "ERQ_CA_Q8": 0.25,
-            "ERQ_CA_Q9": 0.25,
-            "ERQ_CA_Q10": 0.5
-        },
-        "SMM_G": {
-            "SMM_G_1": 0.5,
-            "SMM_G_2": 0.75,
-            "SMM_G_3": 0.25,
-            "SMM_G_4": 0.5,
-            "SMM_G_5": 0.25,
-            "SMM_G_6": 0.25,
-            "SMM_G_7": 0.25,
-            "SMM_G_8": 0.5
-        },
-        "MAAS_A": {
-            "MAAS_A_Q1": 0.75,
-            "MAAS_A_Q2": 1.0,
-            "MAAS_A_Q3": 1.0,
-            "MAAS_A_Q4": 0.75,
-            "MAAS_A_Q5": 0.5,
-            "MAAS_A_Q6": 0.5,
-            "MAAS_A_Q7": 0.75,
-            "MAAS_A_Q8": 0.75,
-            "MAAS_A_Q9": 0.75,
-            "MAAS_A_Q10": 1.0,
-            "MAAS_A_Q11": 0.75,
-            "MAAS_A_Q12": 0.5,
-            "MAAS_A_Q13": 0.5,
-            "MAAS_A_Q14": 0.75
-        },
-        "MA": 0.0
-    },
     "401": {
         "cognitiveData_Cold": {
             "inhibition": 0.896844474969475,
