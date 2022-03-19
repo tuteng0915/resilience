@@ -6,4 +6,5 @@ from utils.customizeJson import *
 
 
 if __name__ == '__main__':
-    customizeJson()
+    simplifyJson()
+    subdivision()

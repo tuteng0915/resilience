@@ -4,7 +4,55 @@ customize Json
 import json
 
 
-def customizeJson(filepath: str = './data/json/'):
+def subdivision(filepath: str = './data/json/'):
+    with open(filepath + 'simplified.json', encoding='utf8', mode='r') as f:
+        raw = json.load(f)
+    ch = dict()
+    hc = dict()
+    ac = dict()
+    ah = dict()
+    both = dict()
+    for i in raw:
+        print(i)
+        entry = raw[i]
+        if entry['User_Info']['Session_1'] == 'Cold':
+            ac[i] = {
+                'User_Info': entry['User_Info'],
+                'Baseline': entry['Baseline'],
+                'CognitiveData': entry['CognitiveData_Cold'],
+                'Pre': entry['Pre_Cold'],
+                'Post': entry['Post_Cold'],
+                'Other': entry['Other_Cold'],
+            }
+            if entry['User_Info']['Session_2'] == 'Hot':
+                ch[i] = entry
+                both[i] = entry
+        if entry['User_Info']['Session_1'] == 'Hot':
+            ah[i] = {
+                'User_Info': entry['User_Info'],
+                'Baseline': entry['Baseline'],
+                'CognitiveData': entry['CognitiveData_Hot'],
+                'Pre': entry['Pre_Hot'],
+                'Post': entry['Post_Hot'],
+                'Other': entry['Other_Hot'],
+            }
+            if entry['User_Info']['Session_2'] == 'Cold':
+                hc[i] = entry
+                both[i] = entry
+    print(len(ch), len(hc), len(ac), len(ah))
+    with open(filepath + 'subdivision/cold-hot.json', encoding='utf8', mode='w') as f:
+        json.dump(ch, f, indent=4)
+    with open(filepath + 'subdivision/hot-cold.json', encoding='utf8', mode='w') as f:
+        json.dump(hc, f, indent=4)
+    with open(filepath + 'subdivision/cold-first.json', encoding='utf8', mode='w') as f:
+        json.dump(ac, f, indent=4)
+    with open(filepath + 'subdivision/hot-first.json', encoding='utf8', mode='w') as f:
+        json.dump(ah, f, indent=4)
+    with open(filepath + 'subdivision/both.json', encoding='utf8', mode='w') as f:
+        json.dump(both, f, indent=4)
+
+
+def simplifyJson(filepath: str = './data/json/'):
     """
     :param filepath
     :return: dict(userId: dict(..))
@@ -16,23 +64,30 @@ def customizeJson(filepath: str = './data/json/'):
     for i in raw:
         entry = raw[i]
         if ('firstName' not in entry) or \
-                (('cognitiveData_Cold' not in entry) and ('cognitiveData_Cold' not in entry)):
+                (('VAS_Pre_Cold' not in entry or 'VAS_Post_Cold' not in entry or 'cognitiveData_Cold' not in entry)
+                 and ('VAS_Pre_Hot' not in entry or 'VAS_Post_Hot' not in entry or 'cognitiveData_Hot' not in entry)):
             continue
         # 合并rt
         try:
             cold = entry["cognitiveData_Cold"]
-            cold['reaction'] = (cold['inhibition_rt'] + cold['shifting_rt'] + cold['inversion_rt']) / 3
-            cold.pop('inhibition_rt')
-            cold.pop('shifting_rt')
-            cold.pop('inversion_rt')
+            cold_ = dict()
+            cold_['Reaction'] = (cold['inhibition_rt'] + cold['shifting_rt'] + cold['inversion_rt']) / 3
+            cold_['Inhibition'] = cold['inhibition']
+            cold_['Shifting'] = cold['shifting']
+            cold_['Inversion'] = cold['inversion']
+            cold_['Memory'] = cold['memory']
+            entry["cognitiveData_Cold"] = cold_.copy()
         except:
             pass
         try:
             hot = entry["cognitiveData_Hot"]
-            hot['reaction'] = (hot['inhibition_rt'] + hot['shifting_rt'] + hot['inversion_rt']) / 3
-            hot.pop('inhibition_rt')
-            hot.pop('shifting_rt')
-            hot.pop('inversion_rt')
+            hot_ = dict()
+            hot_['Reaction'] = (hot['inhibition_rt'] + hot['shifting_rt'] + hot['inversion_rt']) / 3
+            hot_['Inhibition'] = hot['inhibition']
+            hot_['Shifting'] = hot['shifting']
+            hot_['Inversion'] = hot['inversion']
+            hot_['Memory'] = hot['memory']
+            entry["cognitiveData_Hot"] = hot_.copy()
         except:
             pass
         # smm_g
@@ -100,25 +155,24 @@ def customizeJson(filepath: str = './data/json/'):
             entry['ERQ_Expressive_Suppression'] = es / 4
         except:
             pass
-        print(i)
 
-        if 'cognitiveData_Cold' not in entry:
+        if 'cognitiveData_Cold' not in entry or 'VAS_Post_Cold' not in entry or 'VAS_Pre_Cold' not in entry:
             if entry['session_1'] == 'Cold':
                 entry['session_1'] = entry['session_2']
             entry['session_2'] = 'NULL'
-        elif 'cognitiveData_Hot' not in entry:
+        elif 'cognitiveData_Hot' not in entry or 'VAS_Post_Hot' not in entry or 'VAS_Pre_Hot' not in entry:
             if entry['session_1'] == 'Hot':
                 entry['session_1'] = entry['session_2']
             entry['session_2'] = 'NULL'
 
         entry_ = {
             'User_Info': {
-                'firstName': entry['firstName'],
-                'lastName': entry['lastName'],
-                'age': entry['age'],
-                'gender': entry['gender'],
-                "session_1": entry['session_1'],
-                "session_2": entry['session_2'],
+                'FirstName': entry['firstName'],
+                'LastName': entry['lastName'],
+                'Age': entry['age'],
+                'Gender': entry['gender'],
+                "Session_1": entry['session_1'],
+                "Session_2": entry['session_2'],
             },
             'Baseline': {
                 'ERQ_Cognitive_Reappraisal': entry['ERQ_Cognitive_Reappraisal'],

@@ -21,10 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6e6153a7-6ada-4da0-9294-915095aa57d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/json/merged.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/json/merged.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataProcess.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataProcess.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/json/simplified.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/json/simplified.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/loadJson.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/customizeJson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/customizeJson.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/customizeJson.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <workItem from="1647022620911" duration="1089000" />
       <workItem from="1647054956837" duration="10359000" />
       <workItem from="1647180010961" duration="5941000" />
-      <workItem from="1647578886079" duration="19741000" />
+      <workItem from="1647578886079" duration="24459000" />
     </task>
     <servers />
   </component>
