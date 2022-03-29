@@ -1,0 +1,3011 @@
+[
+    {
+        "userId": 431,
+        "firstName": "Aarav Vijay",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 541,
+        "firstName": "Aarush",
+        "lastName": "Maddi",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 555,
+        "firstName": "Abby ",
+        "lastName": "De Buck",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 499,
+        "firstName": "Adam ",
+        "lastName": "Bonanno",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 409,
+        "firstName": "Adam Veliz",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 542,
+        "firstName": "Adrian",
+        "lastName": "Caraballo",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 518,
+        "firstName": "Alayna",
+        "lastName": "Dana",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 533,
+        "firstName": "Alexander",
+        "lastName": "Picker",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 525,
+        "firstName": "Alexandre",
+        "lastName": "Hurel ",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 430,
+        "firstName": "Alivia Rossi",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 561,
+        "firstName": "Amanda",
+        "lastName": "Offsey",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 1.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.75
+        }
+    },
+    {
+        "userId": 464,
+        "firstName": "Andreas Bai",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 476,
+        "firstName": "Andy Pham",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 491,
+        "firstName": "Aniceta",
+        "lastName": "Bochnak",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 502,
+        "firstName": "Anna",
+        "lastName": "Du",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 0,
+        "firstName": "Annie Talone",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 559,
+        "firstName": "Audrey",
+        "lastName": "Heyniger",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 439,
+        "firstName": "Avery Donschikowski",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 0,
+        "firstName": "Ben Rossi",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 512,
+        "firstName": "Benjamin",
+        "lastName": "Jacobson",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 1.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 532,
+        "firstName": "Brandon",
+        "lastName": "Douglas",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 401,
+        "firstName": "Briana Sun",
+        "lastName": "nan",
+        "age": 10,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 535,
+        "firstName": "Bront",
+        "lastName": "Wohlleben",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 513,
+        "firstName": "Bryce",
+        "lastName": "Hilliard",
+        "age": 16,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 1.0,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 1.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 455,
+        "firstName": "Calvin Long",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 437,
+        "firstName": "Cam ",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 446,
+        "firstName": "Cameron Jones",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 0,
+        "firstName": "Caroline",
+        "lastName": "Rapp",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 416,
+        "firstName": "Caroline Murray Hayden",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 558,
+        "firstName": "Carver",
+        "lastName": "Heyniger",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 433,
+        "firstName": "Carys Green",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 456,
+        "firstName": "Catherine",
+        "lastName": "Johnson",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 474,
+        "firstName": "Chad Velez",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 462,
+        "firstName": "Charles Johnson",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 500,
+        "firstName": "Charlie",
+        "lastName": "Gomes Casseres",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 471,
+        "firstName": "Chase Roberts",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 540,
+        "firstName": "Claire",
+        "lastName": "Weems",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 478,
+        "firstName": "Claire Foster",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 495,
+        "firstName": "Claire Wang",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 415,
+        "firstName": "Colette Murray Hayden",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 435,
+        "firstName": "Conor Hicke",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 511,
+        "firstName": "Cooper",
+        "lastName": "Katz",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.0,
+            "SMM_G_2": 1.0,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 424,
+        "firstName": "Damian Hanford",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 562,
+        "firstName": "Damon",
+        "lastName": "Foxe",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 538,
+        "firstName": "Danielle",
+        "lastName": "Russello",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 493,
+        "firstName": "David",
+        "lastName": "Furtek",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 1.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.75
+        }
+    },
+    {
+        "userId": 452,
+        "firstName": "Davis",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 443,
+        "firstName": "Dayllen Freire-Depina",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 517,
+        "firstName": "Devin",
+        "lastName": "Walsh",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 411,
+        "firstName": "Donovan Carroll ",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 466,
+        "firstName": "EMILIANO BLACK",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 404,
+        "firstName": "Eden Grossman",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 519,
+        "firstName": "Edgar",
+        "lastName": "Nava",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 487,
+        "firstName": "Elizabeth",
+        "lastName": "Alderfer",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 445,
+        "firstName": "Elsie Miller",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 434,
+        "firstName": "Emma Hicke",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 445,
+        "firstName": "Erik Miller",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 0,
+        "firstName": "Ethan Matas",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 467,
+        "firstName": "Ethan Yu",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 1.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 534,
+        "firstName": "Faris",
+        "lastName": "Kassem",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 459,
+        "firstName": "Finley Long",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 425,
+        "firstName": "Fionnuala Dill",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 432,
+        "firstName": "Fitz Green",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 0,
+        "firstName": "Francisco X. Zambrano",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.75
+        }
+    },
+    {
+        "userId": 483,
+        "firstName": "Gabi Matas",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 436,
+        "firstName": "Garion O'Hehir",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.75
+        }
+    },
+    {
+        "userId": 414,
+        "firstName": "Gracen Golebiewski",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 521,
+        "firstName": "Gryffin",
+        "lastName": "Marks",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 507,
+        "firstName": "Guangchun",
+        "lastName": "Fu",
+        "age": 17,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.75
+        }
+    },
+    {
+        "userId": 480,
+        "firstName": "Hano",
+        "lastName": "Roughley",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 506,
+        "firstName": "Ian",
+        "lastName": "Johnson",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 0,
+        "firstName": "Ikshula Prasad",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 475,
+        "firstName": "Inara Barker",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 481,
+        "firstName": "Ingo",
+        "lastName": "Roughley",
+        "age": 10,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 529,
+        "firstName": "Ion",
+        "lastName": "Cook",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 524,
+        "firstName": "Isabella ",
+        "lastName": "Antal",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 428,
+        "firstName": "Isabelle Merriam ",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 0,
+        "firstName": "Jack",
+        "lastName": "Barnes",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 479,
+        "firstName": "Jack",
+        "lastName": "Blakemore",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 413,
+        "firstName": "Jack Armstrong ",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 417,
+        "firstName": "Jack Ellingwood",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 422,
+        "firstName": "Jack Reynolds ",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 490,
+        "firstName": "Jackson Hicke",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 501,
+        "firstName": "Jaden",
+        "lastName": "Brophy",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 451,
+        "firstName": "James Tan-Aristy",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 537,
+        "firstName": "Jason",
+        "lastName": "Russello",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 484,
+        "firstName": "Jasper",
+        "lastName": "Blachly-Nelson",
+        "age": 12,
+        "gender": "Other",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 547,
+        "firstName": "Jessica",
+        "lastName": "Meyer",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 442,
+        "firstName": "John Tan-Aristy",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 548,
+        "firstName": "John-Michael Waldron ",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 0,
+        "firstName": "Jonah ",
+        "lastName": "Nicholas",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 469,
+        "firstName": "Jonathan Andreoli",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 509,
+        "firstName": "Joyce",
+        "lastName": "Chan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 1.0
+        }
+    },
+    {
+        "userId": 526,
+        "firstName": "Juliana",
+        "lastName": "Vitello",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 429,
+        "firstName": "Julie Breedveld",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 504,
+        "firstName": "Juliette",
+        "lastName": "Kopala",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 0,
+        "firstName": "Kaelan",
+        "lastName": "Curran",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 546,
+        "firstName": "Kalle",
+        "lastName": "Nikula-Gill",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 531,
+        "firstName": "Karina",
+        "lastName": "Rodriguez",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 564,
+        "firstName": "Kate",
+        "lastName": "Singer",
+        "age": 14,
+        "gender": "Non-binary",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 503,
+        "firstName": "Kathy",
+        "lastName": "Lin",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 514,
+        "firstName": "Katy",
+        "lastName": "Jiang",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 407,
+        "firstName": "Kelsey Senner",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 420,
+        "firstName": "Krystal Gan",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 0,
+        "firstName": "Kuo, Logan",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 465,
+        "firstName": "Lachlan ",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 544,
+        "firstName": "Laila ",
+        "lastName": "Ramirez ",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 405,
+        "firstName": "Lauren Lin",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 1.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 460,
+        "firstName": "Leah Cooper",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 449,
+        "firstName": "Leyna Pham",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.75
+        }
+    },
+    {
+        "userId": 496,
+        "firstName": "Liam",
+        "lastName": "Maio",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 516,
+        "firstName": "Lindsay",
+        "lastName": "Kwon",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 457,
+        "firstName": "Lorenzo Blackston ",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 553,
+        "firstName": "Lydia",
+        "lastName": "Martin",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 421,
+        "firstName": "Lydia Ellingwood",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 539,
+        "firstName": "Maddie",
+        "lastName": "Song",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 563,
+        "firstName": "Madelin",
+        "lastName": "Singer",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 410,
+        "firstName": "Mae Alwart",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 477,
+        "firstName": "Maia Shen",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 536,
+        "firstName": "Marlon",
+        "lastName": "Beram",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 488,
+        "firstName": "Mateo",
+        "lastName": "Sierra",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 497,
+        "firstName": "Mateus",
+        "lastName": "Verdi",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 472,
+        "firstName": "Matthew Lubarsky",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 485,
+        "firstName": "Mattia",
+        "lastName": "Farmer",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 523,
+        "firstName": "Maya",
+        "lastName": "Antal",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 552,
+        "firstName": "Maya",
+        "lastName": "Perry",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 440,
+        "firstName": "Melina Menghi",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 470,
+        "firstName": "Mia Andreoli",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 1.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 447,
+        "firstName": "Mia Brassell",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 550,
+        "firstName": "Michelle",
+        "lastName": "Gee",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 522,
+        "firstName": "Michelle ",
+        "lastName": "Do",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 427,
+        "firstName": "Natalie Merriam",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 402,
+        "firstName": "Nathan ",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 463,
+        "firstName": "Nava Galperin",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 560,
+        "firstName": "Nayeli",
+        "lastName": "Perez",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 0,
+        "firstName": "Nishma",
+        "lastName": "Tajnia",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 438,
+        "firstName": "Noah Miller",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 508,
+        "firstName": "Oliver",
+        "lastName": "Copps",
+        "age": 16,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 528,
+        "firstName": "Oliver",
+        "lastName": "Lavallee",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 444,
+        "firstName": "Oliver Song",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 412,
+        "firstName": "Olivia Long",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 473,
+        "firstName": "Olivia Zawada",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.0,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 426,
+        "firstName": "Orlaith Dill",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 520,
+        "firstName": "OwenSamuel",
+        "lastName": "Kawecki",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 408,
+        "firstName": "Paolo Caggioni",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 530,
+        "firstName": "Q",
+        "lastName": "Cook",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 486,
+        "firstName": "Quintyn",
+        "lastName": "Scott",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 1.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 515,
+        "firstName": "Robby",
+        "lastName": "Mohler ",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 556,
+        "firstName": "Sadie",
+        "lastName": "Chesloff",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 418,
+        "firstName": "Sai Pranav Gandhi",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 448,
+        "firstName": "Samuel Davis",
+        "lastName": "nan",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 406,
+        "firstName": "Santiago Derrien",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 468,
+        "firstName": "Sanviti Amarnath ",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 492,
+        "firstName": "Saras",
+        "lastName": "Raghavan",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 505,
+        "firstName": "Scarlett",
+        "lastName": "Kopala",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 551,
+        "firstName": "Shannon",
+        "lastName": "Raneri",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 419,
+        "firstName": "Siena Fershtman",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 549,
+        "firstName": "Skye",
+        "lastName": "Bowers",
+        "age": 12,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 545,
+        "firstName": "Sophia",
+        "lastName": "Romanow",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 543,
+        "firstName": "Sophie",
+        "lastName": "Kang",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 423,
+        "firstName": "Sophie Reynolds",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 489,
+        "firstName": "Sylvia",
+        "lastName": "Crittenden",
+        "age": 11,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 0,
+        "firstName": "Talia",
+        "lastName": "Cerqueira ",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 403,
+        "firstName": "Tenzin Jamyang",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 557,
+        "firstName": "Tessa",
+        "lastName": "Chesloff",
+        "age": 13,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.25,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 450,
+        "firstName": "Theodore Salvin",
+        "lastName": "nan",
+        "age": 12,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.75,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.5,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 527,
+        "firstName": "Thomas",
+        "lastName": "Blake",
+        "age": 14,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 510,
+        "firstName": "Tina",
+        "lastName": "Nguyen ",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 1.0,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 1.0,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 554,
+        "firstName": "Vivi",
+        "lastName": "Han",
+        "age": 16,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 498,
+        "firstName": "Wesley Acton",
+        "lastName": "nan",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.75,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 494,
+        "firstName": "Willard \"Hayes\"",
+        "lastName": "Thompson",
+        "age": 11,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 0,
+        "firstName": "Yasha",
+        "lastName": "Vasilyev",
+        "age": 12,
+        "gender": "Decline to answer",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.25,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 441,
+        "firstName": "Zachary Dubuc",
+        "lastName": "nan",
+        "age": 16,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.0,
+            "SMM_G_3": 1.0,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    },
+    {
+        "userId": 474,
+        "firstName": "de Monchaux Charles",
+        "lastName": "nan",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.75,
+            "SMM_G_2": 0.25,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.0,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.25
+        }
+    },
+    {
+        "userId": 548,
+        "firstName": "greta",
+        "lastName": "martin",
+        "age": 14,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.5,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.5,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.5,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 453,
+        "firstName": "kayley",
+        "lastName": "nan",
+        "age": 15,
+        "gender": "Female",
+        "SMM_G": {
+            "SMM_G_1": 1.0,
+            "SMM_G_2": 0.5,
+            "SMM_G_3": 0.25,
+            "SMM_G_4": 0.5,
+            "SMM_G_5": 0.25,
+            "SMM_G_6": 0.0,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.5
+        }
+    },
+    {
+        "userId": 482,
+        "firstName": "luc",
+        "lastName": "clemenceau",
+        "age": 13,
+        "gender": "Male",
+        "SMM_G": {
+            "SMM_G_1": 0.5,
+            "SMM_G_2": 0.75,
+            "SMM_G_3": 0.75,
+            "SMM_G_4": 0.25,
+            "SMM_G_5": 0.75,
+            "SMM_G_6": 0.25,
+            "SMM_G_7": 0.75,
+            "SMM_G_8": 0.0
+        }
+    }
+]

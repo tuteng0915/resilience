@@ -1,0 +1,2984 @@
+{
+    "401": {
+        "User_Info": {
+            "FirstName": "Briana Sun",
+            "LastName": "nan",
+            "Age": 10,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.625,
+            "ERQ_Expressive_Suppression": 0.375,
+            "SMM_G": 0.21875,
+            "MAAS": 0.6428571428571429,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 1.1755330139070035,
+            "Inhibition": 0.896844474969475,
+            "Shifting": 0.8921626984126985,
+            "Inversion": 0.8551587301587301,
+            "Memory": 0.9000000000000001
+        },
+        "Pre": {
+            "VAS": 0.19,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.375
+        },
+        "Post": {
+            "VAS": 0.0,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.4375
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.75,
+            "Confident": 0.8,
+            "Engagement": 0.5,
+            "Excited": 0.75,
+            "Difficulty": 0.5
+        }
+    },
+    "403": {
+        "User_Info": {
+            "FirstName": "Tenzin Jamyang",
+            "LastName": "nan",
+            "Age": 15,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5,
+            "ERQ_Expressive_Suppression": 0.625,
+            "SMM_G": 0.375,
+            "MAAS": 0.48571428571428565,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.5319201093070198,
+            "Inhibition": 0.8995039682539683,
+            "Shifting": 0.902775523088023,
+            "Inversion": 0.9572649572649573,
+            "Memory": 0.9375
+        },
+        "Pre": {
+            "VAS": 0.1,
+            "STAI": 0.125,
+            "PSS": 0.4375
+        },
+        "Post": {
+            "VAS": 0.05,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.5
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 0.5,
+            "Excited": 0.25,
+            "Difficulty": 0.0
+        }
+    },
+    "405": {
+        "User_Info": {
+            "FirstName": "Lauren Lin",
+            "LastName": "nan",
+            "Age": 11,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.75,
+            "ERQ_Expressive_Suppression": 0.1875,
+            "SMM_G": 0.625,
+            "MAAS": 0.7285714285714285,
+            "Math_Anxiety": 0.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.8302008621609435,
+            "Inhibition": 0.8471260221260222,
+            "Shifting": 0.9037698412698412,
+            "Inversion": 0.8719696969696971,
+            "Memory": 0.7412878787878788
+        },
+        "Pre": {
+            "VAS": 0.61,
+            "STAI": 0.4166666666666667,
+            "PSS": 0.5
+        },
+        "Post": {
+            "VAS": 0.0,
+            "STAI": 0.125,
+            "PSS": 0.5625
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 0.75,
+            "Confident": 0.7,
+            "Engagement": 0.75,
+            "Excited": 0.0,
+            "Difficulty": 0.75
+        }
+    },
+    "406": {
+        "User_Info": {
+            "FirstName": "Santiago Derrien",
+            "LastName": "nan",
+            "Age": 11,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.2916666666666667,
+            "ERQ_Expressive_Suppression": 0.125,
+            "SMM_G": 0.28125,
+            "MAAS": 0.7,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.460781666243869,
+            "Inhibition": 0.8392171717171717,
+            "Shifting": 0.9089015151515152,
+            "Inversion": 0.9215277777777778,
+            "Memory": 0.984375
+        },
+        "Pre": {
+            "VAS": 0.09,
+            "STAI": 0.125,
+            "PSS": 0.5
+        },
+        "Post": {
+            "VAS": 0.71,
+            "STAI": 0.5,
+            "PSS": 0.5
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 0.8,
+            "Engagement": 0.75,
+            "Excited": 0.0,
+            "Difficulty": 0.75
+        }
+    },
+    "407": {
+        "User_Info": {
+            "FirstName": "Kelsey Senner",
+            "LastName": "nan",
+            "Age": 11,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.2916666666666667,
+            "ERQ_Expressive_Suppression": 0.25,
+            "SMM_G": 0.125,
+            "MAAS": 0.42857142857142855,
+            "Math_Anxiety": 1.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.4132513468415331,
+            "Inhibition": 0.9708139083139083,
+            "Shifting": 0.9482142857142857,
+            "Inversion": 0.6894209956709957,
+            "Memory": 0.7479523639536729
+        },
+        "Pre": {
+            "VAS": 0.01,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.3125
+        },
+        "Post": {
+            "VAS": 0.07,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.4375
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.5,
+            "Confident": 0.8,
+            "Engagement": 0.25,
+            "Excited": 0.5,
+            "Difficulty": 0.5
+        }
+    },
+    "409": {
+        "User_Info": {
+            "FirstName": "Adam Veliz",
+            "LastName": "nan",
+            "Age": 13,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.2916666666666667,
+            "ERQ_Expressive_Suppression": 0.8125,
+            "SMM_G": 0.1875,
+            "MAAS": 0.4142857142857143,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.6785321800981801,
+            "Inhibition": 0.8475063131313132,
+            "Shifting": 0.9253968253968254,
+            "Inversion": 0.9206730769230769,
+            "Memory": 0.771329365079365
+        },
+        "Pre": {
+            "VAS": 0.0,
+            "STAI": 0.125,
+            "PSS": 0.25
+        },
+        "Post": {
+            "VAS": 0.0,
+            "STAI": 0.0,
+            "PSS": 0.25
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 0.5,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "411": {
+        "User_Info": {
+            "FirstName": "Donovan Carroll ",
+            "LastName": "nan",
+            "Age": 14,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.4583333333333333,
+            "ERQ_Expressive_Suppression": 0.125,
+            "SMM_G": 0.34375,
+            "MAAS": 0.38571428571428573,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.6439840729221363,
+            "Inhibition": 0.7909722222222222,
+            "Shifting": 0.8641594516594516,
+            "Inversion": 0.8279626623376624,
+            "Memory": 0.8920454545454546
+        },
+        "Pre": {
+            "VAS": 0.0,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.1875
+        },
+        "Post": {
+            "VAS": 0.45,
+            "STAI": 0.4166666666666667,
+            "PSS": 0.3125
+        },
+        "Other": {
+            "Threatening": 0.5,
+            "Ability": 0.75,
+            "Confident": 0.9,
+            "Engagement": 0.5,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "413": {
+        "User_Info": {
+            "FirstName": "Jack Armstrong ",
+            "LastName": "nan",
+            "Age": 15,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5,
+            "ERQ_Expressive_Suppression": 0.1875,
+            "SMM_G": 0.21875,
+            "MAAS": 0.8571428571428571,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.6887540145162422,
+            "Inhibition": 0.9361638361638361,
+            "Shifting": 0.9009131493506494,
+            "Inversion": 0.9711538461538461,
+            "Memory": 0.8639069264069263
+        },
+        "Pre": {
+            "VAS": 0.4,
+            "STAI": 0.375,
+            "PSS": 0.25
+        },
+        "Post": {
+            "VAS": 0.2,
+            "STAI": 0.4166666666666667,
+            "PSS": 0.375
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 0.7,
+            "Engagement": 0.75,
+            "Excited": 0.75,
+            "Difficulty": 0.5
+        }
+    },
+    "417": {
+        "User_Info": {
+            "FirstName": "Jack Ellingwood",
+            "LastName": "nan",
+            "Age": 15,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.625,
+            "ERQ_Expressive_Suppression": 0.3125,
+            "SMM_G": 0.4375,
+            "MAAS": 0.2857142857142857,
+            "Math_Anxiety": 0.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.7615296562810165,
+            "Inhibition": 0.8355429292929293,
+            "Shifting": 0.8973349567099568,
+            "Inversion": 0.91875,
+            "Memory": 0.984375
+        },
+        "Pre": {
+            "VAS": 0.12,
+            "STAI": 0.25,
+            "PSS": 0.3125
+        },
+        "Post": {
+            "VAS": 0.08,
+            "STAI": 0.25,
+            "PSS": 0.25
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 1.0,
+            "Confident": 0.9,
+            "Engagement": 1.0,
+            "Excited": 0.25,
+            "Difficulty": 0.0
+        }
+    },
+    "419": {
+        "User_Info": {
+            "FirstName": "Siena Fershtman",
+            "LastName": "nan",
+            "Age": 16,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5833333333333334,
+            "ERQ_Expressive_Suppression": 0.4375,
+            "SMM_G": 0.40625,
+            "MAAS": 0.5714285714285714,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.7231935659778483,
+            "Inhibition": 1.0,
+            "Shifting": 0.9343253968253968,
+            "Inversion": 1.0,
+            "Memory": 0.9722222222222222
+        },
+        "Pre": {
+            "VAS": 0.3,
+            "STAI": 0.2916666666666667,
+            "PSS": 0.6875
+        },
+        "Post": {
+            "VAS": 0.19,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.6875
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 1.0,
+            "Confident": 0.9,
+            "Engagement": 1.0,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "421": {
+        "User_Info": {
+            "FirstName": "Lydia Ellingwood",
+            "LastName": "nan",
+            "Age": 12,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.625,
+            "ERQ_Expressive_Suppression": 0.25,
+            "SMM_G": 0.40625,
+            "MAAS": 0.7857142857142857,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.6550703792414048,
+            "Inhibition": 0.9370039682539683,
+            "Shifting": 0.9343253968253968,
+            "Inversion": 0.9665775401069518,
+            "Memory": 0.9486607142857143
+        },
+        "Pre": {
+            "VAS": 0.51,
+            "STAI": 0.2916666666666667,
+            "PSS": 0.375
+        },
+        "Post": {
+            "VAS": 0.25,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.3125
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 0.75,
+            "Confident": 0.5,
+            "Engagement": 0.75,
+            "Excited": 0.0,
+            "Difficulty": 0.5
+        }
+    },
+    "423": {
+        "User_Info": {
+            "FirstName": "Sophie Reynolds",
+            "LastName": "nan",
+            "Age": 11,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5,
+            "ERQ_Expressive_Suppression": 0.5,
+            "SMM_G": 0.375,
+            "MAAS": 0.9857142857142858,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.7392824692176313,
+            "Inhibition": 0.8212121212121212,
+            "Shifting": 0.8629107472857471,
+            "Inversion": 0.8068539915966387,
+            "Memory": 0.8461503623188407
+        },
+        "Pre": {
+            "VAS": 0.02,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.1875
+        },
+        "Post": {
+            "VAS": 0.03,
+            "STAI": 0.375,
+            "PSS": 0.25
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 0.75,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "425": {
+        "User_Info": {
+            "FirstName": "Fionnuala Dill",
+            "LastName": "nan",
+            "Age": 15,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.4166666666666667,
+            "ERQ_Expressive_Suppression": 0.3125,
+            "SMM_G": 0.53125,
+            "MAAS": 0.6142857142857143,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.5777653193654583,
+            "Inhibition": 0.7802083333333334,
+            "Shifting": 0.8853377525252525,
+            "Inversion": 0.8758680555555556,
+            "Memory": 0.9446428571428571
+        },
+        "Pre": {
+            "VAS": 0.54,
+            "STAI": 0.4583333333333333,
+            "PSS": 0.5625
+        },
+        "Post": {
+            "VAS": 0.65,
+            "STAI": 0.5416666666666666,
+            "PSS": 0.5625
+        },
+        "Other": {
+            "Threatening": 0.5,
+            "Ability": 1.0,
+            "Confident": 0.6,
+            "Engagement": 0.5,
+            "Excited": 1.0,
+            "Difficulty": 0.5
+        }
+    },
+    "426": {
+        "User_Info": {
+            "FirstName": "Orlaith Dill",
+            "LastName": "nan",
+            "Age": 11,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5833333333333334,
+            "ERQ_Expressive_Suppression": 0.5,
+            "SMM_G": 0.5,
+            "MAAS": 0.4,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.6661101950022478,
+            "Inhibition": 0.9003472222222222,
+            "Shifting": 0.8988209706959707,
+            "Inversion": 0.9115530303030303,
+            "Memory": 0.8982954545454546
+        },
+        "Pre": {
+            "VAS": 0.1,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.4375
+        },
+        "Post": {
+            "VAS": 0.35,
+            "STAI": 0.5,
+            "PSS": 0.5625
+        },
+        "Other": {
+            "Threatening": 0.5,
+            "Ability": 0.75,
+            "Confident": 0.8,
+            "Engagement": 0.5,
+            "Excited": 0.5,
+            "Difficulty": 0.5
+        }
+    },
+    "429": {
+        "User_Info": {
+            "FirstName": "Julie Breedveld",
+            "LastName": "nan",
+            "Age": 16,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.625,
+            "ERQ_Expressive_Suppression": 0.4375,
+            "SMM_G": 0.5,
+            "MAAS": 0.3,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.5562083302184218,
+            "Inhibition": 0.8775883838383838,
+            "Shifting": 0.9314732142857143,
+            "Inversion": 0.984375,
+            "Memory": 0.8472402597402596
+        },
+        "Pre": {
+            "VAS": 0.5,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.3125
+        },
+        "Post": {
+            "VAS": 0.1,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.3125
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 0.75,
+            "Confident": 0.30000000000000004,
+            "Engagement": 0.75,
+            "Excited": 0.25,
+            "Difficulty": 0.25
+        }
+    },
+    "431": {
+        "User_Info": {
+            "FirstName": "Aarav Vijay",
+            "LastName": "nan",
+            "Age": 15,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5416666666666666,
+            "ERQ_Expressive_Suppression": 0.5,
+            "SMM_G": 0.375,
+            "MAAS": 0.7428571428571429,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 1.0326511538113203,
+            "Inhibition": 0.9818181818181818,
+            "Shifting": 0.9482142857142857,
+            "Inversion": 0.9179166666666666,
+            "Memory": 0.7927083333333333
+        },
+        "Pre": {
+            "VAS": 0.09,
+            "STAI": 0.041666666666666664,
+            "PSS": 0.125
+        },
+        "Post": {
+            "VAS": 0.0,
+            "STAI": 0.08333333333333333,
+            "PSS": 0.1875
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 1.0,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "435": {
+        "User_Info": {
+            "FirstName": "Conor Hicke",
+            "LastName": "nan",
+            "Age": 12,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.2916666666666667,
+            "ERQ_Expressive_Suppression": 0.3125,
+            "SMM_G": 0.375,
+            "MAAS": 0.6,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.8378820489715905,
+            "Inhibition": 0.8548230754752494,
+            "Shifting": 0.9149305555555556,
+            "Inversion": 0.8908333333333333,
+            "Memory": 0.8055555555555556
+        },
+        "Pre": {
+            "VAS": 0.08,
+            "STAI": 0.2916666666666667,
+            "PSS": 0.5
+        },
+        "Post": {
+            "VAS": 0.08,
+            "STAI": 0.4583333333333333,
+            "PSS": 0.375
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.75,
+            "Confident": 0.4,
+            "Engagement": 0.75,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "437": {
+        "User_Info": {
+            "FirstName": "Cam ",
+            "LastName": "nan",
+            "Age": 12,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5833333333333334,
+            "ERQ_Expressive_Suppression": 0.375,
+            "SMM_G": 0.40625,
+            "MAAS": 0.42857142857142855,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.7817842152067006,
+            "Inhibition": 0.8054273504273504,
+            "Shifting": 0.9286435786435786,
+            "Inversion": 0.8910024154589372,
+            "Memory": 0.8728174603174603
+        },
+        "Pre": {
+            "VAS": 0.0,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.5
+        },
+        "Post": {
+            "VAS": 0.02,
+            "STAI": 0.0,
+            "PSS": 0.4375
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 0.5,
+            "Engagement": 1.0,
+            "Excited": 0.25,
+            "Difficulty": 0.25
+        }
+    },
+    "441": {
+        "User_Info": {
+            "FirstName": "Zachary Dubuc",
+            "LastName": "nan",
+            "Age": 16,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.625,
+            "ERQ_Expressive_Suppression": 0.0625,
+            "SMM_G": 0.09375,
+            "MAAS": 0.7857142857142857,
+            "Math_Anxiety": 0.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.45629850984906034,
+            "Inhibition": 0.936352657004831,
+            "Shifting": 0.9070684523809522,
+            "Inversion": 0.9497474747474747,
+            "Memory": 0.9048295454545454
+        },
+        "Pre": {
+            "VAS": 0.0,
+            "STAI": 0.0,
+            "PSS": 0.25
+        },
+        "Post": {
+            "VAS": 0.01,
+            "STAI": 0.0,
+            "PSS": 0.0625
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 1.0,
+            "Excited": 0.0,
+            "Difficulty": 0.0
+        }
+    },
+    "443": {
+        "User_Info": {
+            "FirstName": "Dayllen Freire-Depina",
+            "LastName": "nan",
+            "Age": 13,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5416666666666666,
+            "ERQ_Expressive_Suppression": 0.5625,
+            "SMM_G": 0.375,
+            "MAAS": 0.7,
+            "Math_Anxiety": 0.75
+        },
+        "CognitiveData": {
+            "Reaction": 0.6062034617952391,
+            "Inhibition": 0.8836300528116385,
+            "Shifting": 0.8490451388888889,
+            "Inversion": 0.7577865761689292,
+            "Memory": 0.7332974137931034
+        },
+        "Pre": {
+            "VAS": 0.01,
+            "STAI": 0.4166666666666667,
+            "PSS": 0.4375
+        },
+        "Post": {
+            "VAS": 0.01,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.4375
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 0.75,
+            "Confident": 0.9,
+            "Engagement": 0.75,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "445": {
+        "User_Info": {
+            "FirstName": "Erik Miller",
+            "LastName": "nan",
+            "Age": 13,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.625,
+            "ERQ_Expressive_Suppression": 0.6875,
+            "SMM_G": 0.28125,
+            "MAAS": 0.5571428571428572,
+            "Math_Anxiety": 0.75
+        },
+        "CognitiveData": {
+            "Reaction": 0.7023178810570228,
+            "Inhibition": 0.9098611111111111,
+            "Shifting": 0.9243506493506493,
+            "Inversion": 0.9417613636363636,
+            "Memory": 0.9007936507936507
+        },
+        "Pre": {
+            "VAS": 0.61,
+            "STAI": 0.2916666666666667,
+            "PSS": 0.3125
+        },
+        "Post": {
+            "VAS": 0.3,
+            "STAI": 0.375,
+            "PSS": 0.375
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 1.0,
+            "Confident": 0.30000000000000004,
+            "Engagement": 1.0,
+            "Excited": 0.0,
+            "Difficulty": 0.5
+        }
+    },
+    "447": {
+        "User_Info": {
+            "FirstName": "Mia Brassell",
+            "LastName": "nan",
+            "Age": 11,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.375,
+            "ERQ_Expressive_Suppression": 0.4375,
+            "SMM_G": 0.40625,
+            "MAAS": 0.5571428571428572,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.9452665174111613,
+            "Inhibition": 0.929259403036577,
+            "Shifting": 0.9162946428571428,
+            "Inversion": 0.9886363636363636,
+            "Memory": 0.8246212121212121
+        },
+        "Pre": {
+            "VAS": 0.1,
+            "STAI": 0.4166666666666667,
+            "PSS": 0.3125
+        },
+        "Post": {
+            "VAS": 0.17,
+            "STAI": 0.375,
+            "PSS": 0.3125
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 0.75,
+            "Confident": 1.0,
+            "Engagement": 0.75,
+            "Excited": 0.25,
+            "Difficulty": 0.25
+        }
+    },
+    "453": {
+        "User_Info": {
+            "FirstName": "kayley",
+            "LastName": "nan",
+            "Age": 15,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5833333333333334,
+            "ERQ_Expressive_Suppression": 0.5625,
+            "SMM_G": 0.40625,
+            "MAAS": 0.34285714285714286,
+            "Math_Anxiety": 0.75
+        },
+        "CognitiveData": {
+            "Reaction": 0.7148955357882788,
+            "Inhibition": 0.9322727272727273,
+            "Shifting": 0.908897872960373,
+            "Inversion": 0.8354967948717948,
+            "Memory": 0.96875
+        },
+        "Pre": {
+            "VAS": 0.17,
+            "STAI": 0.25,
+            "PSS": 0.625
+        },
+        "Post": {
+            "VAS": 0.09,
+            "STAI": 0.125,
+            "PSS": 0.5625
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.75,
+            "Confident": 0.9,
+            "Engagement": 1.0,
+            "Excited": 0.0,
+            "Difficulty": 0.75
+        }
+    },
+    "457": {
+        "User_Info": {
+            "FirstName": "Lorenzo Blackston ",
+            "LastName": "nan",
+            "Age": 13,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.7083333333333334,
+            "ERQ_Expressive_Suppression": 0.25,
+            "SMM_G": 0.28125,
+            "MAAS": 0.6571428571428571,
+            "Math_Anxiety": 0.75
+        },
+        "CognitiveData": {
+            "Reaction": 0.6554418788350368,
+            "Inhibition": 0.9278273809523809,
+            "Shifting": 0.8555079418130889,
+            "Inversion": 0.7085014005602241,
+            "Memory": 0.7821744227994228
+        },
+        "Pre": {
+            "VAS": 0.0,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.5625
+        },
+        "Post": {
+            "VAS": 0.01,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.4375
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 1.0,
+            "Excited": 0.0,
+            "Difficulty": 0.25
+        }
+    },
+    "459": {
+        "User_Info": {
+            "FirstName": "Finley Long",
+            "LastName": "nan",
+            "Age": 13,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5833333333333334,
+            "ERQ_Expressive_Suppression": 0.1875,
+            "SMM_G": 0.53125,
+            "MAAS": 0.1285714285714286,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.6825867912012015,
+            "Inhibition": 0.9189915458937198,
+            "Shifting": 0.9253077651515152,
+            "Inversion": 0.9736111111111112,
+            "Memory": 0.86974366359447
+        },
+        "Pre": {
+            "VAS": 0.01,
+            "STAI": 0.375,
+            "PSS": 0.3125
+        },
+        "Post": {
+            "VAS": 0.0,
+            "STAI": 0.375,
+            "PSS": 0.3125
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.5,
+            "Confident": 1.0,
+            "Engagement": 0.75,
+            "Excited": 0.0,
+            "Difficulty": 0.75
+        }
+    },
+    "463": {
+        "User_Info": {
+            "FirstName": "Nava Galperin",
+            "LastName": "nan",
+            "Age": 11,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.4583333333333333,
+            "ERQ_Expressive_Suppression": 0.0,
+            "SMM_G": 0.59375,
+            "MAAS": 0.8571428571428571,
+            "Math_Anxiety": 0.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.2249397616597958,
+            "Inhibition": 0.9258928571428572,
+            "Shifting": 0.9482142857142857,
+            "Inversion": 0.9125,
+            "Memory": 0.984375
+        },
+        "Pre": {
+            "VAS": 0.0,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.3125
+        },
+        "Post": {
+            "VAS": 0.0,
+            "STAI": 0.08333333333333333,
+            "PSS": 0.375
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 1.0,
+            "Excited": 0.0,
+            "Difficulty": 0.75
+        }
+    },
+    "465": {
+        "User_Info": {
+            "FirstName": "Lachlan ",
+            "LastName": "nan",
+            "Age": 13,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.375,
+            "ERQ_Expressive_Suppression": 0.3125,
+            "SMM_G": 0.4375,
+            "MAAS": 0.5571428571428572,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.5200137612412891,
+            "Inhibition": 0.8227047258297259,
+            "Shifting": 0.8125729458450046,
+            "Inversion": 0.8522727272727273,
+            "Memory": 0.8895833333333334
+        },
+        "Pre": {
+            "VAS": 0.0,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.3125
+        },
+        "Post": {
+            "VAS": 0.1,
+            "STAI": 0.4166666666666667,
+            "PSS": 0.3125
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.75,
+            "Confident": 0.30000000000000004,
+            "Engagement": 1.0,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "466": {
+        "User_Info": {
+            "FirstName": "EMILIANO BLACK",
+            "LastName": "nan",
+            "Age": 11,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.6666666666666666,
+            "ERQ_Expressive_Suppression": 0.3125,
+            "SMM_G": 0.375,
+            "MAAS": 0.6285714285714286,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.6872900279871011,
+            "Inhibition": 0.8634244227994228,
+            "Shifting": 0.8528769841269842,
+            "Inversion": 0.8864087301587301,
+            "Memory": 0.9137400793650793
+        },
+        "Pre": {
+            "VAS": 0.0,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.25
+        },
+        "Post": {
+            "VAS": 0.0,
+            "STAI": 0.375,
+            "PSS": 0.25
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 0.75,
+            "Excited": 0.25,
+            "Difficulty": 0.0
+        }
+    },
+    "467": {
+        "User_Info": {
+            "FirstName": "Ethan Yu",
+            "LastName": "nan",
+            "Age": 11,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5,
+            "ERQ_Expressive_Suppression": 0.4375,
+            "SMM_G": 0.25,
+            "MAAS": 0.7428571428571429,
+            "Math_Anxiety": 0.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.6760476531454161,
+            "Inhibition": 0.8009744924615614,
+            "Shifting": 0.9482142857142857,
+            "Inversion": 0.9073863636363636,
+            "Memory": 0.9625
+        },
+        "Pre": {
+            "VAS": 0.1,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.25
+        },
+        "Post": {
+            "VAS": 0.1,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.25
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.75,
+            "Confident": 1.0,
+            "Engagement": 0.75,
+            "Excited": 0.0,
+            "Difficulty": 0.75
+        }
+    },
+    "469": {
+        "User_Info": {
+            "FirstName": "Jonathan Andreoli",
+            "LastName": "nan",
+            "Age": 13,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.7083333333333334,
+            "ERQ_Expressive_Suppression": 0.5,
+            "SMM_G": 0.40625,
+            "MAAS": 0.7142857142857143,
+            "Math_Anxiety": 0.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.6987844333661006,
+            "Inhibition": 0.96257215007215,
+            "Shifting": 0.9248949579831933,
+            "Inversion": 1.0,
+            "Memory": 0.984375
+        },
+        "Pre": {
+            "VAS": 0.12,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.125
+        },
+        "Post": {
+            "VAS": 0.15,
+            "STAI": 0.2916666666666667,
+            "PSS": 0.125
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.75,
+            "Confident": 0.30000000000000004,
+            "Engagement": 0.5,
+            "Excited": 0.5,
+            "Difficulty": 0.5
+        }
+    },
+    "470": {
+        "User_Info": {
+            "FirstName": "Mia Andreoli",
+            "LastName": "nan",
+            "Age": 11,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.8333333333333334,
+            "ERQ_Expressive_Suppression": 0.375,
+            "SMM_G": 0.25,
+            "MAAS": 0.9428571428571428,
+            "Math_Anxiety": 1.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.6431194436844249,
+            "Inhibition": 0.8203343782654127,
+            "Shifting": 0.9202888257575756,
+            "Inversion": 0.9886363636363636,
+            "Memory": 0.9222222222222222
+        },
+        "Pre": {
+            "VAS": 0.01,
+            "STAI": 0.0,
+            "PSS": 0.0
+        },
+        "Post": {
+            "VAS": 0.0,
+            "STAI": 0.0,
+            "PSS": 0.0
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 1.0,
+            "Excited": 0.0,
+            "Difficulty": 0.0
+        }
+    },
+    "471": {
+        "User_Info": {
+            "FirstName": "Chase Roberts",
+            "LastName": "nan",
+            "Age": 13,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.75,
+            "ERQ_Expressive_Suppression": 0.375,
+            "SMM_G": 0.1875,
+            "MAAS": 0.5857142857142856,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.7553619877006442,
+            "Inhibition": 0.9136599511599511,
+            "Shifting": 0.8651501276501276,
+            "Inversion": 0.9586538461538462,
+            "Memory": 0.9025974025974025
+        },
+        "Pre": {
+            "VAS": 0.01,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.375
+        },
+        "Post": {
+            "VAS": 0.01,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.1875
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 0.9,
+            "Engagement": 1.0,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "475": {
+        "User_Info": {
+            "FirstName": "Inara Barker",
+            "LastName": "nan",
+            "Age": 15,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.4583333333333333,
+            "ERQ_Expressive_Suppression": 0.5625,
+            "SMM_G": 0.0,
+            "MAAS": 0.5285714285714286,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.5923613244889393,
+            "Inhibition": 0.9079210191981931,
+            "Shifting": 0.9184523809523808,
+            "Inversion": 0.7885416666666666,
+            "Memory": 0.7696608946608946
+        },
+        "Pre": {
+            "VAS": 0.6,
+            "STAI": 0.4166666666666667,
+            "PSS": 0.5625
+        },
+        "Post": {
+            "VAS": 0.31,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.75
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 0.75,
+            "Confident": 1.0,
+            "Engagement": 0.75,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "477": {
+        "User_Info": {
+            "FirstName": "Maia Shen",
+            "LastName": "nan",
+            "Age": 11,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.625,
+            "ERQ_Expressive_Suppression": 0.0,
+            "SMM_G": 0.125,
+            "MAAS": 0.38571428571428573,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.6512670990546712,
+            "Inhibition": 0.9596165458937198,
+            "Shifting": 0.8785905067155065,
+            "Inversion": 0.9586538461538462,
+            "Memory": 0.8673295454545454
+        },
+        "Pre": {
+            "VAS": 0.2,
+            "STAI": 0.25,
+            "PSS": 0.5625
+        },
+        "Post": {
+            "VAS": 0.3,
+            "STAI": 0.375,
+            "PSS": 0.625
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 0.75,
+            "Confident": 0.9,
+            "Engagement": 0.5,
+            "Excited": 0.75,
+            "Difficulty": 0.5
+        }
+    },
+    "479": {
+        "User_Info": {
+            "FirstName": "Jack",
+            "LastName": "Blakemore",
+            "Age": 12,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5,
+            "ERQ_Expressive_Suppression": 0.125,
+            "SMM_G": 0.28125,
+            "MAAS": 0.6142857142857143,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.684747237271908,
+            "Inhibition": 0.883398199023199,
+            "Shifting": 0.9181423611111111,
+            "Inversion": 0.8703525641025641,
+            "Memory": 0.7560363247863249
+        },
+        "Pre": {
+            "VAS": 0.0,
+            "STAI": 0.125,
+            "PSS": 0.3125
+        },
+        "Post": {
+            "VAS": 0.0,
+            "STAI": 0.125,
+            "PSS": 0.375
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 1.0,
+            "Excited": 0.0,
+            "Difficulty": 0.5
+        }
+    },
+    "483": {
+        "User_Info": {
+            "FirstName": "Gabi Matas",
+            "LastName": "nan",
+            "Age": 13,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5833333333333334,
+            "ERQ_Expressive_Suppression": 0.3125,
+            "SMM_G": 0.40625,
+            "MAAS": 0.9285714285714286,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.8213030062951843,
+            "Inhibition": 0.8344471048275396,
+            "Shifting": 0.888620462140199,
+            "Inversion": 0.8910714285714286,
+            "Memory": 0.8670454545454546
+        },
+        "Pre": {
+            "VAS": 0.5,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.5
+        },
+        "Post": {
+            "VAS": 0.5,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.4375
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.75,
+            "Confident": 0.9,
+            "Engagement": 0.5,
+            "Excited": 0.25,
+            "Difficulty": 0.75
+        }
+    },
+    "485": {
+        "User_Info": {
+            "FirstName": "Mattia",
+            "LastName": "Farmer",
+            "Age": 11,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5833333333333334,
+            "ERQ_Expressive_Suppression": 0.1875,
+            "SMM_G": 0.21875,
+            "MAAS": 0.24285714285714283,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.8589549821121919,
+            "Inhibition": 0.9072107919254658,
+            "Shifting": 0.8965728715728716,
+            "Inversion": 0.9288194444444445,
+            "Memory": 0.9613095238095238
+        },
+        "Pre": {
+            "VAS": 0.2,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.25
+        },
+        "Post": {
+            "VAS": 0.3,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.3125
+        },
+        "Other": {
+            "Threatening": 0.5,
+            "Ability": 1.0,
+            "Confident": 0.9,
+            "Engagement": 0.75,
+            "Excited": 0.0,
+            "Difficulty": 0.75
+        }
+    },
+    "487": {
+        "User_Info": {
+            "FirstName": "Elizabeth",
+            "LastName": "Alderfer",
+            "Age": 12,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5,
+            "ERQ_Expressive_Suppression": 0.4375,
+            "SMM_G": 0.25,
+            "MAAS": 0.4142857142857143,
+            "Math_Anxiety": 0.75
+        },
+        "CognitiveData": {
+            "Reaction": 0.6109397615099409,
+            "Inhibition": 0.8373511904761904,
+            "Shifting": 0.8699731098579783,
+            "Inversion": 0.8610119047619048,
+            "Memory": 0.8821022727272727
+        },
+        "Pre": {
+            "VAS": 0.26,
+            "STAI": 0.2916666666666667,
+            "PSS": 0.5625
+        },
+        "Post": {
+            "VAS": 0.43,
+            "STAI": 0.375,
+            "PSS": 0.625
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 0.75,
+            "Confident": 0.6,
+            "Engagement": 0.75,
+            "Excited": 0.75,
+            "Difficulty": 0.5
+        }
+    },
+    "489": {
+        "User_Info": {
+            "FirstName": "Sylvia",
+            "LastName": "Crittenden",
+            "Age": 11,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.7083333333333334,
+            "ERQ_Expressive_Suppression": 0.375,
+            "SMM_G": 0.625,
+            "MAAS": 0.2857142857142857,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.9111742070456765,
+            "Inhibition": 0.8912393162393162,
+            "Shifting": 0.9166396103896104,
+            "Inversion": 0.975,
+            "Memory": 0.8591946248196247
+        },
+        "Pre": {
+            "VAS": 0.03,
+            "STAI": 0.25,
+            "PSS": 0.25
+        },
+        "Post": {
+            "VAS": 0.02,
+            "STAI": 0.25,
+            "PSS": 0.0
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.25,
+            "Confident": 0.8,
+            "Engagement": 0.5,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "497": {
+        "User_Info": {
+            "FirstName": "Mateus",
+            "LastName": "Verdi",
+            "Age": 12,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.75,
+            "ERQ_Expressive_Suppression": 0.5,
+            "SMM_G": 0.3125,
+            "MAAS": 0.6857142857142857,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.6552401401778369,
+            "Inhibition": 0.7899358974358974,
+            "Shifting": 0.9093183674985146,
+            "Inversion": 0.9511363636363637,
+            "Memory": 0.8673295454545454
+        },
+        "Pre": {
+            "VAS": 0.22,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.25
+        },
+        "Post": {
+            "VAS": 0.3,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.25
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 1.0,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "499": {
+        "User_Info": {
+            "FirstName": "Adam ",
+            "LastName": "Bonanno",
+            "Age": 14,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.7083333333333334,
+            "ERQ_Expressive_Suppression": 0.1875,
+            "SMM_G": 0.1875,
+            "MAAS": 0.38571428571428573,
+            "Math_Anxiety": 0.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.5798917172453738,
+            "Inhibition": 0.8094238674953358,
+            "Shifting": 0.9147073412698413,
+            "Inversion": 0.788804945054945,
+            "Memory": 0.7407650560224089
+        },
+        "Pre": {
+            "VAS": 0.05,
+            "STAI": 0.041666666666666664,
+            "PSS": 0.1875
+        },
+        "Post": {
+            "VAS": 0.01,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.125
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 0.75,
+            "Excited": 0.0,
+            "Difficulty": 0.5
+        }
+    },
+    "503": {
+        "User_Info": {
+            "FirstName": "Kathy",
+            "LastName": "Lin",
+            "Age": 12,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.75,
+            "ERQ_Expressive_Suppression": 0.25,
+            "SMM_G": 0.1875,
+            "MAAS": 0.9571428571428571,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.6328497441628201,
+            "Inhibition": 0.8579861111111111,
+            "Shifting": 0.9482142857142857,
+            "Inversion": 0.9616477272727273,
+            "Memory": 0.839105339105339
+        },
+        "Pre": {
+            "VAS": 0.0,
+            "STAI": 0.0,
+            "PSS": 0.1875
+        },
+        "Post": {
+            "VAS": 0.04,
+            "STAI": 0.041666666666666664,
+            "PSS": 0.125
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 1.0,
+            "Excited": 0.0,
+            "Difficulty": 0.25
+        }
+    },
+    "504": {
+        "User_Info": {
+            "FirstName": "Juliette",
+            "LastName": "Kopala",
+            "Age": 13,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5833333333333334,
+            "ERQ_Expressive_Suppression": 0.9375,
+            "SMM_G": 0.03125,
+            "MAAS": 0.5,
+            "Math_Anxiety": 1.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.7205565247270554,
+            "Inhibition": 0.9488526570048309,
+            "Shifting": 0.8900373931623932,
+            "Inversion": 0.9861111111111112,
+            "Memory": 0.9821428571428571
+        },
+        "Pre": {
+            "VAS": 0.65,
+            "STAI": 0.4166666666666667,
+            "PSS": 0.5
+        },
+        "Post": {
+            "VAS": 0.61,
+            "STAI": 0.625,
+            "PSS": 0.5
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 0.75,
+            "Confident": 0.7,
+            "Engagement": 0.75,
+            "Excited": 0.75,
+            "Difficulty": 0.5
+        }
+    },
+    "505": {
+        "User_Info": {
+            "FirstName": "Scarlett",
+            "LastName": "Kopala",
+            "Age": 15,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5416666666666666,
+            "ERQ_Expressive_Suppression": 0.3125,
+            "SMM_G": 0.21875,
+            "MAAS": 0.5571428571428572,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.760953853471933,
+            "Inhibition": 0.9040609903381642,
+            "Shifting": 0.8915922619047617,
+            "Inversion": 0.95,
+            "Memory": 0.88671875
+        },
+        "Pre": {
+            "VAS": 0.5,
+            "STAI": 0.5,
+            "PSS": 0.4375
+        },
+        "Post": {
+            "VAS": 0.2,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.5625
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 1.0,
+            "Confident": 0.9,
+            "Engagement": 0.75,
+            "Excited": 0.75,
+            "Difficulty": 0.5
+        }
+    },
+    "507": {
+        "User_Info": {
+            "FirstName": "Guangchun",
+            "LastName": "Fu",
+            "Age": 17,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5833333333333334,
+            "ERQ_Expressive_Suppression": 0.625,
+            "SMM_G": 0.625,
+            "MAAS": 0.5285714285714286,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.7181625224493317,
+            "Inhibition": 0.9254861111111111,
+            "Shifting": 0.7669766201935321,
+            "Inversion": 0.898611111111111,
+            "Memory": 0.8807915057915058
+        },
+        "Pre": {
+            "VAS": 0.1,
+            "STAI": 0.0,
+            "PSS": 0.375
+        },
+        "Post": {
+            "VAS": 0.1,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.5
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 0.75,
+            "Excited": 0.75,
+            "Difficulty": 0.5
+        }
+    },
+    "508": {
+        "User_Info": {
+            "FirstName": "Oliver",
+            "LastName": "Copps",
+            "Age": 16,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.125,
+            "ERQ_Expressive_Suppression": 0.5625,
+            "SMM_G": 0.375,
+            "MAAS": 0.6,
+            "Math_Anxiety": 1.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.8636404618428918,
+            "Inhibition": 0.984375,
+            "Shifting": 0.9392857142857143,
+            "Inversion": 0.9583333333333334,
+            "Memory": 0.8497023809523809
+        },
+        "Pre": {
+            "VAS": 0.3,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.5625
+        },
+        "Post": {
+            "VAS": 0.2,
+            "STAI": 0.2916666666666667,
+            "PSS": 0.5625
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 0.75,
+            "Confident": 0.9,
+            "Engagement": 0.75,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "509": {
+        "User_Info": {
+            "FirstName": "Joyce",
+            "LastName": "Chan",
+            "Age": 12,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5,
+            "ERQ_Expressive_Suppression": 0.625,
+            "SMM_G": 0.59375,
+            "MAAS": 0.7,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.6836207720360926,
+            "Inhibition": 0.9722222222222222,
+            "Shifting": 0.8274095695970696,
+            "Inversion": 0.9472222222222222,
+            "Memory": 0.8090277777777778
+        },
+        "Pre": {
+            "VAS": 0.35,
+            "STAI": 0.4166666666666667,
+            "PSS": 0.125
+        },
+        "Post": {
+            "VAS": 0.4,
+            "STAI": 0.4583333333333333,
+            "PSS": 0.125
+        },
+        "Other": {
+            "Threatening": 0.5,
+            "Ability": 1.0,
+            "Confident": 0.4,
+            "Engagement": 0.5,
+            "Excited": 1.0,
+            "Difficulty": 0.25
+        }
+    },
+    "511": {
+        "User_Info": {
+            "FirstName": "Cooper",
+            "LastName": "Katz",
+            "Age": 12,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.375,
+            "ERQ_Expressive_Suppression": 1.0,
+            "SMM_G": 0.65625,
+            "MAAS": 0.45714285714285713,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.6438654564274419,
+            "Inhibition": 0.8610380591630591,
+            "Shifting": 0.9145562770562771,
+            "Inversion": 0.8187500000000001,
+            "Memory": 0.7825854700854701
+        },
+        "Pre": {
+            "VAS": 0.0,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.6875
+        },
+        "Post": {
+            "VAS": 0.05,
+            "STAI": 0.25,
+            "PSS": 0.5625
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 0.9,
+            "Engagement": 0.75,
+            "Excited": 1.0,
+            "Difficulty": 0.0
+        }
+    },
+    "513": {
+        "User_Info": {
+            "FirstName": "Bryce",
+            "LastName": "Hilliard",
+            "Age": 16,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.75,
+            "ERQ_Expressive_Suppression": 0.4375,
+            "SMM_G": 0.6875,
+            "MAAS": 0.2857142857142857,
+            "Math_Anxiety": 0.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.43441460745250327,
+            "Inhibition": 0.7852678571428572,
+            "Shifting": 0.8960813492063492,
+            "Inversion": 0.8214285714285714,
+            "Memory": 0.8746212121212121
+        },
+        "Pre": {
+            "VAS": 0.0,
+            "STAI": 0.0,
+            "PSS": 0.1875
+        },
+        "Post": {
+            "VAS": 0.01,
+            "STAI": 0.0,
+            "PSS": 0.375
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 1.0,
+            "Excited": 0.0,
+            "Difficulty": 0.25
+        }
+    },
+    "517": {
+        "User_Info": {
+            "FirstName": "Devin",
+            "LastName": "Walsh",
+            "Age": 15,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.625,
+            "ERQ_Expressive_Suppression": 0.375,
+            "SMM_G": 0.46875,
+            "MAAS": 0.38571428571428573,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.7287616996490104,
+            "Inhibition": 0.9370265151515151,
+            "Shifting": 0.8918185980685981,
+            "Inversion": 0.9772727272727273,
+            "Memory": 0.8916666666666666
+        },
+        "Pre": {
+            "VAS": 0.01,
+            "STAI": 0.0,
+            "PSS": 0.375
+        },
+        "Post": {
+            "VAS": 0.02,
+            "STAI": 0.0,
+            "PSS": 0.5625
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.5,
+            "Confident": 0.7,
+            "Engagement": 0.75,
+            "Excited": 0.0,
+            "Difficulty": 0.5
+        }
+    },
+    "519": {
+        "User_Info": {
+            "FirstName": "Edgar",
+            "LastName": "Nava",
+            "Age": 14,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.4583333333333333,
+            "ERQ_Expressive_Suppression": 0.375,
+            "SMM_G": 0.375,
+            "MAAS": 0.7714285714285715,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.48622100266502066,
+            "Inhibition": 0.8010121703009634,
+            "Shifting": 0.8503874597624598,
+            "Inversion": 0.826366631054131,
+            "Memory": 0.7588603425559948
+        },
+        "Pre": {
+            "VAS": 0.01,
+            "STAI": 0.0,
+            "PSS": 0.25
+        },
+        "Post": {
+            "VAS": 0.09,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.25
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 1.0,
+            "Excited": 0.5,
+            "Difficulty": 0.0
+        }
+    },
+    "521": {
+        "User_Info": {
+            "FirstName": "Gryffin",
+            "LastName": "Marks",
+            "Age": 12,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.4583333333333333,
+            "ERQ_Expressive_Suppression": 0.0625,
+            "SMM_G": 0.09375,
+            "MAAS": 0.7,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.6636394897920006,
+            "Inhibition": 0.8892171717171717,
+            "Shifting": 0.8389454295704296,
+            "Inversion": 0.856653069153069,
+            "Memory": 0.8363095238095238
+        },
+        "Pre": {
+            "VAS": 0.03,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.5
+        },
+        "Post": {
+            "VAS": 0.06,
+            "STAI": 0.375,
+            "PSS": 0.1875
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.75,
+            "Confident": 1.0,
+            "Engagement": 0.75,
+            "Excited": 0.0,
+            "Difficulty": 0.5
+        }
+    },
+    "523": {
+        "User_Info": {
+            "FirstName": "Maya",
+            "LastName": "Antal",
+            "Age": 11,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.6666666666666666,
+            "ERQ_Expressive_Suppression": 0.4375,
+            "SMM_G": 0.28125,
+            "MAAS": 0.6,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.7227498380822178,
+            "Inhibition": 0.8936011904761905,
+            "Shifting": 0.8586309523809523,
+            "Inversion": 0.8445949883449884,
+            "Memory": 0.8104166666666667
+        },
+        "Pre": {
+            "VAS": 0.04,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.3125
+        },
+        "Post": {
+            "VAS": 0.02,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.375
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 0.75,
+            "Excited": 0.0,
+            "Difficulty": 0.5
+        }
+    },
+    "524": {
+        "User_Info": {
+            "FirstName": "Isabella ",
+            "LastName": "Antal",
+            "Age": 12,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.75,
+            "ERQ_Expressive_Suppression": 0.375,
+            "SMM_G": 0.375,
+            "MAAS": 0.8571428571428571,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.6017427787359367,
+            "Inhibition": 0.90007215007215,
+            "Shifting": 0.8912067099567099,
+            "Inversion": 0.8937499999999999,
+            "Memory": 0.917906746031746
+        },
+        "Pre": {
+            "VAS": 0.01,
+            "STAI": 0.08333333333333333,
+            "PSS": 0.25
+        },
+        "Post": {
+            "VAS": 0.01,
+            "STAI": 0.2916666666666667,
+            "PSS": 0.25
+        },
+        "Other": {
+            "Threatening": 0.5,
+            "Ability": 0.75,
+            "Confident": 0.9,
+            "Engagement": 0.5,
+            "Excited": 0.5,
+            "Difficulty": 0.5
+        }
+    },
+    "525": {
+        "User_Info": {
+            "FirstName": "Alexandre",
+            "LastName": "Hurel ",
+            "Age": 11,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5416666666666666,
+            "ERQ_Expressive_Suppression": 0.25,
+            "SMM_G": 0.3125,
+            "MAAS": 0.48571428571428565,
+            "Math_Anxiety": 0.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.6665208963867063,
+            "Inhibition": 0.8422032828282828,
+            "Shifting": 0.8965342765894238,
+            "Inversion": 0.9307950191570882,
+            "Memory": 0.9180871212121213
+        },
+        "Pre": {
+            "VAS": 0.1,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.3125
+        },
+        "Post": {
+            "VAS": 0.2,
+            "STAI": 0.375,
+            "PSS": 0.1875
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 1.0,
+            "Confident": 0.9,
+            "Engagement": 0.75,
+            "Excited": 0.25,
+            "Difficulty": 0.75
+        }
+    },
+    "529": {
+        "User_Info": {
+            "FirstName": "Ion",
+            "LastName": "Cook",
+            "Age": 13,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.6666666666666666,
+            "ERQ_Expressive_Suppression": 0.5625,
+            "SMM_G": 0.28125,
+            "MAAS": 0.5,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.5521979179549801,
+            "Inhibition": 0.8345316321609425,
+            "Shifting": 0.8783459595959596,
+            "Inversion": 0.8522727272727272,
+            "Memory": 0.8562184343434344
+        },
+        "Pre": {
+            "VAS": 0.5,
+            "STAI": 0.4166666666666667,
+            "PSS": 0.4375
+        },
+        "Post": {
+            "VAS": 0.45,
+            "STAI": 0.2916666666666667,
+            "PSS": 0.375
+        },
+        "Other": {
+            "Threatening": 0.5,
+            "Ability": 0.75,
+            "Confident": 0.9,
+            "Engagement": 0.75,
+            "Excited": 0.25,
+            "Difficulty": 0.75
+        }
+    },
+    "530": {
+        "User_Info": {
+            "FirstName": "Q",
+            "LastName": "Cook",
+            "Age": 12,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5416666666666666,
+            "ERQ_Expressive_Suppression": 0.4375,
+            "SMM_G": 0.25,
+            "MAAS": 0.4714285714285714,
+            "Math_Anxiety": 0.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.6912515281528266,
+            "Inhibition": 0.8523175948447688,
+            "Shifting": 0.8427306149732618,
+            "Inversion": 0.9548611111111112,
+            "Memory": 0.8571428571428571
+        },
+        "Pre": {
+            "VAS": 0.2,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.375
+        },
+        "Post": {
+            "VAS": 0.2,
+            "STAI": 0.25,
+            "PSS": 0.25
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.75,
+            "Confident": 1.0,
+            "Engagement": 0.5,
+            "Excited": 0.25,
+            "Difficulty": 0.75
+        }
+    },
+    "531": {
+        "User_Info": {
+            "FirstName": "Karina",
+            "LastName": "Rodriguez",
+            "Age": 15,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.4166666666666667,
+            "ERQ_Expressive_Suppression": 0.5,
+            "SMM_G": 0.0625,
+            "MAAS": 0.7,
+            "Math_Anxiety": 1.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.7575788702275971,
+            "Inhibition": 0.9417594030365769,
+            "Shifting": 0.9247767857142857,
+            "Inversion": 0.96875,
+            "Memory": 0.7183875637369286
+        },
+        "Pre": {
+            "VAS": 0.41,
+            "STAI": 0.4583333333333333,
+            "PSS": 0.5
+        },
+        "Post": {
+            "VAS": 0.35,
+            "STAI": 0.4583333333333333,
+            "PSS": 0.5
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 0.75,
+            "Confident": 0.9,
+            "Engagement": 1.0,
+            "Excited": 0.0,
+            "Difficulty": 0.5
+        }
+    },
+    "533": {
+        "User_Info": {
+            "FirstName": "Alexander",
+            "LastName": "Picker",
+            "Age": 12,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.375,
+            "ERQ_Expressive_Suppression": 0.4375,
+            "SMM_G": 0.40625,
+            "MAAS": 0.4142857142857143,
+            "Math_Anxiety": 0.5
+        },
+        "CognitiveData": {
+            "Reaction": 0.7713604473107069,
+            "Inhibition": 0.9665404040404041,
+            "Shifting": 0.9482142857142857,
+            "Inversion": 0.9573863636363636,
+            "Memory": 0.9048295454545454
+        },
+        "Pre": {
+            "VAS": 0.23,
+            "STAI": 0.4166666666666667,
+            "PSS": 0.5
+        },
+        "Post": {
+            "VAS": 0.03,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.5
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 1.0,
+            "Confident": 0.9,
+            "Engagement": 0.25,
+            "Excited": 0.5,
+            "Difficulty": 0.25
+        }
+    },
+    "535": {
+        "User_Info": {
+            "FirstName": "Bront\u00eb",
+            "LastName": "Wohlleben",
+            "Age": 13,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.2916666666666667,
+            "ERQ_Expressive_Suppression": 0.5625,
+            "SMM_G": 0.34375,
+            "MAAS": 0.5,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.4821237869102224,
+            "Inhibition": 0.9017451298701299,
+            "Shifting": 0.9212256493506493,
+            "Inversion": 0.9747474747474748,
+            "Memory": 0.984375
+        },
+        "Pre": {
+            "VAS": 0.05,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.25
+        },
+        "Post": {
+            "VAS": 0.0,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.25
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 0.75,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "537": {
+        "User_Info": {
+            "FirstName": "Jason",
+            "LastName": "Russello",
+            "Age": 12,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5833333333333334,
+            "ERQ_Expressive_Suppression": 0.3125,
+            "SMM_G": 0.40625,
+            "MAAS": 0.5285714285714286,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.60163521020179,
+            "Inhibition": 0.8590352934102934,
+            "Shifting": 0.8772504701181172,
+            "Inversion": 0.770673076923077,
+            "Memory": 0.8162878787878788
+        },
+        "Pre": {
+            "VAS": 0.03,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.5
+        },
+        "Post": {
+            "VAS": 0.1,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.5
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 0.75,
+            "Confident": 0.7,
+            "Engagement": 0.75,
+            "Excited": 0.25,
+            "Difficulty": 0.75
+        }
+    },
+    "538": {
+        "User_Info": {
+            "FirstName": "Danielle",
+            "LastName": "Russello",
+            "Age": 14,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.6666666666666666,
+            "ERQ_Expressive_Suppression": 0.1875,
+            "SMM_G": 0.53125,
+            "MAAS": 0.35714285714285715,
+            "Math_Anxiety": 1.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.9057429537624605,
+            "Inhibition": 0.96257215007215,
+            "Shifting": 0.91171875,
+            "Inversion": 0.8247474747474748,
+            "Memory": 0.7911390692640692
+        },
+        "Pre": {
+            "VAS": 0.0,
+            "STAI": 0.0,
+            "PSS": 0.5
+        },
+        "Post": {
+            "VAS": 0.0,
+            "STAI": 0.0,
+            "PSS": 0.5625
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 1.0,
+            "Excited": 0.0,
+            "Difficulty": 0.75
+        }
+    },
+    "539": {
+        "User_Info": {
+            "FirstName": "Maddie",
+            "LastName": "Song",
+            "Age": 14,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.625,
+            "ERQ_Expressive_Suppression": 0.4375,
+            "SMM_G": 0.125,
+            "MAAS": 0.7857142857142857,
+            "Math_Anxiety": 0.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.5532818138869039,
+            "Inhibition": 0.8659586940836941,
+            "Shifting": 0.885011485654868,
+            "Inversion": 0.8877005347593584,
+            "Memory": 0.8238095238095238
+        },
+        "Pre": {
+            "VAS": 0.02,
+            "STAI": 0.08333333333333333,
+            "PSS": 0.125
+        },
+        "Post": {
+            "VAS": 0.04,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.125
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.75,
+            "Confident": 1.0,
+            "Engagement": 0.75,
+            "Excited": 0.5,
+            "Difficulty": 0.75
+        }
+    },
+    "540": {
+        "User_Info": {
+            "FirstName": "Claire",
+            "LastName": "Weems",
+            "Age": 12,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.6666666666666666,
+            "ERQ_Expressive_Suppression": 0.75,
+            "SMM_G": 0.375,
+            "MAAS": 0.05714285714285714,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.9602587482454279,
+            "Inhibition": 0.9541666666666667,
+            "Shifting": 0.9358766233766234,
+            "Inversion": 0.9460470085470085,
+            "Memory": 0.8754480286738351
+        },
+        "Pre": {
+            "VAS": 0.1,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.5
+        },
+        "Post": {
+            "VAS": 0.1,
+            "STAI": 0.25,
+            "PSS": 0.5
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 0.75,
+            "Excited": 0.5,
+            "Difficulty": 0.25
+        }
+    },
+    "541": {
+        "User_Info": {
+            "FirstName": "Aarush",
+            "LastName": "Maddi",
+            "Age": 12,
+            "Gender": "Male",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5,
+            "ERQ_Expressive_Suppression": 0.4375,
+            "SMM_G": 0.25,
+            "MAAS": 0.5571428571428572,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.5878773294291953,
+            "Inhibition": 0.797731626610937,
+            "Shifting": 0.8717487373737374,
+            "Inversion": 0.6631923631923631,
+            "Memory": 0.8433493589743589
+        },
+        "Pre": {
+            "VAS": 0.79,
+            "STAI": 0.16666666666666666,
+            "PSS": 0.5
+        },
+        "Post": {
+            "VAS": 0.2,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.5625
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 0.75,
+            "Confident": 0.9,
+            "Engagement": 0.75,
+            "Excited": 0.25,
+            "Difficulty": 0.25
+        }
+    },
+    "543": {
+        "User_Info": {
+            "FirstName": "Sophie",
+            "LastName": "Kang",
+            "Age": 11,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5,
+            "ERQ_Expressive_Suppression": 0.4375,
+            "SMM_G": 0.375,
+            "MAAS": 0.38571428571428573,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.5990985555547524,
+            "Inhibition": 0.9290900072150072,
+            "Shifting": 0.91890756302521,
+            "Inversion": 0.9350694444444444,
+            "Memory": 0.951388888888889
+        },
+        "Pre": {
+            "VAS": 0.65,
+            "STAI": 0.4166666666666667,
+            "PSS": 0.625
+        },
+        "Post": {
+            "VAS": 0.7,
+            "STAI": 0.5,
+            "PSS": 0.625
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 1.0,
+            "Confident": 0.8,
+            "Engagement": 0.5,
+            "Excited": 0.25,
+            "Difficulty": 0.25
+        }
+    },
+    "545": {
+        "User_Info": {
+            "FirstName": "Sophia",
+            "LastName": "Romanow",
+            "Age": 13,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.6666666666666666,
+            "ERQ_Expressive_Suppression": 0.0625,
+            "SMM_G": 0.5625,
+            "MAAS": 0.5428571428571429,
+            "Math_Anxiety": 0.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.7030752662070193,
+            "Inhibition": 0.9556482919254659,
+            "Shifting": 0.928311011904762,
+            "Inversion": 0.9541666666666666,
+            "Memory": 0.9048295454545454
+        },
+        "Pre": {
+            "VAS": 0.3,
+            "STAI": 0.4166666666666667,
+            "PSS": 0.0625
+        },
+        "Post": {
+            "VAS": 0.43,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.4375
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 1.0,
+            "Confident": 0.8,
+            "Engagement": 1.0,
+            "Excited": 0.25,
+            "Difficulty": 0.0
+        }
+    },
+    "547": {
+        "User_Info": {
+            "FirstName": "Jessica",
+            "LastName": "Meyer",
+            "Age": 11,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5416666666666666,
+            "ERQ_Expressive_Suppression": 0.3125,
+            "SMM_G": 0.125,
+            "MAAS": 0.45714285714285713,
+            "Math_Anxiety": 0.75
+        },
+        "CognitiveData": {
+            "Reaction": 0.9641336378492253,
+            "Inhibition": 0.9735054347826086,
+            "Shifting": 0.9254193722943722,
+            "Inversion": 0.984375,
+            "Memory": 0.7477678571428571
+        },
+        "Pre": {
+            "VAS": 0.03,
+            "STAI": 0.08333333333333333,
+            "PSS": 0.5625
+        },
+        "Post": {
+            "VAS": 0.45,
+            "STAI": 0.3333333333333333,
+            "PSS": 0.5625
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 1.0,
+            "Excited": 0.25,
+            "Difficulty": 0.75
+        }
+    },
+    "549": {
+        "User_Info": {
+            "FirstName": "Skye",
+            "LastName": "Bowers",
+            "Age": 12,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5833333333333334,
+            "ERQ_Expressive_Suppression": 0.125,
+            "SMM_G": 0.21875,
+            "MAAS": 0.8142857142857143,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.9426534105847284,
+            "Inhibition": 0.8146239177489177,
+            "Shifting": 0.801788576007326,
+            "Inversion": 0.8521825396825398,
+            "Memory": 0.7153759435009435
+        },
+        "Pre": {
+            "VAS": 0.03,
+            "STAI": 0.2916666666666667,
+            "PSS": 0.125
+        },
+        "Post": {
+            "VAS": 0.03,
+            "STAI": 0.5,
+            "PSS": 0.0
+        },
+        "Other": {
+            "Threatening": 0.25,
+            "Ability": 1.0,
+            "Confident": 0.8,
+            "Engagement": 0.5,
+            "Excited": 0.5,
+            "Difficulty": 0.0
+        }
+    },
+    "551": {
+        "User_Info": {
+            "FirstName": "Shannon",
+            "LastName": "Raneri",
+            "Age": 13,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "Hot"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5416666666666666,
+            "ERQ_Expressive_Suppression": 0.375,
+            "SMM_G": 0.40625,
+            "MAAS": 0.8571428571428571,
+            "Math_Anxiety": 0.0
+        },
+        "CognitiveData": {
+            "Reaction": 0.6915171738165893,
+            "Inhibition": 0.9177714646464646,
+            "Shifting": 0.8686031799083269,
+            "Inversion": 0.9343253968253967,
+            "Memory": 0.8621212121212122
+        },
+        "Pre": {
+            "VAS": 0.0,
+            "STAI": 0.20833333333333334,
+            "PSS": 0.0625
+        },
+        "Post": {
+            "VAS": 0.0,
+            "STAI": 0.125,
+            "PSS": 0.1875
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 1.0,
+            "Excited": 0.25,
+            "Difficulty": 0.5
+        }
+    },
+    "555": {
+        "User_Info": {
+            "FirstName": "Abby ",
+            "LastName": "De Buck",
+            "Age": 15,
+            "Gender": "Female",
+            "Session_1": "Cold",
+            "Session_2": "NULL"
+        },
+        "Baseline": {
+            "ERQ_Cognitive_Reappraisal": 0.5,
+            "ERQ_Expressive_Suppression": 0.8125,
+            "SMM_G": 0.375,
+            "MAAS": 0.7285714285714285,
+            "Math_Anxiety": 0.25
+        },
+        "CognitiveData": {
+            "Reaction": 0.7085663849842896,
+            "Inhibition": 0.8123156787458186,
+            "Shifting": 0.8660735618548118,
+            "Inversion": 0.9091911764705882,
+            "Memory": 0.7380952380952381
+        },
+        "Pre": {
+            "VAS": 0.01,
+            "STAI": 0.08333333333333333,
+            "PSS": 0.5625
+        },
+        "Post": {
+            "VAS": 0.01,
+            "STAI": 0.0,
+            "PSS": 0.5625
+        },
+        "Other": {
+            "Threatening": 0.0,
+            "Ability": 1.0,
+            "Confident": 1.0,
+            "Engagement": 1.0,
+            "Excited": 0.0,
+            "Difficulty": 0.25
+        }
+    }
+}
